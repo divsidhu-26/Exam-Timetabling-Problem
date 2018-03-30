@@ -165,7 +165,7 @@ class stage_1_uns_swap{
 				return false;
 			}
 		}																//if there is a student who has an exam in the same period return false
-		if(period[i].session == 0 && i<99 && period[i+1].session == 1){
+		if(period[i].session == 0 && i<99 && period[i+1].session == 1){		//if the period is in the morning session
 			List<Exam> nextperiod = new ArrayList(period[i+1].exams);
 			Iterator<Exam> iter_nextperiod = nextperiod.iterator();
 			while(iter_nextperiod.hasNext()){
@@ -177,7 +177,7 @@ class stage_1_uns_swap{
 					return false;
 				}
 			}//System.out.print(res+" ");
-		}																//if there is a period
+		}																//if the period is in the evening session
 		else if(period[i].session == 2){
 			List<Exam> lastperiod = new ArrayList(period[i-1].exams);
 			Iterator<Exam> iter_lastperiod = lastperiod.iterator();
@@ -191,8 +191,8 @@ class stage_1_uns_swap{
 				}
 			}//System.out.print(res+" ");
 		}
-		else if(period[i].session == 1){
-			List<Exam> nextperiod = new ArrayList(period[i+1].exams);
+		else if(period[i].session == 1){								//if the period is in the afternooon session
+			List<Exam> nextperiod = new ArrayList(period[i+1].exams);		//check if period in the evening session has conflicting exams
 			Iterator<Exam> iter_nextperiod = nextperiod.iterator();
 			while(iter_nextperiod.hasNext()){
 				Exam dummynext = iter_nextperiod.next();
@@ -205,7 +205,7 @@ class stage_1_uns_swap{
 			}
 		//	System.out.println(i);
 
-			List<Exam> lastperiod = new ArrayList(period[i-1].exams);
+			List<Exam> lastperiod = new ArrayList(period[i-1].exams);	//check if period in the morning session has conflicting exams
 			Iterator<Exam> iter_lastperiod = lastperiod.iterator();
 			while(iter_lastperiod.hasNext()){
 				Exam dummylast = iter_lastperiod.next();
@@ -225,14 +225,14 @@ class stage_1_uns_swap{
 		int res = 0;
 		List<Exam> dummy_exam = new ArrayList(period[i].exams);
 		Iterator<Exam> iter_period = (dummy_exam).iterator();
-		while(iter_period.hasNext()){
+		while(iter_period.hasNext()){										
 			Exam thisone = iter_period.next();
 			if(thisone.identifier.equals(tobeputintable.identifier)){
 				continue;
 			}
 			if(compare_students(thisone,tobeputintable)){
 				res += 100000000;
-			}
+			}														//if exam in same period has conflicting exam, increase penalty to infinity
 		}
 		if(period[i].session == 0 && i<99 && period[i+1].session == 1){
 			List<Exam> nextperiod = new ArrayList(period[i+1].exams);
@@ -245,7 +245,7 @@ class stage_1_uns_swap{
 				if(compare_students(dummynext,tobeputintable)){
 					res += compare_students_num(dummynext,tobeputintable);
 				}
-			}//System.out.print(res+" ");
+			}//System.out.print(res+" ");							//count number of conflicting exams if exam in morning session
 		}
 		if(period[i].session == 2){
 			List<Exam> lastperiod = new ArrayList(period[i-1].exams);
@@ -258,9 +258,9 @@ class stage_1_uns_swap{
 				if(compare_students(dummylast,tobeputintable)){
 					res += compare_students_num(dummylast,tobeputintable);
 				}
-			}//System.out.print(res+" ");
+			}//System.out.print(res+" ");							//count number of conflicting exams if exam in evening session
 		}
-		if(period[i].session == 1){
+		if(period[i].session == 1){									//if in afternoon session
 			List<Exam> nextperiod = new ArrayList(period[i+1].exams);
 			Iterator<Exam> iter_nextperiod = nextperiod.iterator();
 			while(iter_nextperiod.hasNext()){
@@ -271,7 +271,7 @@ class stage_1_uns_swap{
 				if(compare_students(dummynext,tobeputintable)){
 					res += compare_students_num(dummynext,tobeputintable);
 				}
-			}
+			}														//count number in evening session
 			List<Exam> lastperiod = new ArrayList(period[i-1].exams);
 			Iterator<Exam> iter_lastperiod = lastperiod.iterator();
 			while(iter_lastperiod.hasNext()){
@@ -282,7 +282,7 @@ class stage_1_uns_swap{
 				if(compare_students(dummylast,tobeputintable)){
 					res += compare_students_num(dummylast,tobeputintable);
 				}
-			}//System.out.print(res+" ");
+			}//System.out.print(res+" ");							//count number in morning session
 		}
 
 		return res;
@@ -290,7 +290,7 @@ class stage_1_uns_swap{
 
 	public static int find_total_conflicts(Period[] period,int start,int end){
 		int res = 0;
-		for(int i=start;i<end;i++){
+		for(int i=start;i<end;i++){									//count number of total students who have exam in same period
 			List<Exam> dummy_exam = new ArrayList(period[i].exams);
 			Iterator<Exam> iter_period = (dummy_exam).iterator();
 			while(iter_period.hasNext()){
@@ -300,7 +300,7 @@ class stage_1_uns_swap{
 					Iterator<Exam> it = exams.iterator();
 					while(it.hasNext()){
 						Exam a = it.next();
-						res += compare_students_num(a,test);
+						res += compare_students_num(a,test);		//counts number of students in exams in session after this one
 					}
 				}
 				if(period[i].session > 0){
@@ -309,7 +309,7 @@ class stage_1_uns_swap{
 					while(it.hasNext()){
 						Exam a = it.next();
 						res += compare_students_num(a,test);
-					}
+					}												//counts number of students in exams in session before this one
 				}
 			}	
 	//	System.out.println(res+" "+i);
@@ -327,7 +327,7 @@ class stage_1_uns_swap{
 			if(compare_students(a,test))	res++;
 		}
 		return res;	
-	}
+	}														//computes number of students who have a exam and also an exam in period[i]
 
 	public static void main(String[] args){
 		long startTime   = System.currentTimeMillis();
