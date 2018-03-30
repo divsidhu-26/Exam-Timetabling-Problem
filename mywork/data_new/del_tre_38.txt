@@ -1,0 +1,1599 @@
+43 periods have been filled in the initialization.
+Period 0:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0031; 0056; 0075; 0079; 0089; 0124; 0131; 0135; 0141; 0145; 0164; 0166; 0172; 0177; 0178; 0185; 0186; 0195; 0198; 0209; 0225; 0251; 0259; 
+Room No. 5 : 0001; 0004; 0012; 0016; 0020; 0026; 0028; 0042; 0048; 0060; 0062; 
+34
+Period 1:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+34
+Period 2:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 0238; 
+Room No. 4 : 0011; 0222; 0232; 0235; 
+Room No. 5 : 0002; 0008; 0017; 0021; 0022; 0032; 0040; 0043; 0045; 0054; 0058; 0061; 0066; 0071; 0077; 0090; 0137; 0147; 0152; 0162; 0169; 0179; 0181; 0191; 0197; 0200; 
+65
+Period 3:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0098; 0125; 0148; 0228; 0236; 0240; 0244; 
+Room No. 5 : 0003; 0009; 0013; 0023; 0024; 0027; 0029; 0039; 0047; 0057; 0067; 0070; 0076; 0085; 0097; 0134; 0138; 
+89
+Period 4:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+89
+Period 5:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0126; 0149; 0157; 0163; 0208; 0249; 
+Room No. 5 : 0005; 0014; 0033; 0044; 0052; 0065; 0078; 0080; 0102; 0118; 0119; 0136; 0241; 0261; 
+109
+Period 6:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0091; 0146; 0202; 0213; 0237; 0242; 
+Room No. 5 : 0006; 0015; 0035; 0046; 0049; 0050; 0073; 
+122
+Period 7:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+122
+Period 8:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0150; 0182; 0243; 0252; 
+Room No. 5 : 0007; 0018; 0025; 0034; 0036; 0041; 0069; 0074; 0081; 0105; 0112; 0121; 0122; 0199; 
+140
+Period 9:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0193; 
+Room No. 5 : 0010; 0019; 0030; 0059; 0082; 0101; 0130; 0207; 0239; 
+150
+Period 10:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+150
+Period 11:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0104; 0133; 0151; 0183; 0196; 0223; 0254; 0257; 
+Room No. 5 : 0037; 0038; 0068; 0086; 0096; 0128; 
+164
+Period 12:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0129; 0158; 
+Room No. 5 : 0051; 0053; 0064; 0083; 0099; 0142; 
+172
+Period 13:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+172
+Period 14:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0055; 0084; 0095; 0106; 0113; 0132; 0165; 0224; 0258; 
+181
+Period 15:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0063; 0100; 0123; 0143; 0170; 0229; 
+187
+Period 16:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0072; 0107; 0127; 0205; 0218; 
+192
+Period 17:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+192
+Period 18:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0211; 0217; 0231; 0248; 
+Room No. 5 : 0087; 0094; 0108; 0114; 0116; 
+201
+Period 19:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0115; 
+Room No. 5 : 0088; 0103; 0117; 0194; 0206; 0227; 
+208
+Period 20:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+208
+Period 21:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0250; 
+Room No. 5 : 0092; 0111; 0139; 0160; 0176; 
+214
+Period 22:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0093; 0109; 0140; 0174; 0212; 
+219
+Period 23:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+219
+Period 24:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0110; 0120; 0155; 0171; 0173; 0221; 
+225
+Period 25:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0144; 0153; 0161; 0190; 0233; 0255; 
+231
+Period 26:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+231
+Period 27:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0189; 
+Room No. 5 : 0154; 0156; 0180; 
+235
+Period 28:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0159; 0167; 0175; 0184; 0226; 
+240
+Period 29:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+240
+Period 30:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0168; 0187; 0201; 0230; 
+244
+Period 31:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0188; 
+245
+Period 32:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0216; 
+Room No. 5 : 0192; 0203; 
+248
+Period 33:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+248
+Period 34:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0204; 0215; 
+250
+Period 35:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0210; 0234; 0247; 
+253
+Period 36:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+253
+Period 37:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0214; 0219; 
+255
+Period 38:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0220; 
+256
+Period 39:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+256
+Period 40:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0245; 0246; 0253; 
+259
+Period 41:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0256; 
+260
+Period 42:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+260
+Period 43:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0260; 
+261
+112 464 0
+0 0001
+0 0004
+0 0012
+0 0016
+0 0020
+0 0026
+0 0028
+0 0031
+0 0042
+0 0048
+0 0056
+0 0060
+0 0062
+0 0075
+0 0079
+0 0089
+0 0124
+0 0131
+0 0135
+0 0141
+0 0145
+0 0164
+0 0166
+0 0172
+0 0177
+0 0178
+0 0185
+0 0186
+0 0195
+0 0198
+0 0209
+0 0225
+0 0251
+0 0259
+THERE 0
+THERE 1
+2 0002
+2 0008
+2 0011
+2 0017
+2 0021
+2 0022
+2 0032
+2 0040
+2 0043
+2 0045
+2 0054
+2 0058
+2 0061
+2 0066
+2 0071
+2 0077
+2 0090
+2 0137
+2 0147
+2 0152
+2 0162
+2 0169
+2 0179
+2 0181
+2 0191
+2 0197
+2 0200
+2 0222
+2 0232
+2 0235
+2 0238
+THERE 2
+3 0003
+3 0009
+3 0013
+3 0023
+3 0024
+3 0027
+3 0029
+3 0039
+3 0047
+3 0057
+3 0067
+3 0070
+3 0076
+3 0085
+3 0097
+3 0098
+3 0125
+3 0134
+3 0138
+3 0148
+3 0228
+3 0236
+3 0240
+3 0244
+THERE 3
+THERE 4
+5 0005
+5 0014
+5 0033
+5 0044
+5 0052
+5 0065
+5 0078
+5 0080
+5 0102
+5 0118
+5 0119
+5 0126
+5 0136
+5 0149
+5 0157
+5 0163
+5 0208
+5 0241
+5 0249
+5 0261
+THERE 5
+0006 is added to period 34 penalty is 0
+0015 is added to period 27 penalty is 0
+6 0035
+0046 is added to period 37 penalty is 0
+6 0049
+0050 stays where it is. penalty is 1
+6 0073
+6 0091
+6 0146
+6 0202
+0213 is added to period 24 penalty is 0
+6 0237
+6 0242
+THERE 6
+0260 stays where it is. penalty is 7
+THERE 7
+8 0007
+8 0018
+8 0025
+8 0034
+8 0036
+8 0041
+8 0069
+8 0074
+8 0081
+0105 is added to period 34 penalty is 0
+8 0112
+8 0121
+0122 is added to period 16 penalty is 0
+8 0150
+8 0182
+0199 is added to period 9 penalty is 0
+8 0243
+0252 is added to period 9 penalty is 0
+THERE 8
+9 0010
+9 0019
+9 0030
+9 0059
+9 0082
+9 0101
+9 0130
+9 0193
+9 0207
+9 0239
+9 0199
+9 0252
+THERE 9
+THERE 10
+11 0037
+11 0038
+11 0068
+11 0086
+11 0096
+11 0104
+11 0128
+11 0133
+11 0151
+11 0183
+11 0196
+11 0223
+11 0254
+11 0257
+THERE 11
+0051 stays where it is. penalty is 1
+0053 is added to period 30 penalty is 1
+12 0064
+0083 is added to period 37 penalty is 0
+0099 stays where it is. penalty is 2
+0129 is added to period 20 penalty is 5
+12 0142
+12 0158
+THERE 12
+0245 stays where it is. penalty is 5
+0246 stays where it is. penalty is 21
+THERE 13
+14 0055
+0084 stays where it is. penalty is 1
+0095 is added to period 17 penalty is 14
+14 0106
+14 0113
+14 0132
+14 0165
+14 0224
+0258 is added to period 21 penalty is 0
+THERE 14
+0063 is added to period 27 penalty is 0
+0100 is added to period 31 penalty is 0
+0123 is added to period 36 penalty is 5
+15 0143
+0170 is added to period 19 penalty is 0
+15 0229
+THERE 15
+0072 is added to period 15 penalty is 0
+0107 is added to period 15 penalty is 0
+16 0127
+0205 is added to period 15 penalty is 0
+0218 is added to period 15 penalty is 0
+0122 is added to period 15 penalty is 0
+THERE 16
+0095 is added to period 16 penalty is 0
+THERE 17
+18 0087
+18 0094
+18 0108
+18 0114
+18 0116
+18 0211
+18 0217
+18 0231
+18 0248
+THERE 18
+19 0088
+19 0103
+0115 stays where it is. penalty is 3
+19 0117
+0194 is added to period 8 penalty is 0
+19 0206
+19 0227
+19 0170
+THERE 19
+0129 stays where it is. penalty is 4
+THERE 20
+21 0092
+21 0111
+0139 stays where it is. penalty is 1
+21 0160
+21 0176
+21 0250
+21 0258
+THERE 21
+0093 is added to period 16 penalty is 0
+0109 stays where it is. penalty is 4
+22 0140
+0174 stays where it is. penalty is 7
+22 0212
+THERE 22
+0256 stays where it is. penalty is 13
+THERE 23
+24 0110
+0120 stays where it is. penalty is 1
+24 0155
+24 0171
+0173 stays where it is. penalty is 1
+24 0221
+24 0213
+THERE 24
+0144 is added to period 16 penalty is 0
+25 0153
+25 0161
+25 0190
+25 0233
+25 0255
+THERE 25
+0253 is added to period 25 penalty is 0
+THERE 26
+27 0154
+27 0156
+27 0180
+27 0189
+27 0015
+27 0063
+THERE 27
+0159 is added to period 31 penalty is 0
+0167 stays where it is. penalty is 10
+0175 is added to period 31 penalty is 1
+0184 stays where it is. penalty is 2
+0226 is added to period 35 penalty is 0
+THERE 28
+0220 stays where it is. penalty is 34
+THERE 29
+0168 is added to period 7 penalty is 7
+0187 stays where it is. penalty is 3
+30 0201
+0230 is added to period 37 penalty is 0
+0053 stays where it is. penalty is 1
+THERE 30
+0188 is added to period 4 penalty is 31
+31 0100
+31 0159
+0175 stays where it is. penalty is 1
+THERE 31
+32 0192
+32 0203
+32 0216
+THERE 32
+THERE 33
+34 0204
+34 0215
+34 0006
+34 0105
+THERE 34
+0210 is added to period 28 penalty is 1
+35 0234
+0247 stays where it is. penalty is 1
+35 0226
+THERE 35
+0123 stays where it is. penalty is 3
+THERE 36
+0214 stays where it is. penalty is 2
+37 0219
+37 0046
+37 0083
+37 0230
+THERE 37
+HERE
+340 112
+0 0001
+0 0004
+0 0012
+0 0016
+0 0020
+0 0026
+0 0028
+0 0031
+0 0042
+0 0048
+0 0056
+0 0060
+0 0062
+0 0075
+0 0079
+0 0089
+0 0124
+0 0131
+0 0135
+0 0141
+0 0145
+0 0164
+0 0166
+0 0172
+0 0177
+0 0178
+0 0185
+0 0186
+0 0195
+0 0198
+0 0209
+0 0225
+0 0251
+0 0259
+THERE 0
+THERE 1
+2 0002
+2 0008
+2 0011
+2 0017
+2 0021
+2 0022
+2 0032
+2 0040
+2 0043
+2 0045
+2 0054
+2 0058
+2 0061
+2 0066
+2 0071
+2 0077
+2 0090
+2 0137
+2 0147
+2 0152
+2 0162
+2 0169
+2 0179
+2 0181
+2 0191
+2 0197
+2 0200
+2 0222
+2 0232
+2 0235
+2 0238
+THERE 2
+3 0003
+3 0009
+0013 stays where it is. penalty is 4
+3 0023
+3 0024
+0027 is added to period 27 penalty is 0
+3 0029
+3 0039
+0047 stays where it is. penalty is 1
+3 0057
+3 0067
+0070 is added to period 35 penalty is 0
+3 0076
+3 0085
+3 0097
+0098 stays where it is. penalty is 1
+3 0125
+3 0134
+3 0138
+3 0148
+3 0228
+3 0236
+3 0240
+3 0244
+THERE 3
+0188 stays where it is. penalty is 21
+THERE 4
+5 0005
+5 0014
+5 0033
+0044 is added to period 35 penalty is 3
+5 0052
+0065 is added to period 12 penalty is 0
+5 0078
+5 0080
+5 0102
+5 0118
+5 0119
+0126 is added to period 27 penalty is 0
+5 0136
+5 0149
+0157 stays where it is. penalty is 2
+5 0163
+5 0208
+5 0241
+0249 stays where it is. penalty is 1
+5 0261
+THERE 5
+6 0035
+0049 is added to period 25 penalty is 0
+0050 stays where it is. penalty is 1
+6 0073
+6 0091
+6 0146
+0202 is added to period 16 penalty is 0
+6 0237
+6 0242
+THERE 6
+0260 is added to period 8 penalty is 0
+0168 is added to period 6 penalty is 0
+THERE 7
+8 0007
+8 0018
+8 0025
+8 0034
+8 0036
+8 0041
+8 0069
+8 0074
+8 0081
+8 0112
+8 0121
+8 0150
+8 0182
+8 0243
+8 0194
+8 0260
+THERE 8
+9 0010
+9 0019
+9 0030
+9 0059
+9 0082
+9 0101
+9 0130
+9 0193
+9 0207
+9 0239
+9 0199
+9 0252
+THERE 9
+THERE 10
+11 0037
+11 0038
+11 0068
+11 0086
+11 0096
+11 0104
+11 0128
+11 0133
+11 0151
+11 0183
+11 0196
+11 0223
+11 0254
+11 0257
+THERE 11
+0051 stays where it is. penalty is 1
+12 0064
+0099 stays where it is. penalty is 2
+12 0142
+12 0158
+12 0065
+THERE 12
+0245 stays where it is. penalty is 3
+0246 is added to period 14 penalty is 0
+THERE 13
+14 0055
+0084 stays where it is. penalty is 1
+14 0106
+14 0113
+14 0132
+14 0165
+14 0224
+14 0246
+THERE 14
+0143 is added to period 32 penalty is 0
+0229 is added to period 22 penalty is 0
+0072 stays where it is. penalty is 11
+0107 is added to period 6 penalty is 0
+0205 is added to period 21 penalty is 0
+0218 stays where it is. penalty is 2
+0122 is added to period 3 penalty is 1
+THERE 15
+16 0127
+16 0095
+16 0093
+16 0144
+16 0202
+THERE 16
+THERE 17
+18 0087
+18 0094
+18 0108
+18 0114
+18 0116
+18 0211
+18 0217
+18 0231
+18 0248
+THERE 18
+19 0088
+19 0103
+0115 stays where it is. penalty is 3
+19 0117
+19 0206
+19 0227
+19 0170
+THERE 19
+0129 stays where it is. penalty is 4
+THERE 20
+21 0092
+21 0111
+0139 stays where it is. penalty is 1
+21 0160
+21 0176
+21 0250
+21 0258
+21 0205
+THERE 21
+0109 stays where it is. penalty is 4
+22 0140
+0174 is added to period 28 penalty is 1
+22 0212
+22 0229
+THERE 22
+0256 stays where it is. penalty is 6
+THERE 23
+24 0110
+0120 stays where it is. penalty is 1
+24 0155
+24 0171
+0173 stays where it is. penalty is 1
+24 0221
+24 0213
+THERE 24
+25 0153
+25 0161
+25 0190
+25 0233
+25 0255
+25 0253
+25 0049
+THERE 25
+THERE 26
+27 0154
+27 0156
+27 0180
+27 0189
+27 0015
+27 0063
+27 0027
+27 0126
+THERE 27
+0167 stays where it is. penalty is 10
+0184 stays where it is. penalty is 2
+0210 stays where it is. penalty is 1
+0174 stays where it is. penalty is 1
+THERE 28
+0220 stays where it is. penalty is 18
+THERE 29
+0187 stays where it is. penalty is 3
+30 0201
+0053 stays where it is. penalty is 1
+THERE 30
+31 0100
+0159 is added to period 35 penalty is 0
+0175 stays where it is. penalty is 1
+THERE 31
+32 0192
+32 0203
+32 0216
+32 0143
+THERE 32
+THERE 33
+34 0204
+34 0215
+34 0006
+34 0105
+THERE 34
+35 0234
+0247 stays where it is. penalty is 1
+35 0226
+35 0070
+0044 stays where it is. penalty is 3
+35 0159
+THERE 35
+0123 stays where it is. penalty is 6
+THERE 36
+0214 stays where it is. penalty is 2
+37 0219
+37 0046
+37 0083
+37 0230
+THERE 37
+HERE
+332 340
+0 0001
+0 0004
+0 0012
+0 0016
+0 0020
+0 0026
+0 0028
+0 0031
+0 0042
+0 0048
+0 0056
+0 0060
+0 0062
+0 0075
+0 0079
+0 0089
+0 0124
+0 0131
+0 0135
+0 0141
+0 0145
+0 0164
+0 0166
+0 0172
+0 0177
+0 0178
+0 0185
+0 0186
+0 0195
+0 0198
+0 0209
+0 0225
+0 0251
+0 0259
+THERE 0
+THERE 1
+2 0002
+2 0008
+2 0011
+2 0017
+2 0021
+2 0022
+2 0032
+2 0040
+2 0043
+2 0045
+2 0054
+2 0058
+2 0061
+2 0066
+2 0071
+2 0077
+2 0090
+2 0137
+2 0147
+2 0152
+2 0162
+2 0169
+2 0179
+2 0181
+2 0191
+2 0197
+2 0200
+2 0222
+2 0232
+2 0235
+2 0238
+THERE 2
+3 0003
+3 0009
+0013 stays where it is. penalty is 4
+3 0023
+3 0024
+3 0029
+3 0039
+0047 stays where it is. penalty is 1
+3 0057
+3 0067
+3 0076
+3 0085
+3 0097
+0098 stays where it is. penalty is 1
+3 0125
+3 0134
+3 0138
+3 0148
+3 0228
+3 0236
+3 0240
+3 0244
+0122 stays where it is. penalty is 1
+THERE 3
+0188 stays where it is. penalty is 10
+THERE 4
+5 0005
+5 0014
+5 0033
+5 0052
+5 0078
+5 0080
+5 0102
+5 0118
+5 0119
+5 0136
+5 0149
+0157 stays where it is. penalty is 2
+5 0163
+5 0208
+5 0241
+0249 stays where it is. penalty is 1
+5 0261
+THERE 5
+6 0035
+6 0050
+6 0073
+6 0091
+6 0146
+6 0237
+6 0242
+6 0168
+6 0107
+THERE 6
+THERE 7
+8 0007
+8 0018
+8 0025
+8 0034
+8 0036
+8 0041
+8 0069
+8 0074
+8 0081
+8 0112
+8 0121
+8 0150
+8 0182
+8 0243
+8 0194
+8 0260
+THERE 8
+9 0010
+9 0019
+9 0030
+9 0059
+9 0082
+9 0101
+9 0130
+9 0193
+9 0207
+9 0239
+9 0199
+9 0252
+THERE 9
+THERE 10
+11 0037
+11 0038
+11 0068
+11 0086
+11 0096
+11 0104
+11 0128
+11 0133
+11 0151
+11 0183
+11 0196
+11 0223
+11 0254
+11 0257
+THERE 11
+0051 stays where it is. penalty is 1
+12 0064
+0099 stays where it is. penalty is 1
+12 0142
+12 0158
+12 0065
+THERE 12
+0245 stays where it is. penalty is 3
+THERE 13
+14 0055
+0084 stays where it is. penalty is 1
+14 0106
+14 0113
+14 0132
+14 0165
+14 0224
+14 0246
+THERE 14
+0072 stays where it is. penalty is 11
+0218 stays where it is. penalty is 2
+THERE 15
+16 0127
+16 0095
+16 0093
+16 0144
+16 0202
+THERE 16
+THERE 17
+18 0087
+18 0094
+18 0108
+18 0114
+18 0116
+18 0211
+18 0217
+18 0231
+18 0248
+THERE 18
+19 0088
+19 0103
+0115 stays where it is. penalty is 3
+19 0117
+19 0206
+19 0227
+19 0170
+THERE 19
+0129 stays where it is. penalty is 4
+THERE 20
+21 0092
+21 0111
+0139 stays where it is. penalty is 1
+21 0160
+21 0176
+21 0250
+21 0258
+21 0205
+THERE 21
+0109 stays where it is. penalty is 4
+22 0140
+22 0212
+22 0229
+THERE 22
+0256 stays where it is. penalty is 6
+THERE 23
+24 0110
+0120 stays where it is. penalty is 1
+24 0155
+24 0171
+0173 stays where it is. penalty is 1
+24 0221
+24 0213
+THERE 24
+25 0153
+25 0161
+25 0190
+25 0233
+25 0255
+25 0253
+25 0049
+THERE 25
+THERE 26
+27 0154
+27 0156
+27 0180
+27 0189
+27 0015
+27 0063
+27 0027
+27 0126
+THERE 27
+0167 stays where it is. penalty is 10
+0184 stays where it is. penalty is 2
+0210 stays where it is. penalty is 1
+0174 stays where it is. penalty is 1
+THERE 28
+0220 stays where it is. penalty is 18
+THERE 29
+0187 stays where it is. penalty is 3
+30 0201
+0053 stays where it is. penalty is 1
+THERE 30
+31 0100
+0175 stays where it is. penalty is 1
+THERE 31
+32 0192
+32 0203
+32 0216
+32 0143
+THERE 32
+THERE 33
+34 0204
+34 0215
+34 0006
+34 0105
+THERE 34
+35 0234
+0247 stays where it is. penalty is 1
+35 0226
+35 0070
+0044 stays where it is. penalty is 3
+35 0159
+THERE 35
+0123 stays where it is. penalty is 6
+THERE 36
+0214 stays where it is. penalty is 2
+37 0219
+37 0046
+37 0083
+37 0230
+THERE 37
+HERE
+332 332
+332 664
+Period 0:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0031; 0056; 0075; 0079; 0089; 0124; 0131; 0135; 0141; 0145; 0164; 0166; 0172; 0177; 0178; 0185; 0186; 0195; 0198; 0209; 0225; 0251; 0259; 
+Room No. 5 : 0001; 0004; 0012; 0016; 0020; 0026; 0028; 0042; 0048; 0060; 0062; 
+34
+Period 1:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+34
+Period 2:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 0238; 
+Room No. 4 : 0011; 0222; 0232; 0235; 
+Room No. 5 : 0002; 0008; 0017; 0021; 0022; 0032; 0040; 0043; 0045; 0054; 0058; 0061; 0066; 0071; 0077; 0090; 0137; 0147; 0152; 0162; 0169; 0179; 0181; 0191; 0197; 0200; 
+65
+Period 3:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0098; 0125; 0148; 0228; 0236; 0240; 0244; 
+Room No. 5 : 0003; 0009; 0013; 0023; 0024; 0029; 0039; 0047; 0057; 0067; 0076; 0085; 0097; 0134; 0138; 0122; 
+88
+Period 4:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0188; 
+89
+Period 5:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0149; 0157; 0163; 0208; 0249; 
+Room No. 5 : 0005; 0014; 0033; 0052; 0078; 0080; 0102; 0118; 0119; 0136; 0241; 0261; 
+106
+Period 6:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0091; 0146; 0237; 0242; 
+Room No. 5 : 0035; 0050; 0073; 0168; 0107; 
+115
+Period 7:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+115
+Period 8:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0150; 0182; 0243; 0260; 
+Room No. 5 : 0007; 0018; 0025; 0034; 0036; 0041; 0069; 0074; 0081; 0112; 0121; 0194; 
+131
+Period 9:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0193; 
+Room No. 5 : 0010; 0019; 0030; 0059; 0082; 0101; 0130; 0207; 0239; 0199; 0252; 
+143
+Period 10:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+143
+Period 11:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0104; 0133; 0151; 0183; 0196; 0223; 0254; 0257; 
+Room No. 5 : 0037; 0038; 0068; 0086; 0096; 0128; 
+157
+Period 12:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0158; 
+Room No. 5 : 0051; 0064; 0099; 0142; 0065; 
+163
+Period 13:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0245; 
+164
+Period 14:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0246; 
+Room No. 5 : 0055; 0084; 0106; 0113; 0132; 0165; 0224; 
+172
+Period 15:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0072; 0218; 
+174
+Period 16:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0127; 0095; 0093; 0144; 0202; 
+179
+Period 17:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+179
+Period 18:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0211; 0217; 0231; 0248; 
+Room No. 5 : 0087; 0094; 0108; 0114; 0116; 
+188
+Period 19:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0115; 
+Room No. 5 : 0088; 0103; 0117; 0206; 0227; 0170; 
+195
+Period 20:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0129; 
+196
+Period 21:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0250; 0258; 0205; 
+Room No. 5 : 0092; 0111; 0139; 0160; 0176; 
+204
+Period 22:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0109; 0140; 0212; 0229; 
+208
+Period 23:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0256; 
+209
+Period 24:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0110; 0120; 0155; 0171; 0173; 0221; 0213; 
+216
+Period 25:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0153; 0161; 0190; 0233; 0255; 0253; 0049; 
+223
+Period 26:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+223
+Period 27:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0189; 0015; 0063; 0027; 0126; 
+Room No. 5 : 0154; 0156; 0180; 
+231
+Period 28:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0167; 0184; 0210; 0174; 
+235
+Period 29:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0220; 
+236
+Period 30:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0053; 
+Room No. 5 : 0187; 0201; 
+239
+Period 31:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0100; 0175; 
+241
+Period 32:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0216; 
+Room No. 5 : 0192; 0203; 0143; 
+245
+Period 33:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 
+245
+Period 34:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0006; 0105; 
+Room No. 5 : 0204; 0215; 
+249
+Period 35:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0234; 0247; 0226; 0070; 0044; 0159; 
+255
+Period 36:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 
+Room No. 5 : 0123; 
+256
+Period 37:
+Room No. 0 : 
+Room No. 1 : 
+Room No. 2 : 
+Room No. 3 : 
+Room No. 4 : 0046; 0083; 0230; 
+Room No. 5 : 0214; 0219; 
+261
+unscheduled_exams : 0 332
+332

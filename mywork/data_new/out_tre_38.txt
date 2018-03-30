@@ -1,0 +1,266 @@
+Period 0:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0031;0056;0075;0079;0089;0124;0131;0135;0141;0145;0164;0166;0172;0177;0178;0185;0186;0195;0198;0209;0225;0251;0259;
+Room No. 5 :0001;0004;0012;0016;0020;0026;0028;0042;0048;0060;0062;
+Period 1:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :
+Period 2:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :0238;
+Room No. 4 :0011;0222;0232;0235;
+Room No. 5 :0002;0008;0017;0021;0022;0032;0040;0043;0045;0054;0058;0061;0066;0071;0077;0090;0137;0147;0152;0162;0169;0179;0181;0191;0197;0200;
+Period 3:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0098;0125;0148;0228;0236;0240;0244;
+Room No. 5 :0003;0009;0013;0023;0024;0029;0039;0047;0057;0067;0076;0085;0097;0134;0138;0122;
+Period 4:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0188;
+Period 5:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0149;0157;0163;0208;0249;
+Room No. 5 :0005;0014;0033;0052;0078;0080;0102;0118;0119;0136;0241;0261;
+Period 6:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0091;0146;0237;0242;
+Room No. 5 :0035;0050;0073;0168;0107;
+Period 7:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :
+Period 8:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0150;0182;0243;0260;
+Room No. 5 :0007;0018;0025;0034;0036;0041;0069;0074;0081;0112;0121;0194;
+Period 9:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0193;
+Room No. 5 :0010;0019;0030;0059;0082;0101;0130;0207;0239;0199;0252;
+Period 10:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :
+Period 11:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0104;0133;0151;0183;0196;0223;0254;0257;
+Room No. 5 :0037;0038;0068;0086;0096;0128;
+Period 12:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0158;
+Room No. 5 :0051;0064;0099;0142;0065;
+Period 13:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0245;
+Period 14:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0246;
+Room No. 5 :0055;0084;0106;0113;0132;0165;0224;
+Period 15:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0072;0218;
+Period 16:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0127;0095;0093;0144;0202;
+Period 17:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :
+Period 18:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0211;0217;0231;0248;
+Room No. 5 :0087;0094;0108;0114;0116;
+Period 19:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0115;
+Room No. 5 :0088;0103;0117;0206;0227;0170;
+Period 20:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0129;
+Period 21:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0250;0258;0205;
+Room No. 5 :0092;0111;0139;0160;0176;
+Period 22:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0109;0140;0212;0229;
+Period 23:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0256;
+Period 24:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0110;0120;0155;0171;0173;0221;0213;
+Period 25:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0153;0161;0190;0233;0255;0253;0049;
+Period 26:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :
+Period 27:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0189;0015;0063;0027;0126;
+Room No. 5 :0154;0156;0180;
+Period 28:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0167;0184;0210;0174;
+Period 29:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0220;
+Period 30:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0053;
+Room No. 5 :0187;0201;
+Period 31:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0100;0175;
+Period 32:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0216;
+Room No. 5 :0192;0203;0143;
+Period 33:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :
+Period 34:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0006;0105;
+Room No. 5 :0204;0215;
+Period 35:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0234;0247;0226;0070;0044;0159;
+Period 36:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :
+Room No. 5 :0123;
+Period 37:
+Room No. 0 :
+Room No. 1 :
+Room No. 2 :
+Room No. 3 :
+Room No. 4 :0046;0083;0230;
+Room No. 5 :0214;0219;

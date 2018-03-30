@@ -1,0 +1,9560 @@
+Room No. 0 :0256;0013;0083;0234;0229;405 7
+Room No. 0 :0256;0013;0083;0234;0229;405 sad Room No. 0  asd 6
+Room No. 1 :0248;0150;95 4
+Room No. 1 :0248;0150;95 sad Room No. 1  asd 3
+Room No. 2 :0250;37 3
+Room No. 2 :0250;37 sad Room No. 2  asd 2
+Room No. 3 :0 2
+Room No. 3 :0 sad Room No. 3  asd 1
+Room No. 4 :0 2
+Room No. 4 :0 sad Room No. 4  asd 1
+Room No. 5 :0 2
+Room No. 5 :0 sad Room No. 5  asd 1
+Student 0: 
+16 
+Student 1: 
+6 
+Student 2: 
+0 
+Student 3: 
+4 
+Student 4: 
+8 
+Student 5: 
+4 
+Student 6: 
+0 14 21 24 31 
+Student 7: 
+11 
+Student 8: 
+6 7  sd 7 y 1 6 8
+15 18 25 
+Student 9: 
+8 21 
+Student 10: 
+1 27 
+Student 11: 
+27 
+Student 12: 
+17 25 31 
+Student 13: 
+0 
+Student 14: 
+6 7  sd 7 y 2 6 14
+10 25 
+Student 15: 
+27 
+Student 16: 
+8 22 
+Student 17: 
+6 
+Student 18: 
+12 16 17  sd 17 y 3 16 18
+
+Student 19: 
+14 25 27 30 
+Student 20: 
+16 
+Student 21: 
+3 
+Student 22: 
+11 27 
+Student 23: 
+2 24 24  saa 24 24 23
+
+Student 24: 
+9 
+Student 25: 
+9 
+Student 26: 
+19 
+Student 27: 
+11 
+Student 28: 
+6 
+Student 29: 
+4 14 
+Student 30: 
+12 28 
+Student 31: 
+24 
+Student 32: 
+4 
+Student 33: 
+15 19 25 
+Student 34: 
+2 4 
+Student 35: 
+13 
+Student 36: 
+5 
+Student 37: 
+10 18 31 
+Student 38: 
+22 
+Student 39: 
+0 4 
+Student 40: 
+1 15 
+Student 41: 
+9 
+Student 42: 
+1 
+Student 43: 
+0 
+Student 44: 
+21 27 
+Student 45: 
+3 3  saa 3 3 45
+15 18 
+Student 46: 
+19 
+Student 47: 
+3 3  saa 3 3 47
+9 11 15 15  saa 15 15 47
+
+Student 48: 
+4 6 28 
+Student 49: 
+5 
+Student 50: 
+1 4 4  saa 4 4 50
+8 18 
+Student 51: 
+5 
+Student 52: 
+14 
+Student 53: 
+8 
+Student 54: 
+3 15 
+Student 55: 
+2 25 
+Student 56: 
+32 
+Student 57: 
+8 
+Student 58: 
+8 18 
+Student 59: 
+8 25 
+Student 60: 
+31 
+Student 61: 
+30 
+Student 62: 
+0 24 
+Student 63: 
+18 
+Student 64: 
+14 
+Student 65: 
+11 
+Student 66: 
+9 
+Student 67: 
+8 
+Student 68: 
+19 
+Student 69: 
+3 
+Student 70: 
+9 
+Student 71: 
+15 
+Student 72: 
+4 14 15 
+Student 73: 
+0 
+Student 74: 
+31 
+Student 75: 
+8 9 
+Student 76: 
+3 
+Student 77: 
+10 18 
+Student 78: 
+6 
+Student 79: 
+0 
+Student 80: 
+14 
+Student 81: 
+8 
+Student 82: 
+4 11 
+Student 83: 
+15 27 31 
+Student 84: 
+4 
+Student 85: 
+1 3 
+Student 86: 
+8 
+Student 87: 
+4 
+Student 88: 
+8 12 
+Student 89: 
+8 
+Student 90: 
+1 4 7 18 
+Student 91: 
+18 
+Student 92: 
+1 
+Student 93: 
+8 
+Student 94: 
+22 
+Student 95: 
+1 5 14 17 23 
+Student 96: 
+2 2  saa 2 2 96
+24 
+Student 97: 
+4 14 30 
+Student 98: 
+0 14 
+Student 99: 
+6 
+Student 100: 
+27 
+Student 101: 
+1 8 9 12 
+Student 102: 
+27 
+Student 103: 
+9 14 
+Student 104: 
+22 
+Student 105: 
+18 
+Student 106: 
+25 
+Student 107: 
+2 7 16 18 
+Student 108: 
+25 
+Student 109: 
+7 13 18 24 32 
+Student 110: 
+24 
+Student 111: 
+0 
+Student 112: 
+1 6 8 8  saa 8 8 112
+25 
+Student 113: 
+3 
+Student 114: 
+5 
+Student 115: 
+8 
+Student 116: 
+8 
+Student 117: 
+12 15 25 27 
+Student 118: 
+30 
+Student 119: 
+8 
+Student 120: 
+14 
+Student 121: 
+27 
+Student 122: 
+9 
+Student 123: 
+14 15 
+Student 124: 
+12 
+Student 125: 
+28 
+Student 126: 
+14 
+Student 127: 
+8 
+Student 128: 
+6 
+Student 129: 
+6 
+Student 130: 
+25 
+Student 131: 
+12 17 25 
+Student 132: 
+0 
+Student 133: 
+2 13 24 
+Student 134: 
+22 
+Student 135: 
+8 
+Student 136: 
+4 4  saa 4 4 136
+8 
+Student 137: 
+6 
+Student 138: 
+9 13 
+Student 139: 
+4 
+Student 140: 
+17 18  sd 18 y 4 17 140
+32 
+Student 141: 
+0 3 10 
+Student 142: 
+30 31 
+Student 143: 
+0 4 12 
+Student 144: 
+1 
+Student 145: 
+12 30 
+Student 146: 
+10 18 
+Student 147: 
+7 
+Student 148: 
+0 18 27 
+Student 149: 
+8 
+Student 150: 
+25 
+Student 151: 
+18 
+Student 152: 
+25 
+Student 153: 
+24 
+Student 154: 
+8 
+Student 155: 
+8 
+Student 156: 
+0 11 
+Student 157: 
+27 
+Student 158: 
+30 
+Student 159: 
+8 14 
+Student 160: 
+0 12 18 
+Student 161: 
+8 
+Student 162: 
+10 15 18 
+Student 163: 
+4 4  saa 4 4 163
+11 
+Student 164: 
+4 18 25 31 
+Student 165: 
+4 8 
+Student 166: 
+28 
+Student 167: 
+15 
+Student 168: 
+1 7 
+Student 169: 
+1 3 5 6 23 
+Student 170: 
+0 6 8 
+Student 171: 
+3 8 17 
+Student 172: 
+15 
+Student 173: 
+15 
+Student 174: 
+1 24 
+Student 175: 
+1 
+Student 176: 
+16 
+Student 177: 
+5 14 19 
+Student 178: 
+13 
+Student 179: 
+15 
+Student 180: 
+8 9 13 
+Student 181: 
+27 
+Student 182: 
+13 
+Student 183: 
+0 1  sd 1 y 5 0 183
+3 
+Student 184: 
+1 27 
+Student 185: 
+0 
+Student 186: 
+4 8 
+Student 187: 
+12 
+Student 188: 
+0 
+Student 189: 
+4 
+Student 190: 
+6 8 12 12  saa 12 12 190
+
+Student 191: 
+21 
+Student 192: 
+4 
+Student 193: 
+8 
+Student 194: 
+30 
+Student 195: 
+11 
+Student 196: 
+7 
+Student 197: 
+18 
+Student 198: 
+30 
+Student 199: 
+27 
+Student 200: 
+6 18 18  saa 18 18 200
+22 28 
+Student 201: 
+27 
+Student 202: 
+24 
+Student 203: 
+3 
+Student 204: 
+8 12 
+Student 205: 
+16 
+Student 206: 
+4 16 19 
+Student 207: 
+10 21 
+Student 208: 
+6 6  saa 6 6 208
+22 28 
+Student 209: 
+3 13 13  saa 13 13 209
+19 
+Student 210: 
+30 
+Student 211: 
+8 
+Student 212: 
+5 14 32 
+Student 213: 
+25 
+Student 214: 
+4 
+Student 215: 
+4 6 10 28 
+Student 216: 
+21 27 
+Student 217: 
+17 27 30 30  saa 30 30 217
+
+Student 218: 
+10 
+Student 219: 
+11 
+Student 220: 
+1 8 25 25  saa 25 25 220
+
+Student 221: 
+0 11 18 
+Student 222: 
+1 
+Student 223: 
+4 7 30 
+Student 224: 
+1 5 
+Student 225: 
+16 24 
+Student 226: 
+25 
+Student 227: 
+18 27 
+Student 228: 
+13 
+Student 229: 
+11 
+Student 230: 
+9 15 
+Student 231: 
+24 
+Student 232: 
+8 25 27 
+Student 233: 
+30 
+Student 234: 
+4 
+Student 235: 
+25 31 
+Student 236: 
+25 
+Student 237: 
+6 24 
+Student 238: 
+10 
+Student 239: 
+25 
+Student 240: 
+13 16 24 
+Student 241: 
+30 
+Student 242: 
+28 30 
+Student 243: 
+15 
+Student 244: 
+27 30 
+Student 245: 
+4 13 24 28 
+Student 246: 
+18 22 
+Student 247: 
+0 17 21 
+Student 248: 
+0 6 6  saa 6 6 248
+14 
+Student 249: 
+0 15 
+Student 250: 
+27 
+Student 251: 
+1 
+Student 252: 
+1 14 
+Student 253: 
+5 8 
+Student 254: 
+12 
+Student 255: 
+4 
+Student 256: 
+0 9 14 
+Student 257: 
+0 
+Student 258: 
+24 
+Student 259: 
+31 
+Student 260: 
+13 
+Student 261: 
+13 30 
+Student 262: 
+30 
+Student 263: 
+22 28 31 
+Student 264: 
+4 27 
+Student 265: 
+6 
+Student 266: 
+0 11 19 25 
+Student 267: 
+13 
+Student 268: 
+22 
+Student 269: 
+31 
+Student 270: 
+4 6 
+Student 271: 
+4 27 27  saa 27 27 271
+
+Student 272: 
+27 
+Student 273: 
+18 
+Student 274: 
+1 
+Student 275: 
+18 27 28 30 
+Student 276: 
+18 30 
+Student 277: 
+3 22 
+Student 278: 
+13 
+Student 279: 
+12 30 
+Student 280: 
+13 13  saa 13 13 280
+28 
+Student 281: 
+1 9 
+Student 282: 
+19 
+Student 283: 
+8 8  saa 8 8 283
+19 
+Student 284: 
+1 18 
+Student 285: 
+1 9 17 21 
+Student 286: 
+2 9 11 13 
+Student 287: 
+31 
+Student 288: 
+6 31 
+Student 289: 
+4 12 
+Student 290: 
+5 
+Student 291: 
+4 
+Student 292: 
+18 
+Student 293: 
+1 16 
+Student 294: 
+16 
+Student 295: 
+5 
+Student 296: 
+5 
+Student 297: 
+11 
+Student 298: 
+6 
+Student 299: 
+3 
+Student 300: 
+4 
+Student 301: 
+1 7 
+Student 302: 
+3 8 
+Student 303: 
+4 21 
+Student 304: 
+9 
+Student 305: 
+0 
+Student 306: 
+8 16 25 
+Student 307: 
+19 
+Student 308: 
+27 
+Student 309: 
+12 
+Student 310: 
+12 
+Student 311: 
+8 11 15 
+Student 312: 
+1 9 13 17 
+Student 313: 
+21 
+Student 314: 
+0 2 6 
+Student 315: 
+1 
+Student 316: 
+16 18 
+Student 317: 
+13 15 19 
+Student 318: 
+9 
+Student 319: 
+3 8 9 16 22 
+Student 320: 
+0 3 6 9 13 
+Student 321: 
+12 19 24 
+Student 322: 
+3 9 13 15 15  saa 15 15 322
+
+Student 323: 
+9 25 
+Student 324: 
+25 
+Student 325: 
+8 8  saa 8 8 325
+17 25 
+Student 326: 
+6 25 
+Student 327: 
+1 29 
+Student 328: 
+17 
+Student 329: 
+0 2 9 13 
+Student 330: 
+15 15  saa 15 15 330
+31 
+Student 331: 
+13 15 
+Student 332: 
+18 
+Student 333: 
+2 4 13 24 
+Student 334: 
+1 6 
+Student 335: 
+1 28 
+Student 336: 
+21 
+Student 337: 
+10 14 
+Student 338: 
+6 15 
+Student 339: 
+1 18 
+Student 340: 
+0 3 13 15 22 
+Student 341: 
+18 
+Student 342: 
+14 17 22 25 
+Student 343: 
+1 1  saa 1 1 343
+
+Student 344: 
+16 21 24 
+Student 345: 
+10 
+Student 346: 
+0 8 9 19 
+Student 347: 
+3 5 
+Student 348: 
+4 8 12 
+Student 349: 
+14 
+Student 350: 
+3 6 31 
+Student 351: 
+16 30 
+Student 352: 
+5 22 27 31 32 
+Student 353: 
+16 24 30 
+Student 354: 
+0 10 24 32 
+Student 355: 
+0 6 
+Student 356: 
+4 31 
+Student 357: 
+9 
+Student 358: 
+3 3  saa 3 3 358
+13 
+Student 359: 
+11 30 
+Student 360: 
+2 16 24 32 
+Student 361: 
+2 4 4  saa 4 4 361
+12 
+Student 362: 
+1 8 8  saa 8 8 362
+17 
+Student 363: 
+8 10 
+Student 364: 
+0 9 13 31 
+Student 365: 
+22 
+Student 366: 
+19 
+Student 367: 
+0 3 13 15 30 
+Student 368: 
+3 8 11 19 
+Student 369: 
+6 7  sd 7 y 6 6 369
+10 16 
+Student 370: 
+2 17 18  sd 18 y 7 17 370
+25 
+Student 371: 
+10 21 25 
+Student 372: 
+0 8 8  saa 8 8 372
+17 
+Student 373: 
+0 
+Student 374: 
+11 13 27 
+Student 375: 
+1 6 16 
+Student 376: 
+0 3 13 15 19 
+Student 377: 
+1 
+Student 378: 
+4 11 16 18 
+Student 379: 
+14 18 30 
+Student 380: 
+3 15 31 
+Student 381: 
+0 17 
+Student 382: 
+0 9 13 15 17 
+Student 383: 
+18 
+Student 384: 
+6 
+Student 385: 
+10 
+Student 386: 
+4 13 25 
+Student 387: 
+27 
+Student 388: 
+10 17 24 30 
+Student 389: 
+15 30 
+Student 390: 
+8 
+Student 391: 
+13 18 
+Student 392: 
+0 6 
+Student 393: 
+0 14 24 
+Student 394: 
+13 
+Student 395: 
+8 
+Student 396: 
+8 
+Student 397: 
+10 13 28 
+Student 398: 
+25 
+Student 399: 
+0 2 6 11 
+Student 400: 
+2 8 24 
+Student 401: 
+0 11 13 17 
+Student 402: 
+18 
+Student 403: 
+6 12 
+Student 404: 
+10 
+Student 405: 
+1 1  saa 1 1 405
+22 
+Student 406: 
+11 11  saa 11 11 406
+
+Student 407: 
+6 12 19 
+Student 408: 
+4 15 28 
+Student 409: 
+8 
+Student 410: 
+30 32 
+Student 411: 
+8 16 
+Student 412: 
+0 16 
+Student 413: 
+22 24 
+Student 414: 
+5 15 28 
+Student 415: 
+2 
+Student 416: 
+11 30 
+Student 417: 
+0 10 32 
+Student 418: 
+2 
+Student 419: 
+4 15 25 27 
+Student 420: 
+1 
+Student 421: 
+14 
+Student 422: 
+4 
+Student 423: 
+6 9 11 13 31 
+Student 424: 
+12 
+Student 425: 
+1 4 8 25 
+Student 426: 
+3 13 15 
+Student 427: 
+25 
+Student 428: 
+4 
+Student 429: 
+6 8 
+Student 430: 
+0 8 13 15 17 22 
+Student 431: 
+10 
+Student 432: 
+4 25 
+Student 433: 
+6 13 24 
+Student 434: 
+0 
+Student 435: 
+1 
+Student 436: 
+1 5 25 
+Student 437: 
+8 
+Student 438: 
+12 
+Student 439: 
+0 3 9 13 
+Student 440: 
+16 31 
+Student 441: 
+0 30 
+Student 442: 
+18 25 
+Student 443: 
+0 2 13 
+Student 444: 
+11 15 15  saa 15 15 444
+
+Student 445: 
+0 2 13 19 25 
+Student 446: 
+15 
+Student 447: 
+10 17 30 
+Student 448: 
+0 8 17 
+Student 449: 
+0 9 13 
+Student 450: 
+18 
+Student 451: 
+0 6 19 
+Student 452: 
+30 
+Student 453: 
+30 
+Student 454: 
+13 15 17 19 25 
+Student 455: 
+0 3 
+Student 456: 
+10 17 
+Student 457: 
+31 
+Student 458: 
+0 13 17 22 24 
+Student 459: 
+2 19 31 
+Student 460: 
+2 15 
+Student 461: 
+15 
+Student 462: 
+25 
+Student 463: 
+4 
+Student 464: 
+1 9 
+Student 465: 
+5 19 22 
+Student 466: 
+2 
+Student 467: 
+0 
+Student 468: 
+8 31 
+Student 469: 
+19 25 
+Student 470: 
+1 
+Student 471: 
+13 17 24 
+Student 472: 
+25 31 
+Student 473: 
+16 18 
+Student 474: 
+32 
+Student 475: 
+1 15 21 
+Student 476: 
+6 
+Student 477: 
+10 31 
+Student 478: 
+15 31 
+Student 479: 
+24 25 
+Student 480: 
+3 11 
+Student 481: 
+0 3 8 19 30 
+Student 482: 
+0 10 
+Student 483: 
+27 
+Student 484: 
+12 15 18 
+Student 485: 
+1 1  saa 1 1 485
+1  saa 1 1 485
+12 
+Student 486: 
+6 8 
+Student 487: 
+1 1  saa 1 1 487
+8 12 15 
+Student 488: 
+12 
+Student 489: 
+8 
+Student 490: 
+0 2 6 8 
+Student 491: 
+5 
+Student 492: 
+25 30 30  saa 30 30 492
+
+Student 493: 
+0 2 3 11 13 15 
+Student 494: 
+8 15 
+Student 495: 
+8 25 30 
+Student 496: 
+30 31 
+Student 497: 
+4 13 
+Student 498: 
+9 
+Student 499: 
+9 13 19 31 
+Student 500: 
+9 17 
+Student 501: 
+0 8 
+Student 502: 
+8 13 15 19 
+Student 503: 
+2 
+Student 504: 
+15 18 
+Student 505: 
+1 22 
+Student 506: 
+6 18 
+Student 507: 
+18 
+Student 508: 
+2 8 13 
+Student 509: 
+8 8  saa 8 8 509
+17 25 
+Student 510: 
+16 
+Student 511: 
+19 22 
+Student 512: 
+1 8 
+Student 513: 
+7 12 16 
+Student 514: 
+22 24 24  saa 24 24 514
+
+Student 515: 
+6 8 14 
+Student 516: 
+8 21 25 
+Student 517: 
+4 9 19 19  saa 19 19 517
+
+Student 518: 
+6 6  saa 6 6 518
+
+Student 519: 
+4 16 21 22 24 
+Student 520: 
+0 11 19 
+Student 521: 
+0 6 22 31 
+Student 522: 
+10 13 15 17 25 
+Student 523: 
+0 0  saa 0 0 523
+
+Student 524: 
+31 
+Student 525: 
+0 0  saa 0 0 525
+8 16 
+Student 526: 
+8 15 15  saa 15 15 526
+19 
+Student 527: 
+11 13 19 
+Student 528: 
+24 
+Student 529: 
+16 
+Student 530: 
+3 29 
+Student 531: 
+3 29 31 
+Student 532: 
+5 
+Student 533: 
+25 
+Student 534: 
+17 25 
+Student 535: 
+1 6 
+Student 536: 
+1 
+Student 537: 
+22 31 
+Student 538: 
+0 6 8 8  saa 8 8 538
+10 
+Student 539: 
+1 8 
+Student 540: 
+10 13 24 
+Student 541: 
+21 22 
+Student 542: 
+1 16 25 
+Student 543: 
+8 
+Student 544: 
+3 15 17 
+Student 545: 
+10 18 18  saa 18 18 545
+27 
+Student 546: 
+4 13 
+Student 547: 
+4 
+Student 548: 
+12 
+Student 549: 
+0 6 8 8  saa 8 8 549
+
+Student 550: 
+15 30 
+Student 551: 
+6 27 30 
+Student 552: 
+30 
+Student 553: 
+2 
+Student 554: 
+0 
+Student 555: 
+1 7 9 13 
+Student 556: 
+15 31 
+Student 557: 
+13 15 
+Student 558: 
+1 4 4  saa 4 4 558
+25 
+Student 559: 
+8 18 
+Student 560: 
+4 4  saa 4 4 560
+4  saa 4 4 560
+27 
+Student 561: 
+4 16 27 
+Student 562: 
+12 30 
+Student 563: 
+11 
+Student 564: 
+1 1  saa 1 1 564
+5 
+Student 565: 
+6 
+Student 566: 
+9 
+Student 567: 
+0 13 13  saa 13 13 567
+24 30 
+Student 568: 
+0 13 17 
+Student 569: 
+9 27 
+Student 570: 
+8 11 
+Student 571: 
+4 
+Student 572: 
+0 13 15 
+Student 573: 
+1 8 19 
+Student 574: 
+18 
+Student 575: 
+25 30 
+Student 576: 
+4 
+Student 577: 
+0 14 
+Student 578: 
+3 
+Student 579: 
+7 8  sd 8 y 8 7 579
+22 
+Student 580: 
+6 
+Student 581: 
+5 19 
+Student 582: 
+0 2 13 19 
+Student 583: 
+24 
+Student 584: 
+4 
+Student 585: 
+6 8 
+Student 586: 
+3 8 16 18 
+Student 587: 
+0 9 13 
+Student 588: 
+6 
+Student 589: 
+3 13 25 
+Student 590: 
+25 
+Student 591: 
+15 
+Student 592: 
+0 3 7 
+Student 593: 
+18 
+Student 594: 
+16 
+Student 595: 
+19 
+Student 596: 
+18 29 
+Student 597: 
+2 11 
+Student 598: 
+4 
+Student 599: 
+2 2  saa 2 2 599
+4 24 32 
+Student 600: 
+9 12 14 18 
+Student 601: 
+0 8 8  saa 8 8 601
+17 
+Student 602: 
+8 10 17 
+Student 603: 
+4 
+Student 604: 
+4 
+Student 605: 
+17 18  sd 18 y 9 17 605
+30 
+Student 606: 
+8 15 17 19 
+Student 607: 
+1 1  saa 1 1 607
+13 18 
+Student 608: 
+6 18 
+Student 609: 
+23 
+Student 610: 
+3 8 30 
+Student 611: 
+1 4 18 
+Student 612: 
+4 12 30 
+Student 613: 
+4 
+Student 614: 
+2 18 24 24  saa 24 24 614
+32 
+Student 615: 
+2 
+Student 616: 
+0 10 
+Student 617: 
+0 4 11 12 
+Student 618: 
+10 
+Student 619: 
+18 25 27 
+Student 620: 
+6 9 10  sd 10 y 10 9 620
+11  sd 11 y 11 10 620
+18 
+Student 621: 
+0 6 
+Student 622: 
+12 
+Student 623: 
+18 
+Student 624: 
+0 
+Student 625: 
+4 6 6  saa 6 6 625
+24 25 
+Student 626: 
+8 10 
+Student 627: 
+6 12 18 
+Student 628: 
+5 8 
+Student 629: 
+4 10 18 31 
+Student 630: 
+4 15 17 25 
+Student 631: 
+8 
+Student 632: 
+0 14 24 
+Student 633: 
+4 
+Student 634: 
+0 
+Student 635: 
+8 13 24 
+Student 636: 
+11 11  saa 11 11 636
+14 
+Student 637: 
+4 18 19 
+Student 638: 
+10 15 18 
+Student 639: 
+24 
+Student 640: 
+5 30 
+Student 641: 
+4 11 14 18 
+Student 642: 
+8 12 
+Student 643: 
+0 4 4  saa 4 4 643
+9 14 
+Student 644: 
+0 8 13 
+Student 645: 
+0 
+Student 646: 
+6 
+Student 647: 
+0 
+Student 648: 
+14 
+Student 649: 
+6 9 16 
+Student 650: 
+8 9 
+Student 651: 
+4 
+Student 652: 
+8 
+Student 653: 
+8 15 17 19 
+Student 654: 
+13 
+Student 655: 
+8 
+Student 656: 
+15 
+Student 657: 
+4 4  saa 4 4 657
+16 25 
+Student 658: 
+4 8 
+Student 659: 
+4 6 8 16 
+Student 660: 
+4 
+Student 661: 
+0 
+Student 662: 
+3 25 
+Student 663: 
+4 8 9 13 
+Student 664: 
+1 
+Student 665: 
+1 
+Student 666: 
+0 3 5 8 
+Student 667: 
+11 13 13  saa 13 13 667
+
+Student 668: 
+8 13 15 19 
+Student 669: 
+10 17 
+Student 670: 
+9 13 13  saa 13 13 670
+15 
+Student 671: 
+5 7 16 
+Student 672: 
+8 
+Student 673: 
+15 
+Student 674: 
+16 
+Student 675: 
+1 8 21 
+Student 676: 
+8 13 15 15  saa 15 15 676
+
+Student 677: 
+15 
+Student 678: 
+25 30 
+Student 679: 
+12 
+Student 680: 
+30 
+Student 681: 
+30 
+Student 682: 
+8 19 
+Student 683: 
+0 8 
+Student 684: 
+4 31 
+Student 685: 
+3 8 
+Student 686: 
+1 8 28 
+Student 687: 
+19 25 
+Student 688: 
+0 8 15 25 
+Student 689: 
+4 8 17 
+Student 690: 
+12 
+Student 691: 
+1 8 
+Student 692: 
+19 
+Student 693: 
+0 9 
+Student 694: 
+27 
+Student 695: 
+10 
+Student 696: 
+1 7 13 28 
+Student 697: 
+24 
+Student 698: 
+11 
+Student 699: 
+10 
+Student 700: 
+2 
+Student 701: 
+0 12 15 22 
+Student 702: 
+7 16 
+Student 703: 
+1 3 12 
+Student 704: 
+3 16 
+Student 705: 
+9 
+Student 706: 
+13 15 19 31 
+Student 707: 
+0 13 13  saa 13 13 707
+15 
+Student 708: 
+0 15 24 
+Student 709: 
+0 3 15 
+Student 710: 
+1 6 
+Student 711: 
+15 
+Student 712: 
+0 1  sd 1 y 12 0 712
+15 19 
+Student 713: 
+10 
+Student 714: 
+13 
+Student 715: 
+0 7 
+Student 716: 
+6 11 31 
+Student 717: 
+0 6 16 32 
+Student 718: 
+31 
+Student 719: 
+2 8 19 21 
+Student 720: 
+16 
+Student 721: 
+3 
+Student 722: 
+6 16 21 
+Student 723: 
+0 10 
+Student 724: 
+0 3 5 
+Student 725: 
+0 5 8 16 
+Student 726: 
+2 9 13 15 15  saa 15 15 726
+
+Student 727: 
+25 
+Student 728: 
+1 
+Student 729: 
+8 9 13 13  saa 13 13 729
+
+Student 730: 
+24 
+Student 731: 
+19 24 
+Student 732: 
+1 10 
+Student 733: 
+6 
+Student 734: 
+0 6 
+Student 735: 
+1 4 9 12 27 
+Student 736: 
+2 4 11 
+Student 737: 
+24 30 
+Student 738: 
+14 23 
+Student 739: 
+0 3 8 25 30 
+Student 740: 
+3 
+Student 741: 
+11 
+Student 742: 
+8 
+Student 743: 
+10 
+Student 744: 
+1 18 
+Student 745: 
+16 25 30 
+Student 746: 
+16 
+Student 747: 
+18 
+Student 748: 
+6 10 
+Student 749: 
+8 
+Student 750: 
+5 
+Student 751: 
+15 
+Student 752: 
+4 25 
+Student 753: 
+0 8 21 
+Student 754: 
+4 8 
+Student 755: 
+1 3 8 
+Student 756: 
+1 9 13 18 19 
+Student 757: 
+1 8 
+Student 758: 
+25 
+Student 759: 
+0 13 13  saa 13 13 759
+
+Student 760: 
+3 
+Student 761: 
+21 
+Student 762: 
+4 4  saa 4 4 762
+
+Student 763: 
+6 
+Student 764: 
+3 
+Student 765: 
+6 
+Student 766: 
+8 
+Student 767: 
+6 8 24 29 
+Student 768: 
+15 
+Student 769: 
+21 
+Student 770: 
+8 12 15 
+Student 771: 
+12 21 
+Student 772: 
+15 
+Student 773: 
+17 19 
+Student 774: 
+25 
+Student 775: 
+0 5 14 25 
+Student 776: 
+21 
+Student 777: 
+6 15 30 
+Student 778: 
+0 13 25 
+Student 779: 
+4 12 13  sd 13 y 13 12 779
+25 
+Student 780: 
+15 15  saa 15 15 780
+18 
+Student 781: 
+0 0  saa 0 0 781
+15 
+Student 782: 
+12 
+Student 783: 
+18 
+Student 784: 
+2 14 
+Student 785: 
+8 13 17 30 
+Student 786: 
+13 32 
+Student 787: 
+22 
+Student 788: 
+8 9 11 
+Student 789: 
+7 13 15 
+Student 790: 
+9 
+Student 791: 
+30 
+Student 792: 
+0 
+Student 793: 
+4 4  saa 4 4 793
+10 10  saa 10 10 793
+
+Student 794: 
+0 11 14 18 24 
+Student 795: 
+9 10  sd 10 y 14 9 795
+31 
+Student 796: 
+10 12 
+Student 797: 
+10 24 
+Student 798: 
+8 15 21 
+Student 799: 
+21 
+Student 800: 
+30 
+Student 801: 
+6 
+Student 802: 
+14 25 28 
+Student 803: 
+0 16 19 31 
+Student 804: 
+30 
+Student 805: 
+4 4  saa 4 4 805
+18 
+Student 806: 
+6 12 15 30 
+Student 807: 
+1 6 30 30  saa 30 30 807
+
+Student 808: 
+5 5  saa 5 5 808
+8 14 30 
+Student 809: 
+5 25 
+Student 810: 
+0 7 21 
+Student 811: 
+6 24 
+Student 812: 
+4 6 24 28 
+Student 813: 
+4 10 16 30 
+Student 814: 
+6 18 27 31 
+Student 815: 
+0 4 8 
+Student 816: 
+2 6 24 28 
+Student 817: 
+1 8 29 
+Student 818: 
+6 6  saa 6 6 818
+8 16 
+Student 819: 
+0 10 24 30 31 
+Student 820: 
+1 15 18 18  saa 18 18 820
+
+Student 821: 
+1 3 8 25 
+Student 822: 
+11 15 
+Student 823: 
+2 10 16 
+Student 824: 
+0 0  saa 0 0 824
+4 4  saa 4 4 824
+25 
+Student 825: 
+1 7 12 16 
+Student 826: 
+2 4 19 
+Student 827: 
+8 12 16 17  sd 17 y 15 16 827
+18  sd 18 y 16 17 827
+
+Student 828: 
+4 4  saa 4 4 828
+4  saa 4 4 828
+9 27 
+Student 829: 
+0 11 25 
+Student 830: 
+11 15 
+Student 831: 
+12 27 27  saa 27 27 831
+
+Student 832: 
+15 21 24 25 
+Student 833: 
+4 4  saa 4 4 833
+17 25 
+Student 834: 
+0 4 
+Student 835: 
+8 24 31 
+Student 836: 
+10 10  saa 10 10 836
+12 15 
+Student 837: 
+4 
+Student 838: 
+6 19 
+Student 839: 
+4 12 29 
+Student 840: 
+1 4 16 
+Student 841: 
+3 11 15 
+Student 842: 
+1 7 13 16 18 
+Student 843: 
+3 10 15 18 30 
+Student 844: 
+0 10 27 31 
+Student 845: 
+12 27 
+Student 846: 
+17 24 
+Student 847: 
+4 10 12 17 
+Student 848: 
+0 13 25 25  saa 25 25 848
+27 
+Student 849: 
+11 25 28 
+Student 850: 
+10 12 18 18  saa 18 18 850
+30 
+Student 851: 
+0 16 24 
+Student 852: 
+4 6 8 10 19 
+Student 853: 
+10 10  saa 10 10 853
+15 17 24 
+Student 854: 
+1 13 19 
+Student 855: 
+1 4 14 16 18 
+Student 856: 
+3 6 13 17 27 
+Student 857: 
+13 15 29 
+Student 858: 
+1 4 8 13 28 
+Student 859: 
+16 24 28 
+Student 860: 
+12 14 21 30 
+Student 861: 
+7 13 16 
+Student 862: 
+8 10 24 
+Student 863: 
+8 14 21 
+Student 864: 
+2 4 10 17 24 
+Student 865: 
+6 6  saa 6 6 865
+11 
+Student 866: 
+10 11  sd 11 y 17 10 866
+11  saa 11 11 866
+15 18 
+Student 867: 
+0 1  sd 1 y 18 0 867
+3 8 15 
+Student 868: 
+0 7 12 18 
+Student 869: 
+3 8 13 15 
+Student 870: 
+24 
+Student 871: 
+0 14 15 
+Student 872: 
+4 6 24 
+Student 873: 
+8 10 10  saa 10 10 873
+12 15 
+Student 874: 
+2 4 4  saa 4 4 874
+
+Student 875: 
+8 16 17  sd 17 y 19 16 875
+
+Student 876: 
+0 25 27 
+Student 877: 
+4 6 10 12 18 
+Student 878: 
+7 9 13 15 
+Student 879: 
+4 8 16 
+Student 880: 
+6 10 12 15 18 
+Student 881: 
+8 13 16 24 
+Student 882: 
+3 8 12 17 21 
+Student 883: 
+1 7 14 30 
+Student 884: 
+8 12 18 18  saa 18 18 884
+30 
+Student 885: 
+8 8  saa 8 8 885
+13 17 19 
+Student 886: 
+1 3 6 9 15 
+Student 887: 
+12 18 25 27 
+Student 888: 
+4 8 9 25 
+Student 889: 
+6 12 13  sd 13 y 20 12 889
+19 
+Student 890: 
+3 6 8 9 28 
+Student 891: 
+10 16 18 
+Student 892: 
+8 15 18 27 
+Student 893: 
+1 13 28 32 
+Student 894: 
+4 6 15 18 
+Student 895: 
+1 7 10 15 16 
+Student 896: 
+8 9 22 24 
+Student 897: 
+1 16 
+Student 898: 
+7 11 13 18 30 
+Student 899: 
+18 30 
+Student 900: 
+0 6 
+Student 901: 
+13 24 31 
+Student 902: 
+7 10 13 16 
+Student 903: 
+2 4 4  saa 4 4 903
+18 
+Student 904: 
+6 15 27 31 
+Student 905: 
+6 12 15 18 
+Student 906: 
+1 11 15 25 
+Student 907: 
+1 4 10 12 24 
+Student 908: 
+4 4  saa 4 4 908
+6 9 19 
+Student 909: 
+4 13 16 
+Student 910: 
+2 8 24 
+Student 911: 
+16 21 
+Student 912: 
+0 8 11 15 
+Student 913: 
+18 31 
+Student 914: 
+2 4 6 18 
+Student 915: 
+13 25 
+Student 916: 
+10 12 25 25  saa 25 25 916
+
+Student 917: 
+24 25 
+Student 918: 
+1 15 
+Student 919: 
+1 3 6 
+Student 920: 
+6 8 10 12 15 
+Student 921: 
+3 7 9 13 15 
+Student 922: 
+0 8 11 15 
+Student 923: 
+7 9 13 15 19 
+Student 924: 
+4 25 
+Student 925: 
+4 18 30 30  saa 30 30 925
+
+Student 926: 
+0 4 6 12 24 
+Student 927: 
+4 6 18 
+Student 928: 
+11 13 16 18 
+Student 929: 
+0 2 13 17 30 
+Student 930: 
+6 17 24 30 31 
+Student 931: 
+0 4 4  saa 4 4 931
+13 
+Student 932: 
+0 7 16 19 
+Student 933: 
+4 13 27 
+Student 934: 
+4 10 24 25 
+Student 935: 
+4 6 9 19 
+Student 936: 
+14 15 18 30 
+Student 937: 
+0 4 4  saa 4 4 937
+
+Student 938: 
+13 15 24 25 
+Student 939: 
+6 11 
+Student 940: 
+1 8 14 30 
+Student 941: 
+4 13 25 
+Student 942: 
+0 2 12 27 
+Student 943: 
+0 4 18 24 
+Student 944: 
+4 4  saa 4 4 944
+15 19 21 
+Student 945: 
+12 18 21 
+Student 946: 
+8 10 24 
+Student 947: 
+15 17 27 30 31 
+Student 948: 
+4 6 25 25  saa 25 25 948
+
+Student 949: 
+1 3 3  saa 3 3 949
+5 
+Student 950: 
+0 0  saa 0 0 950
+4 15 
+Student 951: 
+8 10 25 31 
+Student 952: 
+15 17 
+Student 953: 
+7 
+Student 954: 
+0 4 
+Student 955: 
+6 10 15 
+Student 956: 
+16 
+Student 957: 
+1 1  saa 1 1 957
+7 8  sd 8 y 21 7 957
+12 
+Student 958: 
+1 13 28 32 
+Student 959: 
+4 10 18 19 
+Student 960: 
+10 10  saa 10 10 960
+13 16 25 
+Student 961: 
+6 9 31 
+Student 962: 
+4 10 24 30 
+Student 963: 
+7 13 16 24 
+Student 964: 
+21 24 25 
+Student 965: 
+13 21 24 24  saa 24 24 965
+
+Student 966: 
+0 
+Student 967: 
+11 15 17 
+Student 968: 
+1 15 24 28 
+Student 969: 
+1 7 13 15 16 
+Student 970: 
+11 13 15 
+Student 971: 
+1 8 12 15 31 
+Student 972: 
+4 
+Student 973: 
+3 8 24 24  saa 24 24 973
+
+Student 974: 
+17 24 24  saa 24 24 974
+
+Student 975: 
+11 13 17 17  saa 17 17 975
+30 
+Student 976: 
+31 
+Student 977: 
+13 17 24 27 
+Student 978: 
+8 10 12 18 30 
+Student 979: 
+0 4 10 15 18 
+Student 980: 
+1 7 16 16  saa 16 16 980
+
+Student 981: 
+0 4 28 
+Student 982: 
+0 3 8 15 
+Student 983: 
+6 31 
+Student 984: 
+0 10 13 18 
+Student 985: 
+1 4 13 27 
+Student 986: 
+6 12 22 27 
+Student 987: 
+4 9 22 
+Student 988: 
+2 6 6  saa 6 6 988
+11 24 
+Student 989: 
+0 9 12 
+Student 990: 
+6 13 16 30 
+Student 991: 
+0 4 
+Student 992: 
+4 8 18 19 
+Student 993: 
+3 6 8 12 25 
+Student 994: 
+7 14 16 17  sd 17 y 22 16 994
+22 
+Student 995: 
+1 7 25 
+Student 996: 
+6 10 15 25 31 
+Student 997: 
+4 4  saa 4 4 997
+6 13 24 
+Student 998: 
+4 12 15 18 
+Student 999: 
+4 4  saa 4 4 999
+15 19 
+Student 1000: 
+0 24 
+Student 1001: 
+0 17 18  sd 18 y 23 17 1001
+22 30 
+Student 1002: 
+1 3 7 10 24 
+Student 1003: 
+1 7 16 16  saa 16 16 1003
+
+Student 1004: 
+2 4 
+Student 1005: 
+0 12 29 
+Student 1006: 
+0 18 24 
+Student 1007: 
+6 7  sd 7 y 24 6 1007
+8  sd 8 y 25 7 1007
+10 
+Student 1008: 
+4 30 
+Student 1009: 
+4 6 13 18 25 
+Student 1010: 
+4 6 16 
+Student 1011: 
+6 10 16 18 
+Student 1012: 
+3 8 22 24 24  saa 24 24 1012
+
+Student 1013: 
+10 15 18 27 31 
+Student 1014: 
+4 
+Student 1015: 
+9 10  sd 10 y 26 9 1015
+16 25 
+Student 1016: 
+2 12 13  sd 13 y 27 12 1016
+
+Student 1017: 
+16 24 25 30 
+Student 1018: 
+18 25 
+Student 1019: 
+2 4 24 27 
+Student 1020: 
+4 6 6  saa 6 6 1020
+27 
+Student 1021: 
+6 11 18 19 27 
+Student 1022: 
+4 12 16 25 25  saa 25 25 1022
+
+Student 1023: 
+8 10 11  sd 11 y 28 10 1023
+12 31 
+Student 1024: 
+16 18 
+Student 1025: 
+3 8 12 31 
+Student 1026: 
+2 8 19 24 
+Student 1027: 
+6 8 10 
+Student 1028: 
+0 4 9 16 
+Student 1029: 
+0 8 12 
+Student 1030: 
+0 3 6 15 31 
+Student 1031: 
+8 10 12 18 
+Student 1032: 
+10 16 18 
+Student 1033: 
+6 15 30 31 
+Student 1034: 
+1 4 18 30 
+Student 1035: 
+1 1  saa 1 1 1035
+8 13 30 
+Student 1036: 
+1 4 16 16  saa 16 16 1036
+28 
+Student 1037: 
+1 21 28 
+Student 1038: 
+0 3 17 19 
+Student 1039: 
+1 4 7 16 
+Student 1040: 
+7 9 13 15 
+Student 1041: 
+0 27 
+Student 1042: 
+8 9 30 
+Student 1043: 
+4 4  saa 4 4 1043
+4  saa 4 4 1043
+24 
+Student 1044: 
+4 13 27 29 
+Student 1045: 
+0 6 8 
+Student 1046: 
+4 6 10 
+Student 1047: 
+9 16 25 
+Student 1048: 
+10 13 17 
+Student 1049: 
+10 12 18 
+Student 1050: 
+7 13 15 16 16  saa 16 16 1050
+
+Student 1051: 
+1 4 25 
+Student 1052: 
+4 6 8 16 28 
+Student 1053: 
+1 8 13 24 28 
+Student 1054: 
+1 16 21 
+Student 1055: 
+1 12 15 30 31 
+Student 1056: 
+3 8 10 12 15 
+Student 1057: 
+1 4 6 12 15 18 
+Student 1058: 
+8 12 15 30 
+Student 1059: 
+0 7 18 
+Student 1060: 
+6 15 18 27 
+Student 1061: 
+18 19 
+Student 1062: 
+8 12 15 16 
+Student 1063: 
+8 11 13 25 31 
+Student 1064: 
+0 13 15 
+Student 1065: 
+0 13 16 24 
+Student 1066: 
+11 13 25 
+Student 1067: 
+0 31 
+Student 1068: 
+11 17 19 30 
+Student 1069: 
+24 24  saa 24 24 1069
+
+Student 1070: 
+8 11 19 
+Student 1071: 
+24 
+Student 1072: 
+4 10 13 15 25 
+Student 1073: 
+13 17 18  sd 18 y 29 17 1073
+21 28 
+Student 1074: 
+0 4 16 
+Student 1075: 
+1 4 12 13  sd 13 y 30 12 1075
+
+Student 1076: 
+19 27 27  saa 27 27 1076
+
+Student 1077: 
+11 13 15 17 
+Student 1078: 
+3 8 8  saa 8 8 1078
+25 30 
+Student 1079: 
+11 19 24 
+Student 1080: 
+1 4 6 19 
+Student 1081: 
+4 8 8  saa 8 8 1081
+16 22 
+Student 1082: 
+1 4 4  saa 4 4 1082
+6 
+Student 1083: 
+2 17 24 24  saa 24 24 1083
+
+Student 1084: 
+4 6 10 25 31 
+Student 1085: 
+6 19 31 
+Student 1086: 
+0 10 18 24 29 
+Student 1087: 
+0 6 6  saa 6 6 1087
+17 19 
+Student 1088: 
+1 6 7  sd 7 y 31 6 1088
+8  sd 8 y 32 7 1088
+
+Student 1089: 
+16 21 24 
+Student 1090: 
+5 6 24 
+Student 1091: 
+1 10 11  sd 11 y 33 10 1091
+12 15 
+Student 1092: 
+10 21 27 
+Student 1093: 
+1 4 4  saa 4 4 1093
+4  saa 4 4 1093
+
+Student 1094: 
+1 6 7  sd 7 y 34 6 1094
+16 
+Student 1095: 
+8 11 13 30 
+Student 1096: 
+8 8  saa 8 8 1096
+13 24 
+Student 1097: 
+10 13 21 24 
+Student 1098: 
+0 1  sd 1 y 35 0 1098
+3 13 
+Student 1099: 
+8 10 12 15 15  saa 15 15 1099
+
+Student 1100: 
+15 16 27 
+Student 1101: 
+0 8 30 30  saa 30 30 1101
+
+Student 1102: 
+24 24  saa 24 24 1102
+
+Student 1103: 
+1 6 27 
+Student 1104: 
+10 24 24  saa 24 24 1104
+24  saa 24 24 1104
+
+Student 1105: 
+4 16 18 
+Student 1106: 
+4 11 18 
+Student 1107: 
+7 16 18 
+Student 1108: 
+0 14 24 
+Student 1109: 
+8 18 31 
+Student 1110: 
+3 8 19 25 
+Student 1111: 
+1 18 19 27 
+Student 1112: 
+18 
+Student 1113: 
+1 3 12 15 16 
+Student 1114: 
+10 11  sd 11 y 36 10 1114
+13 
+Student 1115: 
+3 11 13 17 
+Student 1116: 
+0 1  sd 1 y 37 0 1116
+7 10 16 
+Student 1117: 
+3 13 17 18  sd 18 y 38 17 1117
+
+Student 1118: 
+27 30 
+Student 1119: 
+1 4 4  saa 4 4 1119
+10 
+Student 1120: 
+4 4  saa 4 4 1120
+6 13 25 
+Student 1121: 
+1 4 13 19 
+Student 1122: 
+0 8 13 15 19 25 
+Student 1123: 
+15 25 27 
+Student 1124: 
+16 
+Student 1125: 
+3 13 21 24 
+Student 1126: 
+13 
+Student 1127: 
+4 13 16 
+Student 1128: 
+6 25 
+Student 1129: 
+6 13 14  sd 14 y 39 13 1129
+19 25 
+Student 1130: 
+1 12 14 15 16 
+Student 1131: 
+9 15 
+Student 1132: 
+5 16 22 
+Student 1133: 
+8 19 30 
+Student 1134: 
+15 18 
+Student 1135: 
+7 13 15 16 
+Student 1136: 
+6 10 15 31 
+Student 1137: 
+0 14 22 
+Student 1138: 
+8 10 12 13  sd 13 y 40 12 1138
+18 
+Student 1139: 
+3 8 13 19 30 
+Student 1140: 
+1 4 
+Student 1141: 
+0 3 8 24 32 
+Student 1142: 
+1 3 8 14 
+Student 1143: 
+4 10 17 24 
+Student 1144: 
+10 15 21 
+Student 1145: 
+10 12 14 15 
+Student 1146: 
+25 27 
+Student 1147: 
+4 4  saa 4 4 1147
+4  saa 4 4 1147
+
+Student 1148: 
+1 7 13 15 16 
+Student 1149: 
+1 2  sd 2 y 41 1 1149
+4 25 
+Student 1150: 
+1 8 13 13  saa 13 13 1150
+16 
+Student 1151: 
+4 9 12 17 28 
+Student 1152: 
+10 17 24 25 30 31 
+Student 1153: 
+0 5 10 24 
+Student 1154: 
+8 11 13 25 
+Student 1155: 
+1 4 6 13 24 
+Student 1156: 
+8 11 
+Student 1157: 
+0 6 10 18 30 
+Student 1158: 
+0 10 10  saa 10 10 1158
+18 18  saa 18 18 1158
+
+Student 1159: 
+16 21 
+Student 1160: 
+0 10 24 24  saa 24 24 1160
+
+Student 1161: 
+0 4 6 18 28 
+Student 1162: 
+4 8 18 
+Student 1163: 
+10 17 24 
+Student 1164: 
+1 27 
+Student 1165: 
+6 11 16 31 
+Student 1166: 
+4 6 12 25 
+Student 1167: 
+1 4 12 19 
+Student 1168: 
+4 4  saa 4 4 1168
+13 16 
+Student 1169: 
+1 4 9 15 30 
+Student 1170: 
+10 18 23 30 
+Student 1171: 
+0 4 25 27 
+Student 1172: 
+4 18 
+Student 1173: 
+6 10 18 
+Student 1174: 
+3 6 10 15 
+Student 1175: 
+1 1  saa 1 1 1175
+6 
+Student 1176: 
+1 6 10 27 
+Student 1177: 
+6 10 12 15 30 
+Student 1178: 
+0 6 8 12 
+Student 1179: 
+4 6 18 
+Student 1180: 
+6 10 15 18 
+Student 1181: 
+8 11 15 18 
+Student 1182: 
+6 8 12 16 30 
+Student 1183: 
+6 8 12 
+Student 1184: 
+6 11 15 30 
+Student 1185: 
+1 4 10 25 
+Student 1186: 
+8 16 
+Student 1187: 
+16 25 
+Student 1188: 
+4 4  saa 4 4 1188
+6 15 
+Student 1189: 
+0 5 9 15 21 
+Student 1190: 
+1 6 12 
+Student 1191: 
+15 18 30 
+Student 1192: 
+16 25 
+Student 1193: 
+7 9 13 15 16 
+Student 1194: 
+10 16 29 
+Student 1195: 
+11 11  saa 11 11 1195
+15 
+Student 1196: 
+4 4  saa 4 4 1196
+6 19 27 
+Student 1197: 
+0 8 10 
+Student 1198: 
+4 10 13 31 
+Student 1199: 
+2 11 12 19 
+Student 1200: 
+8 13 15 17 
+Student 1201: 
+8 14 17 18  sd 18 y 42 17 1201
+19 
+Student 1202: 
+4 9 10  sd 10 y 43 9 1202
+12 
+Student 1203: 
+4 4  saa 4 4 1203
+6 18 24 
+Student 1204: 
+14 21 
+Student 1205: 
+0 6 6  saa 6 6 1205
+25 
+Student 1206: 
+9 17 22 
+Student 1207: 
+8 11 14 15 
+Student 1208: 
+6 10 18 
+Student 1209: 
+6 18 28 
+Student 1210: 
+1 16 21 
+Student 1211: 
+2 6 16 18 24 
+Student 1212: 
+0 19 
+Student 1213: 
+30 
+Student 1214: 
+0 17 24 30 
+Student 1215: 
+17 
+Student 1216: 
+4 4  saa 4 4 1216
+8 10 12 
+Student 1217: 
+4 6 8 18 30 
+Student 1218: 
+8 8  saa 8 8 1218
+13 17 19 30 
+Student 1219: 
+1 1  saa 1 1 1219
+8 10 28 
+Student 1220: 
+31 
+Student 1221: 
+8 13 
+Student 1222: 
+8 16 
+Student 1223: 
+4 10 16 18 25 
+Student 1224: 
+8 10 30 30  saa 30 30 1224
+
+Student 1225: 
+8 12 15 16 18 
+Student 1226: 
+4 27 
+Student 1227: 
+11 15 19 
+Student 1228: 
+19 
+Student 1229: 
+11 13 15 18 30 
+Student 1230: 
+21 27 31 
+Student 1231: 
+1 4 13 18 
+Student 1232: 
+12 15 18 30 31 
+Student 1233: 
+15 22 
+Student 1234: 
+13 16 16  saa 16 16 1234
+
+Student 1235: 
+8 10 12 15 30 
+Student 1236: 
+9 19 19  saa 19 19 1236
+
+Student 1237: 
+15 25 27 31 
+Student 1238: 
+14 18 27 
+Student 1239: 
+0 15 16 
+Student 1240: 
+4 14 25 
+Student 1241: 
+4 16 28 
+Student 1242: 
+8 15 16 
+Student 1243: 
+10 11  sd 11 y 44 10 1243
+13 
+Student 1244: 
+0 15 16 28 
+Student 1245: 
+7 10 15 16 28 
+Student 1246: 
+7 16 25 
+Student 1247: 
+4 18 27 
+Student 1248: 
+12 
+Student 1249: 
+4 13 13  saa 13 13 1249
+24 28 
+Student 1250: 
+4 4  saa 4 4 1250
+6 27 
+Student 1251: 
+0 4 4  saa 4 4 1251
+25 
+Student 1252: 
+2 18 19 
+Student 1253: 
+8 25 
+Student 1254: 
+0 2 
+Student 1255: 
+4 
+Student 1256: 
+0 6 6  saa 6 6 1256
+
+Student 1257: 
+1 6 7  sd 7 y 45 6 1257
+8  sd 8 y 46 7 1257
+12 
+Student 1258: 
+22 
+Student 1259: 
+1 16 
+Student 1260: 
+1 8 16 
+Student 1261: 
+8 10 12 15 
+Student 1262: 
+8 8  saa 8 8 1262
+13 17 19 
+Student 1263: 
+2 4 11 
+Student 1264: 
+6 6  saa 6 6 1264
+15 28 
+Student 1265: 
+6 12 25 
+Student 1266: 
+8 17 27 
+Student 1267: 
+8 14 18 30 
+Student 1268: 
+10 16 18 31 
+Student 1269: 
+1 2  sd 2 y 47 1 1269
+4 6 18 
+Student 1270: 
+2 4 12 25 
+Student 1271: 
+3 10 11  sd 11 y 48 10 1271
+18 30 
+Student 1272: 
+1 6 8 
+Student 1273: 
+10 17 30 30  saa 30 30 1273
+31 
+Student 1274: 
+0 12 
+Student 1275: 
+6 11 12 27 
+Student 1276: 
+1 4 8 12 
+Student 1277: 
+1 4 13 24 
+Student 1278: 
+1 10 24 
+Student 1279: 
+0 4 15 24 
+Student 1280: 
+8 14 30 30  saa 30 30 1280
+
+Student 1281: 
+8 11 30 
+Student 1282: 
+6 8 25 
+Student 1283: 
+15 19 25 
+Student 1284: 
+6 
+Student 1285: 
+6 8 15 18 18  saa 18 18 1285
+
+Student 1286: 
+2 5 13 24 
+Student 1287: 
+1 4 12 25 
+Student 1288: 
+0 11 13 15 
+Student 1289: 
+4 4  saa 4 4 1289
+6 10 13 
+Student 1290: 
+4 4  saa 4 4 1290
+6 18 
+Student 1291: 
+1 12 
+Student 1292: 
+0 15 22 
+Student 1293: 
+8 13 18 22 
+Student 1294: 
+4 8 13 29 
+Student 1295: 
+1 1  saa 1 1 1295
+11 27 28 
+Student 1296: 
+6 6  saa 6 6 1296
+
+Student 1297: 
+6 8 18 30 
+Student 1298: 
+14 25 28 
+Student 1299: 
+4 4  saa 4 4 1299
+4  saa 4 4 1299
+25 
+Student 1300: 
+0 17 21 
+Student 1301: 
+6 15 
+Student 1302: 
+1 8 13 17 25 
+Student 1303: 
+17 19 31 
+Student 1304: 
+1 4 6 10 12 
+Student 1305: 
+0 11 18 
+Student 1306: 
+5 7 21 
+Student 1307: 
+4 12 14 27 
+Student 1308: 
+1 4 6 6  saa 6 6 1308
+28 
+Student 1309: 
+2 4 
+Student 1310: 
+2 10 16 
+Student 1311: 
+0 6 6  saa 6 6 1311
+8 
+Student 1312: 
+2 10 13 13  saa 13 13 1312
+16 
+Student 1313: 
+4 12 27 
+Student 1314: 
+0 4 19 24 
+Student 1315: 
+4 4  saa 4 4 1315
+4  saa 4 4 1315
+9 13 
+Student 1316: 
+25 
+Student 1317: 
+0 3 16 
+Student 1318: 
+0 22 
+Student 1319: 
+6 12 16 19 
+Student 1320: 
+4 6 13 
+Student 1321: 
+6 8 8  saa 8 8 1321
+13 
+Student 1322: 
+6 13 16 
+Student 1323: 
+6 6  saa 6 6 1323
+8 24 30 
+Student 1324: 
+15 16 24 
+Student 1325: 
+4 6 13 18 30 
+Student 1326: 
+1 13 16 24 
+Student 1327: 
+1 8 
+Student 1328: 
+4 4  saa 4 4 1328
+21 
+Student 1329: 
+11 15 25 28 
+Student 1330: 
+0 9 25 
+Student 1331: 
+4 8 16 
+Student 1332: 
+4 6 9 27 
+Student 1333: 
+18 25 
+Student 1334: 
+6 24 30 
+Student 1335: 
+0 4 6 11 18 
+Student 1336: 
+4 4  saa 4 4 1336
+12 29 
+Student 1337: 
+8 11 13 25 
+Student 1338: 
+8 25 
+Student 1339: 
+6 7  sd 7 y 49 6 1339
+16 
+Student 1340: 
+6 13 
+Student 1341: 
+0 4 6 6  saa 6 6 1341
+24 
+Student 1342: 
+5 6 8 10 
+Student 1343: 
+0 4 6 13 
+Student 1344: 
+1 8 
+Student 1345: 
+3 17 24 
+Student 1346: 
+0 6 6  saa 6 6 1346
+
+Student 1347: 
+6 10 18 31 
+Student 1348: 
+4 4  saa 4 4 1348
+12 27 
+Student 1349: 
+6 10 12 15 18 
+Student 1350: 
+6 24 
+Student 1351: 
+6 6  saa 6 6 1351
+16 22 
+Student 1352: 
+0 0  saa 0 0 1352
+4 13 16 
+Student 1353: 
+1 
+Student 1354: 
+0 8 15 
+Student 1355: 
+1 4 10 12 
+Student 1356: 
+10 15 17 18  sd 18 y 50 17 1356
+24 
+Student 1357: 
+4 6 12 13  sd 13 y 51 12 1357
+
+Student 1358: 
+4 17 
+Student 1359: 
+6 24 31 
+Student 1360: 
+1 6 8 12 15 
+Student 1361: 
+3 11 15 17 
+Student 1362: 
+4 4  saa 4 4 1362
+
+Student 1363: 
+22 30 
+Student 1364: 
+4 10 15 16 
+Student 1365: 
+4 10 16 25 
+Student 1366: 
+0 2 4 8 18 
+Student 1367: 
+6 10 15 18 31 
+Student 1368: 
+0 2 17 24 
+Student 1369: 
+0 10 17 22 24 
+Student 1370: 
+10 17 24 30 
+Student 1371: 
+0 6 6  saa 6 6 1371
+31 
+Student 1372: 
+12 25 
+Student 1373: 
+1 8 10 18 
+Student 1374: 
+0 6 19 27 
+Student 1375: 
+0 10 10  saa 10 10 1375
+24 28 
+Student 1376: 
+30 
+Student 1377: 
+6 16 32 
+Student 1378: 
+0 6 6  saa 6 6 1378
+11 
+Student 1379: 
+4 9 27 
+Student 1380: 
+0 1  sd 1 y 52 0 1380
+13 16 18 
+Student 1381: 
+4 6 13 27 
+Student 1382: 
+4 4  saa 4 4 1382
+6 6  saa 6 6 1382
+18 
+Student 1383: 
+1 10 17 24 30 
+Student 1384: 
+6 13 15 27 31 
+Student 1385: 
+4 6 19 27 29 
+Student 1386: 
+5 16 25 
+Student 1387: 
+3 14 19 22 32 
+Student 1388: 
+9 12 31 
+Student 1389: 
+4 6 
+Student 1390: 
+0 4 6 6  saa 6 6 1390
+22 
+Student 1391: 
+11 15 21 
+Student 1392: 
+0 4 18 24 
+Student 1393: 
+0 19 
+Student 1394: 
+4 13 
+Student 1395: 
+6 6  saa 6 6 1395
+18 
+Student 1396: 
+11 13 15 
+Student 1397: 
+4 8 16 25 
+Student 1398: 
+6 24 
+Student 1399: 
+2 
+Student 1400: 
+4 
+Student 1401: 
+4 18 29 
+Student 1402: 
+3 3  saa 3 3 1402
+25 
+Student 1403: 
+6 13 28 
+Student 1404: 
+6 8 13 16 30 
+Student 1405: 
+10 15 18 
+Student 1406: 
+6 6  saa 6 6 1406
+27 31 
+Student 1407: 
+6 9 15 31 31  saa 31 31 1407
+
+Student 1408: 
+10 12 18 
+Student 1409: 
+4 6 16 19 
+Student 1410: 
+0 2 6 12 24 
+Student 1411: 
+24 
+Student 1412: 
+8 18 
+Student 1413: 
+4 4  saa 4 4 1413
+16 18 
+Student 1414: 
+15 16 19 
+Student 1415: 
+4 6 18 25 
+Student 1416: 
+12 15 18 
+Student 1417: 
+8 8  saa 8 8 1417
+8  saa 8 8 1417
+13 22 
+Student 1418: 
+8 15 18 25 
+Student 1419: 
+8 12 15 30 
+Student 1420: 
+0 1  sd 1 y 53 0 1420
+6 8 
+Student 1421: 
+10 13 15 24 
+Student 1422: 
+4 6 17 24 
+Student 1423: 
+6 8 11 
+Student 1424: 
+0 8 15 
+Student 1425: 
+0 4 18 
+Student 1426: 
+30 31 
+Student 1427: 
+16 21 24 
+Student 1428: 
+6 15 27 31 
+Student 1429: 
+7 12 14 32 
+Student 1430: 
+10 15 
+Student 1431: 
+13 
+Student 1432: 
+10 18 25 31 
+Student 1433: 
+7 9 13 15 
+Student 1434: 
+1 25 27 29 
+Student 1435: 
+11 
+Student 1436: 
+1 4 16 18 
+Student 1437: 
+0 24 
+Student 1438: 
+7 9 13 15 16 
+Student 1439: 
+13 31 
+Student 1440: 
+0 3 6 10 28 
+Student 1441: 
+9 12 15 18 27 
+Student 1442: 
+9 11 17 
+Student 1443: 
+8 11 16 24 28 
+Student 1444: 
+4 4  saa 4 4 1444
+
+Student 1445: 
+6 9 11 15 
+Student 1446: 
+6 6  saa 6 6 1446
+6  saa 6 6 1446
+8 19 
+Student 1447: 
+1 7 13 13  saa 13 13 1447
+15 
+Student 1448: 
+2 7 8  sd 8 y 54 7 1448
+8  saa 8 8 1448
+13 
+Student 1449: 
+4 16 18 
+Student 1450: 
+6 6  saa 6 6 1450
+18 27 
+Student 1451: 
+11 14 15 18 25 
+Student 1452: 
+0 4 6 27 
+Student 1453: 
+4 4  saa 4 4 1453
+6 27 30 
+Student 1454: 
+10 15 18 31 
+Student 1455: 
+4 6 9 25 
+Student 1456: 
+4 12 19 25 27 
+Student 1457: 
+8 11 19 
+Student 1458: 
+9 24 25 
+Student 1459: 
+4 13 18 24 
+Student 1460: 
+6 13 24 
+Student 1461: 
+1 2  sd 2 y 55 1 1461
+4 10 
+Student 1462: 
+0 14 
+Student 1463: 
+6 16 24 
+Student 1464: 
+1 5 8 13 
+Student 1465: 
+4 16 18 
+Student 1466: 
+1 1  saa 1 1 1466
+10 31 
+Student 1467: 
+8 10 12 18 24 
+Student 1468: 
+21 25 
+Student 1469: 
+4 8 11 
+Student 1470: 
+4 30 
+Student 1471: 
+0 
+Student 1472: 
+11 17 19 25 
+Student 1473: 
+0 9 18 31 
+Student 1474: 
+11 11  saa 11 11 1474
+15 31 
+Student 1475: 
+0 8 11 16 
+Student 1476: 
+0 4 17 28 
+Student 1477: 
+21 
+Student 1478: 
+2 3 7 8  sd 8 y 56 7 1478
+25 
+Student 1479: 
+6 12 18 24 
+Student 1480: 
+4 8 13 
+Student 1481: 
+5 6 
+Student 1482: 
+1 8 15 18 30 
+Student 1483: 
+24 24  saa 24 24 1483
+
+Student 1484: 
+0 3 
+Student 1485: 
+1 4 14 18 27 
+Student 1486: 
+7 8  sd 8 y 57 7 1486
+
+Student 1487: 
+6 11 27 27  saa 27 27 1487
+31 
+Student 1488: 
+4 4  saa 4 4 1488
+9 17 24 
+Student 1489: 
+4 13 25 
+Student 1490: 
+10 30 
+Student 1491: 
+18 25 
+Student 1492: 
+8 13 
+Student 1493: 
+7 9 13 15 
+Student 1494: 
+8 
+Student 1495: 
+3 10 24 
+Student 1496: 
+7 13 
+Student 1497: 
+2 31 
+Student 1498: 
+8 11 13 15 
+Student 1499: 
+1 8 15 21 
+Student 1500: 
+8 8  saa 8 8 1500
+17 19 19  saa 19 19 1500
+
+Student 1501: 
+0 8 11 14 
+Student 1502: 
+1 
+Student 1503: 
+1 5 
+Student 1504: 
+1 4 8 13 
+Student 1505: 
+4 13 15 30 
+Student 1506: 
+4 
+Student 1507: 
+8 17 19 25 
+Student 1508: 
+1 4 9 
+Student 1509: 
+5 
+Student 1510: 
+0 10 11  sd 11 y 58 10 1510
+
+Student 1511: 
+0 
+Student 1512: 
+31 31  saa 31 31 1512
+
+Student 1513: 
+1 10 12 15 30 
+Student 1514: 
+2 30 
+Student 1515: 
+0 
+Student 1516: 
+18 27 28 
+Student 1517: 
+12 
+Student 1518: 
+4 19 25 
+Student 1519: 
+6 8 24 
+Student 1520: 
+4 16 
+Student 1521: 
+15 15  saa 15 15 1521
+16 27 
+Student 1522: 
+6 13 13  saa 13 13 1522
+
+Student 1523: 
+0 1  sd 1 y 59 0 1523
+6 8 
+Student 1524: 
+8 18 18  saa 18 18 1524
+28 31 
+Student 1525: 
+0 22 
+Student 1526: 
+31 
+Student 1527: 
+10 12 18 24 30 
+Student 1528: 
+4 4  saa 4 4 1528
+8 27 
+Student 1529: 
+6 8 8  saa 8 8 1529
+30 
+Student 1530: 
+10 15 18 30 
+Student 1531: 
+0 6 11 16 
+Student 1532: 
+1 4 4  saa 4 4 1532
+24 
+Student 1533: 
+25 30 30  saa 30 30 1533
+
+Student 1534: 
+8 13 19 25 
+Student 1535: 
+11 28 30 
+Student 1536: 
+18 30 
+Student 1537: 
+0 21 
+Student 1538: 
+4 10 18 
+Student 1539: 
+5 6 22 25 27 
+Student 1540: 
+15 15  saa 15 15 1540
+
+Student 1541: 
+4 8 16 21 
+Student 1542: 
+31 
+Student 1543: 
+8 30 
+Student 1544: 
+27 
+Student 1545: 
+8 11 15 30 
+Student 1546: 
+19 23 
+Student 1547: 
+10 18 21 31 
+Student 1548: 
+8 13 17 25 
+Student 1549: 
+3 21 22 24 
+Student 1550: 
+1 1  saa 1 1 1550
+4 13 17 
+Student 1551: 
+2 5 24 
+Student 1552: 
+4 16 
+Student 1553: 
+6 8 9 24 
+Student 1554: 
+6 16 25 
+Student 1555: 
+6 6  saa 6 6 1555
+6  saa 6 6 1555
+8 19 
+Student 1556: 
+13 19 
+Student 1557: 
+12 
+Student 1558: 
+4 
+Student 1559: 
+0 9 17 25 
+Student 1560: 
+6 6  saa 6 6 1560
+18 24 
+Student 1561: 
+4 8 11 
+Student 1562: 
+8 13 17 22 25 
+Student 1563: 
+0 4 18 19 
+Student 1564: 
+6 8 11 
+Student 1565: 
+8 
+Student 1566: 
+7 16 18 
+Student 1567: 
+0 10 16 18 
+Student 1568: 
+7 8  sd 8 y 60 7 1568
+10 13 
+Student 1569: 
+4 13 25 
+Student 1570: 
+5 19 24 
+Student 1571: 
+4 18 
+Student 1572: 
+6 10 30 31 
+Student 1573: 
+10 15 30 
+Student 1574: 
+6 15 
+Student 1575: 
+5 7 21 
+Student 1576: 
+13 15 17 
+Student 1577: 
+6 14 
+Student 1578: 
+4 4  saa 4 4 1578
+12 27 
+Student 1579: 
+0 0  saa 0 0 1579
+10 24 31 
+Student 1580: 
+11 13 15 
+Student 1581: 
+6 30 
+Student 1582: 
+0 4 6 12 18 
+Student 1583: 
+1 18 25 25  saa 25 25 1583
+27 
+Student 1584: 
+0 
+Student 1585: 
+7 8  sd 8 y 61 7 1585
+16 
+Student 1586: 
+4 30 
+Student 1587: 
+4 4  saa 4 4 1587
+10 
+Student 1588: 
+1 4 10 16 
+Student 1589: 
+1 18 
+Student 1590: 
+10 18 25 
+Student 1591: 
+4 13 
+Student 1592: 
+11 30 
+Student 1593: 
+11 30 
+Student 1594: 
+13 14  sd 14 y 62 13 1594
+30 
+Student 1595: 
+0 4 6 6  saa 6 6 1595
+6  saa 6 6 1595
+
+Student 1596: 
+3 6 8 17 
+Student 1597: 
+0 11 
+Student 1598: 
+11 12 15 15  saa 15 15 1598
+18 
+Student 1599: 
+1 1  saa 1 1 1599
+10 31 
+Student 1600: 
+6 15 25 
+Student 1601: 
+10 17 18  sd 18 y 63 17 1601
+19 
+Student 1602: 
+0 21 25 
+Student 1603: 
+15 30 31 
+Student 1604: 
+6 10 13 24 
+Student 1605: 
+1 8 12 12  saa 12 12 1605
+32 
+Student 1606: 
+0 16 21 
+Student 1607: 
+1 8 13 30 
+Student 1608: 
+4 6 8 
+Student 1609: 
+6 16 21 
+Student 1610: 
+1 6 12 27 
+Student 1611: 
+6 6  saa 6 6 1611
+11 24 
+Student 1612: 
+6 11 24 
+Student 1613: 
+3 9 10  sd 10 y 64 9 1613
+13 15 
+Student 1614: 
+8 13 15 
+Student 1615: 
+1 7 9 13 15 
+Student 1616: 
+2 7 13 15 
+Student 1617: 
+8 10 12 25 
+Student 1618: 
+1 3 3  saa 3 3 1618
+15 21 
+Student 1619: 
+4 8 
+Student 1620: 
+6 8 
+Student 1621: 
+0 8 17 19 25 
+Student 1622: 
+16 24 32 
+Student 1623: 
+4 6 14 24 30 
+Student 1624: 
+6 9 13 18 
+Student 1625: 
+0 4 4  saa 4 4 1625
+
+Student 1626: 
+16 
+Student 1627: 
+16 
+Student 1628: 
+6 12 15 18 
+Student 1629: 
+4 8 
+Student 1630: 
+1 15 19 25 
+Student 1631: 
+1 7 15 
+Student 1632: 
+0 17 
+Student 1633: 
+8 10 13 30 
+Student 1634: 
+5 11 13 
+Student 1635: 
+0 8 13 15 25 
+Student 1636: 
+4 6 13 25 
+Student 1637: 
+6 15 
+Student 1638: 
+4 11 13 
+Student 1639: 
+1 4 8 13 18 
+Student 1640: 
+18 19 24 
+Student 1641: 
+6 6  saa 6 6 1641
+6  saa 6 6 1641
+24 
+Student 1642: 
+1 4 8 13 30 
+Student 1643: 
+1 16 18 30 
+Student 1644: 
+7 15 30 
+Student 1645: 
+1 13 28 30 
+Student 1646: 
+0 8 15 
+Student 1647: 
+0 2 8 8  saa 8 8 1647
+13 
+Student 1648: 
+16 
+Student 1649: 
+1 6 10 13 18 
+Student 1650: 
+8 19 25 
+Student 1651: 
+1 17 
+Student 1652: 
+4 
+Student 1653: 
+6 25 
+Student 1654: 
+27 
+Student 1655: 
+0 10 17 
+Student 1656: 
+4 
+Student 1657: 
+2 18 
+Student 1658: 
+18 24 
+Student 1659: 
+0 18 
+Student 1660: 
+1 10 12 18 
+Student 1661: 
+1 5 15 21 
+Student 1662: 
+3 15 25 27 
+Student 1663: 
+18 
+Student 1664: 
+9 21 
+Student 1665: 
+10 18 22 
+Student 1666: 
+5 8 8  saa 8 8 1666
+9 30 30  saa 30 30 1666
+
+Student 1667: 
+15 30 
+Student 1668: 
+22 27 
+Student 1669: 
+3 
+Student 1670: 
+10 
+Student 1671: 
+21 
+Student 1672: 
+8 18 31 
+Student 1673: 
+8 19 27 32 
+Student 1674: 
+8 12 30 
+Student 1675: 
+0 31 
+Student 1676: 
+18 
+Student 1677: 
+4 
+Student 1678: 
+18 
+Student 1679: 
+0 10 
+Student 1680: 
+32 
+Student 1681: 
+4 10 16 24 
+Student 1682: 
+16 
+Student 1683: 
+30 
+Student 1684: 
+2 
+Student 1685: 
+5 
+Student 1686: 
+24 
+Student 1687: 
+8 11 
+Student 1688: 
+3 
+Student 1689: 
+10 18 
+Student 1690: 
+21 
+Student 1691: 
+16 17  sd 17 y 65 16 1691
+
+Student 1692: 
+8 11 15 
+Student 1693: 
+21 
+Student 1694: 
+0 7 17 24 
+Student 1695: 
+3 13 
+Student 1696: 
+6 8 14 
+Student 1697: 
+1 
+Student 1698: 
+18 
+Student 1699: 
+12 
+Student 1700: 
+16 
+Student 1701: 
+1 9 
+Student 1702: 
+15 
+Student 1703: 
+6 8 9 10  sd 10 y 66 9 1703
+31 
+Student 1704: 
+10 
+Student 1705: 
+3 
+Student 1706: 
+5 
+Student 1707: 
+6 
+Student 1708: 
+8 
+Student 1709: 
+5 14 
+Student 1710: 
+11 28 
+Student 1711: 
+0 
+Student 1712: 
+25 27 
+Student 1713: 
+10 18 18  saa 18 18 1713
+31 
+Student 1714: 
+9 10  sd 10 y 67 9 1714
+27 30 31 
+Student 1715: 
+1 8 12 
+Student 1716: 
+0 7 18 
+Student 1717: 
+11 28 30 30  saa 30 30 1717
+
+Student 1718: 
+31 
+Student 1719: 
+11 
+Student 1720: 
+2 14 18 
+Student 1721: 
+6 
+Student 1722: 
+4 14 25 27 
+Student 1723: 
+10 11  sd 11 y 68 10 1723
+30 
+Student 1724: 
+14 
+Student 1725: 
+5 9 11 14 25 
+Student 1726: 
+1 16 
+Student 1727: 
+2 2  saa 2 2 1727
+5 5  saa 5 5 1727
+7 
+Student 1728: 
+9 
+Student 1729: 
+27 
+Student 1730: 
+14 21 
+Student 1731: 
+6 8 18 
+Student 1732: 
+1 25 27 30 
+Student 1733: 
+0 24 
+Student 1734: 
+1 18 18  saa 18 18 1734
+22 
+Student 1735: 
+0 17 18  sd 18 y 69 17 1735
+25 
+Student 1736: 
+4 6 12 25 27 
+Student 1737: 
+3 
+Student 1738: 
+2 
+Student 1739: 
+0 1  sd 1 y 70 0 1739
+8 13 15 
+Student 1740: 
+1 9 13 28 
+Student 1741: 
+3 8 24 30 
+Student 1742: 
+0 11 18 
+Student 1743: 
+6 24 30 31 
+Student 1744: 
+1 9 16 
+Student 1745: 
+16 
+Student 1746: 
+2 6 8 16 22 
+Student 1747: 
+7 13 18 25 
+Student 1748: 
+0 11 24 31 
+Student 1749: 
+0 13 16 18 30 
+Student 1750: 
+0 11 18 31 
+Student 1751: 
+0 11 30 30  saa 30 30 1751
+
+Student 1752: 
+2 3 8 9 
+Student 1753: 
+13 25 27 
+Student 1754: 
+1 6 15 27 
+Student 1755: 
+10 30 
+Student 1756: 
+13 18 27 31 
+Student 1757: 
+1 10 15 18 28 
+Student 1758: 
+9 11 13 25 27 
+Student 1759: 
+0 6 25 27 
+Student 1760: 
+15 19 25 27 30 
+Student 1761: 
+2 3 9 10  sd 10 y 71 9 1761
+30 
+Student 1762: 
+2 14 
+Student 1763: 
+10 13 16 25 27 
+Student 1764: 
+6 13 22 31 
+Student 1765: 
+1 6 10 12 28 
+Student 1766: 
+1 4 16 18 
+Student 1767: 
+28 
+Student 1768: 
+15 16 25 27 
+Student 1769: 
+15 25 27 
+Student 1770: 
+4 16 25 27 
+Student 1771: 
+2 8 10 21 30 
+Student 1772: 
+6 22 
+Student 1773: 
+3 6 10 21 31 
+Student 1774: 
+2 13 16 
+Student 1775: 
+0 4 13 29 
+Student 1776: 
+1 1  saa 1 1 1776
+8 30 
+Student 1777: 
+6 8 8  saa 8 8 1777
+16 22 
+Student 1778: 
+9 10  sd 10 y 72 9 1778
+18 24 
+Student 1779: 
+3 6 11 31 
+Student 1780: 
+7 9 13 21 25 
+Student 1781: 
+17 18  sd 18 y 73 17 1781
+25 28 
+Student 1782: 
+1 16 22 
+Student 1783: 
+10 28 
+Student 1784: 
+8 13 24 30 
+Student 1785: 
+3 8 9 10  sd 10 y 74 9 1785
+30 
+Student 1786: 
+4 15 25 27 30 
+Student 1787: 
+3 9 16 18 
+Student 1788: 
+3 25 27 
+Student 1789: 
+1 25 
+Student 1790: 
+3 9 10  sd 10 y 75 9 1790
+15 
+Student 1791: 
+5 21 
+Student 1792: 
+8 10 22 30 
+Student 1793: 
+9 9  saa 9 9 1793
+10  sd 10 y 76 9 1793
+22 31 
+Student 1794: 
+1 4 13 16 25 
+Student 1795: 
+6 16 18 22 
+Student 1796: 
+1 11 
+Student 1797: 
+13 27 28 
+Student 1798: 
+25 27 
+Student 1799: 
+21 24 27 30 
+Student 1800: 
+3 8 9 10  sd 10 y 77 9 1800
+19 
+Student 1801: 
+1 2  sd 2 y 78 1 1801
+3 13 18 
+Student 1802: 
+2 6 7  sd 7 y 79 6 1802
+8  sd 8 y 80 7 1802
+10 
+Student 1803: 
+7 16 25 31 
+Student 1804: 
+6 10 16 19 23 
+Student 1805: 
+8 10 15 16 18 
+Student 1806: 
+3 9 10  sd 10 y 81 9 1806
+18 
+Student 1807: 
+2 2  saa 2 2 1807
+6 10 28 
+Student 1808: 
+8 10 13 25 
+Student 1809: 
+9 28 
+Student 1810: 
+6 16 22 24 
+Student 1811: 
+1 22 25 
+Student 1812: 
+6 16 16  saa 16 16 1812
+22 
+Student 1813: 
+5 9 14 25 27 
+Student 1814: 
+6 8 13 21 
+Student 1815: 
+1 10 15 27 28 
+Student 1816: 
+6 12 15 22 30 
+Student 1817: 
+1 6 10 16 22 
+Student 1818: 
+6 16 22 24 
+Student 1819: 
+11 15 27 
+Student 1820: 
+0 4 18 
+Student 1821: 
+1 6 16 
+Student 1822: 
+18 25 27 31 
+Student 1823: 
+0 10 16 
+Student 1824: 
+3 8 9 10  sd 10 y 82 9 1824
+19 
+Student 1825: 
+6 21 22 24 
+Student 1826: 
+3 8 9 10  sd 10 y 83 9 1826
+19 
+Student 1827: 
+9 9  saa 9 9 1827
+14 28 
+Student 1828: 
+12 13  sd 13 y 84 12 1828
+16 25 27 
+Student 1829: 
+1 7 15 21 
+Student 1830: 
+1 6 8 25 27 
+Student 1831: 
+0 12 28 
+Student 1832: 
+13 16 18 
+Student 1833: 
+1 15 16 28 
+Student 1834: 
+3 8 9 23 
+Student 1835: 
+1 9 25 27 27  saa 27 27 1835
+
+Student 1836: 
+6 16 22 24 
+Student 1837: 
+8 16 21 24 32 
+Student 1838: 
+6 12 19 
+Student 1839: 
+10 16 18 22 25 
+Student 1840: 
+18 29 
+Student 1841: 
+1 13 
+Student 1842: 
+6 7  sd 7 y 85 6 1842
+8  sd 8 y 86 7 1842
+16 
+Student 1843: 
+6 8 10 25 
+Student 1844: 
+3 8 9 10  sd 10 y 87 9 1844
+30 
+Student 1845: 
+0 0  saa 0 0 1845
+5 13 18 
+Student 1846: 
+8 16 
+Student 1847: 
+4 13 25 28 
+Student 1848: 
+1 6 8 24 
+Student 1849: 
+6 18 25 27 
+Student 1850: 
+1 13 16 25 27 
+Student 1851: 
+3 8 15 27 30 
+Student 1852: 
+16 25 
+Student 1853: 
+0 0  saa 0 0 1853
+8 16 18 
+Student 1854: 
+6 8 25 
+Student 1855: 
+11 25 
+Student 1856: 
+8 14 24 
+Student 1857: 
+6 7  sd 7 y 88 6 1857
+8  sd 8 y 89 7 1857
+13 25 
+Student 1858: 
+3 13 16 25 27 28 
+Student 1859: 
+3 6 8 24 30 
+Student 1860: 
+6 8 24 31 
+Student 1861: 
+18 25 27 
+Student 1862: 
+9 14 16 25 29 
+Student 1863: 
+10 15 25 27 27  saa 27 27 1863
+
+Student 1864: 
+9 15 15  saa 15 15 1864
+
+Student 1865: 
+0 3 8 11 
+Student 1866: 
+0 3 6 22 31 
+Student 1867: 
+6 16 24 24  saa 24 24 1867
+
+Student 1868: 
+6 14 22 
+Student 1869: 
+1 4 9 28 
+Student 1870: 
+8 16 24 28 
+Student 1871: 
+5 9 25 
+Student 1872: 
+4 10 17 21 21  saa 21 21 1872
+
+Student 1873: 
+0 3 5 6 28 
+Student 1874: 
+0 11 13 18 27 
+Student 1875: 
+25 28 
+Student 1876: 
+10 10  saa 10 10 1876
+17 27 
+Student 1877: 
+6 7  sd 7 y 90 6 1877
+8  sd 8 y 91 7 1877
+10 28 
+Student 1878: 
+9 10  sd 10 y 92 9 1878
+18 
+Student 1879: 
+8 9 10  sd 10 y 93 9 1879
+11  sd 11 y 94 10 1879
+21 
+Student 1880: 
+10 11  sd 11 y 95 10 1880
+25 27 
+Student 1881: 
+1 16 25 
+Student 1882: 
+25 27 30 
+Student 1883: 
+11 25 27 
+Student 1884: 
+2 3 
+Student 1885: 
+9 10  sd 10 y 96 9 1885
+24 27 
+Student 1886: 
+1 6 27 27  saa 27 27 1886
+32 
+Student 1887: 
+3 8 11 
+Student 1888: 
+0 6 11 31 31  saa 31 31 1888
+
+Student 1889: 
+2 3 8 18 30 
+Student 1890: 
+3 6 7  sd 7 y 97 6 1890
+8  sd 8 y 98 7 1890
+10 
+Student 1891: 
+28 
+Student 1892: 
+2 18 28 
+Student 1893: 
+1 6 8 16 24 
+Student 1894: 
+13 14  sd 14 y 99 13 1894
+24 
+Student 1895: 
+11 11  saa 11 11 1895
+31 
+Student 1896: 
+24 28 30 
+Student 1897: 
+11 25 27 30 
+Student 1898: 
+1 16 25 28 
+Student 1899: 
+15 25 27 30 
+Student 1900: 
+13 16 18 25 27 
+Student 1901: 
+10 16 19 21 
+Student 1902: 
+3 3  saa 3 3 1902
+5 9 10  sd 10 y 100 9 1902
+30 
+Student 1903: 
+18 
+Student 1904: 
+6 8 9 24 30 
+Student 1905: 
+0 2 3 5 
+Student 1906: 
+1 
+Student 1907: 
+2 9 22 28 
+Student 1908: 
+2 3 8 17 30 
+Student 1909: 
+0 14 
+Student 1910: 
+6 10 16 18 22 
+Student 1911: 
+24 30 
+Student 1912: 
+9 10  sd 10 y 101 9 1912
+18 30 
+Student 1913: 
+15 18 25 27 
+Student 1914: 
+10 11  sd 11 y 102 10 1914
+21 27 28 
+Student 1915: 
+13 25 27 28 
+Student 1916: 
+10 22 30 
+Student 1917: 
+6 16 24 31 
+Student 1918: 
+9 9  saa 9 9 1918
+11 28 
+Student 1919: 
+12 16 24 
+Student 1920: 
+9 16 19 
+Student 1921: 
+11 24 31 
+Student 1922: 
+7 8  sd 8 y 103 7 1922
+25 27 28 
+Student 1923: 
+1 2  sd 2 y 104 1 1923
+4 9 27 
+Student 1924: 
+10 13 18 
+Student 1925: 
+24 30 30  saa 30 30 1925
+
+Student 1926: 
+5 13 16 25 
+Student 1927: 
+14 29 
+Student 1928: 
+6 7  sd 7 y 105 6 1928
+8  sd 8 y 106 7 1928
+15 25 
+Student 1929: 
+9 11 18 25 
+Student 1930: 
+11 13 15 25 27 
+Student 1931: 
+0 1  sd 1 y 107 0 1931
+5 15 15  saa 15 15 1931
+
+Student 1932: 
+10 16 28 
+Student 1933: 
+6 25 27 31 
+Student 1934: 
+8 24 30 30  saa 30 30 1934
+
+Student 1935: 
+9 9  saa 9 9 1935
+15 27 31 
+Student 1936: 
+6 6  saa 6 6 1936
+22 24 
+Student 1937: 
+6 10 18 25 
+Student 1938: 
+0 
+Student 1939: 
+10 11  sd 11 y 108 10 1939
+25 27 
+Student 1940: 
+0 9 10  sd 10 y 109 9 1940
+27 
+Student 1941: 
+30 32 
+Student 1942: 
+0 9 21 
+Student 1943: 
+6 8 9 16 22 
+Student 1944: 
+10 15 25 28 31 
+Student 1945: 
+6 10 27 31 
+Student 1946: 
+10 21 25 31 
+Student 1947: 
+0 14 15 27 
+Student 1948: 
+6 10 25 27 28 
+Student 1949: 
+14 
+Student 1950: 
+18 
+Student 1951: 
+0 13 18 
+Student 1952: 
+8 13 24 30 
+Student 1953: 
+3 25 27 
+Student 1954: 
+14 24 
+Student 1955: 
+5 6 16 24 32 
+Student 1956: 
+6 16 22 25 
+Student 1957: 
+1 8 16 24 29 
+Student 1958: 
+6 7  sd 7 y 110 6 1958
+8  sd 8 y 111 7 1958
+16 22 
+Student 1959: 
+0 5 9 25 29 
+Student 1960: 
+8 9 10  sd 10 y 112 9 1960
+15 25 
+Student 1961: 
+1 11 28 
+Student 1962: 
+1 16 25 
+Student 1963: 
+3 18 21 30 
+Student 1964: 
+1 12 17 27 
+Student 1965: 
+4 6 8 10 23 
+Student 1966: 
+9 15 16 27 28 
+Student 1967: 
+13 15 19 21 30 
+Student 1968: 
+10 14 19 28 
+Student 1969: 
+8 10 12 18 19 
+Student 1970: 
+1 7 8  sd 8 y 113 7 1970
+21 27 
+Student 1971: 
+10 11  sd 11 y 114 10 1971
+31 32 
+Student 1972: 
+0 6 13 25 
+Student 1973: 
+5 14 21 28 32 
+Student 1974: 
+6 7  sd 7 y 115 6 1974
+8  sd 8 y 116 7 1974
+21 24 
+Student 1975: 
+25 27 30 
+Student 1976: 
+24 25 27 31 
+Student 1977: 
+1 3 13 16 
+Student 1978: 
+1 2  sd 2 y 117 1 1978
+3 6 
+Student 1979: 
+14 25 27 
+Student 1980: 
+1 24 27 
+Student 1981: 
+2 6 8 22 
+Student 1982: 
+3 9 15 30 31 
+Student 1983: 
+1 13 15 25 27 
+Student 1984: 
+4 25 27 
+Student 1985: 
+1 2  sd 2 y 118 1 1985
+11 15 
+Student 1986: 
+1 2  sd 2 y 119 1 1986
+11 15 
+Student 1987: 
+24 25 27 31 
+Student 1988: 
+3 8 18 30 
+Student 1989: 
+1 15 18 24 27 
+Student 1990: 
+3 3  saa 3 3 1990
+5 11 30 
+Student 1991: 
+11 11  saa 11 11 1991
+11  saa 11 11 1991
+24 30 
+Student 1992: 
+8 8  saa 8 8 1992
+24 28 
+Student 1993: 
+0 13 16 18 25 
+Student 1994: 
+6 16 24 
+Student 1995: 
+11 15 15  saa 15 15 1995
+25 28 
+Student 1996: 
+6 21 31 
+Student 1997: 
+2 11 11  saa 11 11 1997
+25 27 
+Student 1998: 
+6 8 24 30 
+Student 1999: 
+1 8 24 24  saa 24 24 1999
+30 
+Student 2000: 
+3 8 9 10  sd 10 y 120 9 2000
+31 
+Student 2001: 
+2 6 7  sd 7 y 121 6 2001
+8  sd 8 y 122 7 2001
+30 
+Student 2002: 
+0 2 4 11 
+Student 2003: 
+6 10 14 16 18 
+Student 2004: 
+3 9 10  sd 10 y 123 9 2004
+
+Student 2005: 
+22 24 
+Student 2006: 
+11 18 21 
+Student 2007: 
+1 15 16 25 27 
+Student 2008: 
+1 18 
+Student 2009: 
+16 25 27 
+Student 2010: 
+1 13 16 17  sd 17 y 124 16 2010
+25 
+Student 2011: 
+0 11 21 24 
+Student 2012: 
+6 8 10 17 18  sd 18 y 125 17 2012
+
+Student 2013: 
+7 25 27 31 
+Student 2014: 
+10 18 24 30 
+Student 2015: 
+0 5 13 16 25 
+Student 2016: 
+7 9 10  sd 10 y 126 9 2016
+15 28 
+Student 2017: 
+9 10  sd 10 y 127 9 2017
+28 30 
+Student 2018: 
+13 16 
+Student 2019: 
+10 24 28 
+Student 2020: 
+13 18 25 27 
+Student 2021: 
+2 13 28 
+Student 2022: 
+11 13 28 30 
+Student 2023: 
+11 13 25 28 30 
+Student 2024: 
+0 24 25 30 
+Student 2025: 
+10 15 16 28 
+Student 2026: 
+0 1  sd 1 y 128 0 2026
+6 9 15 
+Student 2027: 
+1 11 29 
+Student 2028: 
+3 8 9 10  sd 10 y 129 9 2028
+30 
+Student 2029: 
+6 15 22 31 
+Student 2030: 
+1 7 8  sd 8 y 130 7 2030
+17 27 
+Student 2031: 
+10 16 22 
+Student 2032: 
+9 10  sd 10 y 131 9 2032
+21 25 27 
+Student 2033: 
+5 6 10 22 
+Student 2034: 
+14 
+Student 2035: 
+0 3 11 13 18 
+Student 2036: 
+1 3 5 25 
+Student 2037: 
+1 9 9  saa 9 9 2037
+21 27 
+Student 2038: 
+8 10 22 31 
+Student 2039: 
+1 15 24 25 27 
+Student 2040: 
+1 16 18 21 22 
+Student 2041: 
+18 25 27 
+Student 2042: 
+10 13 18 24 
+Student 2043: 
+21 
+Student 2044: 
+16 21 24 
+Student 2045: 
+9 12 15 18 
+Student 2046: 
+11 13 24 30 31 
+Student 2047: 
+6 10 18 24 
+Student 2048: 
+2 3 10 10  saa 10 10 2048
+
+Student 2049: 
+9 14 16 
+Student 2050: 
+6 8 8  saa 8 8 2050
+10 18 
+Student 2051: 
+16 18 24 30 
+Student 2052: 
+1 6 7  sd 7 y 132 6 2052
+8  sd 8 y 133 7 2052
+
+Student 2053: 
+14 19 21 25 27 
+Student 2054: 
+27 30 31 
+Student 2055: 
+0 11 18 
+Student 2056: 
+1 3 13 25 27 
+Student 2057: 
+10 11  sd 11 y 134 10 2057
+18 27 
+Student 2058: 
+9 14 25 
+Student 2059: 
+9 10  sd 10 y 135 9 2059
+15 16 27 
+Student 2060: 
+1 6 7  sd 7 y 136 6 2060
+8  sd 8 y 137 7 2060
+10 
+Student 2061: 
+13 18 27 
+Student 2062: 
+6 16 25 
+Student 2063: 
+6 16 18 22 
+Student 2064: 
+8 16 21 
+Student 2065: 
+10 11  sd 11 y 138 10 2065
+15 27 
+Student 2066: 
+2 10 19 24 24  saa 24 24 2066
+
+Student 2067: 
+3 13 16 16  saa 16 16 2067
+24 
+Student 2068: 
+2 17 22 24 24  saa 24 24 2068
+
+Student 2069: 
+8 24 30 31 
+Student 2070: 
+1 13 18 25 25  saa 25 25 2070
+
+Student 2071: 
+1 13 
+Student 2072: 
+7 11 15 27 
+Student 2073: 
+6 8 9 27 30 
+Student 2074: 
+1 7 8  sd 8 y 139 7 2074
+25 27 
+Student 2075: 
+13 16 21 24 
+Student 2076: 
+6 10 11  sd 11 y 140 10 2076
+
+Student 2077: 
+6 8 10 28 
+Student 2078: 
+15 21 24 31 
+Student 2079: 
+6 14 25 27 28 
+Student 2080: 
+13 16 21 27 28 
+Student 2081: 
+3 10 27 
+Student 2082: 
+6 25 27 
+Student 2083: 
+10 17 18  sd 18 y 141 17 2083
+24 25 
+Student 2084: 
+5 15 25 27 27  saa 27 27 2084
+
+Student 2085: 
+11 30 
+Student 2086: 
+3 6 10 21 28 
+Student 2087: 
+22 25 27 27  saa 27 27 2087
+
+Student 2088: 
+10 16 24 28 
+Student 2089: 
+0 4 13 16 
+Student 2090: 
+4 15 25 27 30 
+Student 2091: 
+5 11 15 25 27 
+Student 2092: 
+15 18 19 25 27 
+Student 2093: 
+25 
+Student 2094: 
+3 9 10  sd 10 y 142 9 2094
+30 
+Student 2095: 
+8 24 31 
+Student 2096: 
+6 7  sd 7 y 143 6 2096
+8  sd 8 y 144 7 2096
+16 22 
+Student 2097: 
+6 16 22 30 
+Student 2098: 
+3 9 10  sd 10 y 145 9 2098
+30 
+Student 2099: 
+11 15 15  saa 15 15 2099
+25 27 
+Student 2100: 
+4 6 16 31 
+Student 2101: 
+6 8 10 16 22 
+Student 2102: 
+15 19 25 27 
+Student 2103: 
+8 11 
+Student 2104: 
+13 16 24 24  saa 24 24 2104
+
+Student 2105: 
+1 18 24 25 
+Student 2106: 
+1 4 24 28 
+Student 2107: 
+10 18 31 
+Student 2108: 
+16 21 
+Student 2109: 
+3 8 9 10  sd 10 y 146 9 2109
+30 
+Student 2110: 
+9 11 16 28 
+Student 2111: 
+1 10 21 21  saa 21 21 2111
+25 
+Student 2112: 
+8 9 24 27 31 
+Student 2113: 
+11 13 21 24 
+Student 2114: 
+8 8  saa 8 8 2114
+17 18  sd 18 y 147 17 2114
+
+Student 2115: 
+8 13 16 21 
+Student 2116: 
+11 18 21 
+Student 2117: 
+16 
+Student 2118: 
+6 7  sd 7 y 148 6 2118
+8  sd 8 y 149 7 2118
+10 28 
+Student 2119: 
+6 21 22 24 
+Student 2120: 
+3 8 9 10  sd 10 y 150 9 2120
+17 
+Student 2121: 
+16 28 
+Student 2122: 
+10 12 
+Student 2123: 
+21 
+Student 2124: 
+2 27 28 
+Student 2125: 
+21 22 30 
+Student 2126: 
+10 15 23 25 27 
+Student 2127: 
+6 13 16 18 24 
+Student 2128: 
+10 16 25 28 30 
+Student 2129: 
+9 16 18 28 
+Student 2130: 
+1 10 16 18 28 
+Student 2131: 
+6 17 22 24 24  saa 24 24 2131
+
+Student 2132: 
+0 4 16 27 
+Student 2133: 
+13 15 16 
+Student 2134: 
+6 11 24 25 27 
+Student 2135: 
+6 13 16 25 
+Student 2136: 
+3 8 17 30 
+Student 2137: 
+8 11 27 
+Student 2138: 
+1 13 15 16 
+Student 2139: 
+3 3  saa 3 3 2139
+11 18 30 
+Student 2140: 
+13 16 27 28 
+Student 2141: 
+11 19 25 30 
+Student 2142: 
+4 16 31 
+Student 2143: 
+8 
+Student 2144: 
+18 
+Student 2145: 
+2 6 22 24 
+Student 2146: 
+1 2  sd 2 y 151 1 2146
+5 25 
+Student 2147: 
+6 8 10 13 23 
+Student 2148: 
+9 11 30 
+Student 2149: 
+2 3 5 25 27 
+Student 2150: 
+8 24 31 
+Student 2151: 
+1 9 9  saa 9 9 2151
+10  sd 10 y 152 9 2151
+25 
+Student 2152: 
+0 17 18  sd 18 y 153 17 2152
+30 
+Student 2153: 
+3 9 10  sd 10 y 154 9 2153
+18 30 
+Student 2154: 
+11 13 16 28 
+Student 2155: 
+0 2 11 18 
+Student 2156: 
+2 11 25 
+Student 2157: 
+1 9 9  saa 9 9 2157
+24 24  saa 24 24 2157
+
+Student 2158: 
+15 27 
+Student 2159: 
+9 15 22 25 27 
+Student 2160: 
+11 22 24 30 
+Student 2161: 
+7 19 21 25 27 
+Student 2162: 
+2 11 18 19 
+Student 2163: 
+6 18 25 27 31 
+Student 2164: 
+8 9 13 25 
+Student 2165: 
+0 8 16 22 31 
+Student 2166: 
+9 19 21 25 31 
+Student 2167: 
+3 17 21 28 
+Student 2168: 
+1 3 5 18 
+Student 2169: 
+6 7  sd 7 y 155 6 2169
+8  sd 8 y 156 7 2169
+25 
+Student 2170: 
+10 15 18 28 
+Student 2171: 
+6 7  sd 7 y 157 6 2171
+8  sd 8 y 158 7 2171
+10 19 
+Student 2172: 
+0 13 18 28 
+Student 2173: 
+7 19 28 
+Student 2174: 
+6 6  saa 6 6 2174
+8 16 22 
+Student 2175: 
+3 6 16 23 25 
+Student 2176: 
+16 25 
+Student 2177: 
+1 10 10  saa 10 10 2177
+21 29 
+Student 2178: 
+3 6 15 24 
+Student 2179: 
+6 16 18 18  saa 18 18 2179
+
+Student 2180: 
+6 8 12 
+Student 2181: 
+1 3 3  saa 3 3 2181
+5 
+Student 2182: 
+7 8  sd 8 y 159 7 2182
+10 30 
+Student 2183: 
+0 1  sd 1 y 160 0 2183
+13 28 30 
+Student 2184: 
+9 10  sd 10 y 161 9 2184
+13 16 25 
+Student 2185: 
+4 8 10 16 27 
+Student 2186: 
+1 15 25 27 27  saa 27 27 2186
+
+Student 2187: 
+10 24 24  saa 24 24 2187
+24  saa 24 24 2187
+25 
+Student 2188: 
+1 8 8  saa 8 8 2188
+24 30 
+Student 2189: 
+9 24 25 27 
+Student 2190: 
+15 
+Student 2191: 
+10 18 24 24  saa 24 24 2191
+
+Student 2192: 
+8 11 30 30  saa 30 30 2192
+
+Student 2193: 
+1 11 16 23 28 
+Student 2194: 
+0 16 17  sd 17 y 162 16 2194
+24 30 
+Student 2195: 
+1 3 5 19 25 
+Student 2196: 
+4 10 18 27 
+Student 2197: 
+13 15 21 28 30 
+Student 2198: 
+5 15 27 
+Student 2199: 
+8 24 25 30 
+Student 2200: 
+6 10 24 25 27 
+Student 2201: 
+6 10 31 
+Student 2202: 
+6 8 8  saa 8 8 2202
+22 
+Student 2203: 
+1 13 16 
+Student 2204: 
+8 24 30 32 
+Student 2205: 
+8 9 24 30 
+Student 2206: 
+8 13 15 17 
+Student 2207: 
+2 6 7  sd 7 y 163 6 2207
+9 10  sd 10 y 164 9 2207
+
+Student 2208: 
+10 13 21 
+Student 2209: 
+6 10 11  sd 11 y 165 10 2209
+18 
+Student 2210: 
+6 8 8  saa 8 8 2210
+22 32 
+Student 2211: 
+15 18 27 
+Student 2212: 
+1 4 16 28 
+Student 2213: 
+0 6 9 18 28 
+Student 2214: 
+1 16 25 25  saa 25 25 2214
+
+Student 2215: 
+3 10 16 21 
+Student 2216: 
+4 28 
+Student 2217: 
+10 11  sd 11 y 166 10 2217
+15 22 
+Student 2218: 
+1 
+Student 2219: 
+4 13 16 25 27 
+Student 2220: 
+0 11 11  saa 11 11 2220
+13 
+Student 2221: 
+4 8 17 
+Student 2222: 
+1 6 13 25 
+Student 2223: 
+1 3 28 
+Student 2224: 
+8 11 15 25 
+Student 2225: 
+0 12 13  sd 13 y 167 12 2225
+18 
+Student 2226: 
+1 16 18 25 27 
+Student 2227: 
+4 10 13 15 28 
+Student 2228: 
+9 22 
+Student 2229: 
+13 13  saa 13 13 2229
+15 25 28 
+Student 2230: 
+6 8 19 24 30 
+Student 2231: 
+1 4 16 25 27 
+Student 2232: 
+6 8 16 24 31 
+Student 2233: 
+11 11  saa 11 11 2233
+15 25 
+Student 2234: 
+7 10 22 24 30 31 
+Student 2235: 
+0 8 16 16  saa 16 16 2235
+
+Student 2236: 
+11 22 31 
+Student 2237: 
+8 9 28 30 
+Student 2238: 
+9 15 16 21 
+Student 2239: 
+0 3 11 18 
+Student 2240: 
+12 16 
+Student 2241: 
+2 10 15 27 28 
+Student 2242: 
+3 24 31 
+Student 2243: 
+11 15 25 27 
+Student 2244: 
+0 11 21 30 
+Student 2245: 
+6 8 10 16 22 
+Student 2246: 
+6 16 24 24  saa 24 24 2246
+25 
+Student 2247: 
+6 16 19 24 
+Student 2248: 
+6 7  sd 7 y 168 6 2248
+8  sd 8 y 169 7 2248
+10 22 
+Student 2249: 
+5 6 10 16 22 
+Student 2250: 
+10 12 18 
+Student 2251: 
+0 11 16 24 31 
+Student 2252: 
+15 27 
+Student 2253: 
+5 15 25 27 
+Student 2254: 
+0 11 14 
+Student 2255: 
+3 8 8  saa 8 8 2255
+19 30 
+Student 2256: 
+0 5 6 25 27 
+Student 2257: 
+3 8 9 17 
+Student 2258: 
+5 13 15 25 27 
+Student 2259: 
+3 9 10  sd 10 y 170 9 2259
+21 
+Student 2260: 
+15 24 25 27 
+Student 2261: 
+0 11 27 
+Student 2262: 
+1 15 24 27 
+Student 2263: 
+1 9 13 27 30 
+Student 2264: 
+5 6 13 25 27 
+Student 2265: 
+6 24 24  saa 24 24 2265
+25 
+Student 2266: 
+8 25 27 30 
+Student 2267: 
+2 11 11  saa 11 11 2267
+18 
+Student 2268: 
+8 12 15 
+Student 2269: 
+5 6 8 24 
+Student 2270: 
+2 11 30 
+Student 2271: 
+11 24 25 
+Student 2272: 
+30 31 
+Student 2273: 
+9 11 18 25 30 
+Student 2274: 
+19 24 25 27 
+Student 2275: 
+9 10  sd 10 y 171 9 2275
+31 
+Student 2276: 
+0 3 8 10 17 
+Student 2277: 
+0 18 30 31 
+Student 2278: 
+3 3  saa 3 3 2278
+8 30 
+Student 2279: 
+6 8 16 30 
+Student 2280: 
+1 2  sd 2 y 172 1 2280
+15 24 32 
+Student 2281: 
+2 9 10  sd 10 y 173 9 2281
+27 
+Student 2282: 
+3 9 10  sd 10 y 174 9 2282
+23 31 
+Student 2283: 
+11 14 18 25 
+Student 2284: 
+3 9 10  sd 10 y 175 9 2284
+31 32 
+Student 2285: 
+0 14 31 
+Student 2286: 
+3 10 17 18  sd 18 y 176 17 2286
+31 
+Student 2287: 
+6 18 25 28 
+Student 2288: 
+1 11 13 31 
+Student 2289: 
+2 9 11 28 
+Student 2290: 
+11 25 27 
+Student 2291: 
+3 8 9 10  sd 10 y 177 9 2291
+30 
+Student 2292: 
+3 28 
+Student 2293: 
+9 10  sd 10 y 178 9 2293
+19 31 
+Student 2294: 
+7 8  sd 8 y 179 7 2294
+24 25 
+Student 2295: 
+3 9 10  sd 10 y 180 9 2295
+17 19 30 
+Student 2296: 
+6 30 
+Student 2297: 
+0 1  sd 1 y 181 0 2297
+4 12 
+Student 2298: 
+0 8 24 30 
+Student 2299: 
+18 24 
+Student 2300: 
+10 16 25 
+Student 2301: 
+9 11 16 31 
+Student 2302: 
+8 18 24 31 
+Student 2303: 
+14 24 27 
+Student 2304: 
+10 16 25 27 
+Student 2305: 
+15 25 27 
+Student 2306: 
+6 25 27 
+Student 2307: 
+7 10 15 16 27 
+Student 2308: 
+1 15 
+Student 2309: 
+0 6 30 31 
+Student 2310: 
+6 18 25 27 30 
+Student 2311: 
+6 8 18 24 31 
+Student 2312: 
+11 13 30 31 
+Student 2313: 
+0 8 11 18 
+Student 2314: 
+6 18 24 25 31 
+Student 2315: 
+2 28 30 30  saa 30 30 2315
+
+Student 2316: 
+0 6 15 18 
+Student 2317: 
+9 13 24 25 
+Student 2318: 
+1 10 13 28 
+Student 2319: 
+13 15 25 27 30 
+Student 2320: 
+6 22 25 
+Student 2321: 
+0 6 7  sd 7 y 182 6 2321
+8  sd 8 y 183 7 2321
+10 
+Student 2322: 
+0 18 
+Student 2323: 
+13 18 
+Student 2324: 
+6 7  sd 7 y 184 6 2324
+8  sd 8 y 185 7 2324
+25 25  saa 25 25 2324
+
+Student 2325: 
+10 10  saa 10 10 2325
+18 21 25 
+Student 2326: 
+6 10 18 21 31 
+Student 2327: 
+8 25 
+Student 2328: 
+2 6 9 24 24  saa 24 24 2328
+
+Student 2329: 
+6 10 11  sd 11 y 186 10 2329
+31 
+Student 2330: 
+8 13 19 27 
+Student 2331: 
+6 8 17 22 25 
+Student 2332: 
+0 6 10 
+Student 2333: 
+10 10  saa 10 10 2333
+17 25 27 
+Student 2334: 
+0 16 24 
+Student 2335: 
+4 19 25 
+Student 2336: 
+0 11 18 18  saa 18 18 2336
+
+Student 2337: 
+1 10 16 29 
+Student 2338: 
+0 3 8 9 13 
+Student 2339: 
+1 5 15 17 
+Student 2340: 
+7 7  saa 7 7 2340
+13 16 18 21 
+Student 2341: 
+1 8 12 15 
+Student 2342: 
+1 4 28 
+Student 2343: 
+8 24 31 
+Student 2344: 
+6 7  sd 7 y 187 6 2344
+10 28 30 
+Student 2345: 
+8 16 18 
+Student 2346: 
+1 25 
+Student 2347: 
+0 1  sd 1 y 188 0 2347
+11 15 
+Student 2348: 
+3 8 14 17 30 
+Student 2349: 
+10 13 18 27 28 
+Student 2350: 
+1 21 25 
+Student 2351: 
+3 9 10  sd 10 y 189 9 2351
+30 
+Student 2352: 
+6 8 16 24 
+Student 2353: 
+6 7  sd 7 y 190 6 2353
+16 24 27 
+Student 2354: 
+9 14 19 21 
+Student 2355: 
+1 6 6  saa 6 6 2355
+15 27 
+Student 2356: 
+1 6 18 25 27 
+Student 2357: 
+14 16 27 
+Student 2358: 
+2 11 18 24 
+Student 2359: 
+6 10 18 22 24 
+Student 2360: 
+3 9 11 21 
+Student 2361: 
+4 25 27 
+Student 2362: 
+3 9 10  sd 10 y 191 9 2362
+22 31 
+Student 2363: 
+0 9 11 21 30 
+Student 2364: 
+8 11 25 
+Student 2365: 
+16 19 
+Student 2366: 
+6 18 24 31 
+Student 2367: 
+9 15 21 28 
+Student 2368: 
+11 14 18 18  saa 18 18 2368
+25 
+Student 2369: 
+9 10  sd 10 y 192 9 2369
+25 
+Student 2370: 
+3 15 25 27 
+Student 2371: 
+11 14 16 24 
+Student 2372: 
+0 3 5 11 31 
+Student 2373: 
+0 10 18 27 
+Student 2374: 
+0 1  sd 1 y 193 0 2374
+3 21 
+Student 2375: 
+7 10 32 
+Student 2376: 
+1 2  sd 2 y 194 1 2376
+3 3  saa 3 3 2376
+
+Student 2377: 
+6 8 25 27 
+Student 2378: 
+9 9  saa 9 9 2378
+10  sd 10 y 195 9 2378
+21 30 
+Student 2379: 
+4 11 25 30 
+Student 2380: 
+6 8 10 25 
+Student 2381: 
+1 2  sd 2 y 196 1 2381
+18 22 
+Student 2382: 
+15 25 27 
+Student 2383: 
+1 18 27 
+Student 2384: 
+6 10 10  saa 10 10 2384
+22 
+Student 2385: 
+0 8 13 18 30 
+Student 2386: 
+6 14 25 27 28 
+Student 2387: 
+13 16 24 
+Student 2388: 
+1 6 8 
+Student 2389: 
+1 3 5 25 27 
+Student 2390: 
+1 7 16 21 
+Student 2391: 
+3 10 16 21 24 
+Student 2392: 
+13 15 25 31 
+Student 2393: 
+0 14 15 28 
+Student 2394: 
+10 15 24 31 
+Student 2395: 
+11 13 19 31 
+Student 2396: 
+4 13 25 27 
+Student 2397: 
+3 6 
+Student 2398: 
+10 11  sd 11 y 197 10 2398
+18 22 31 
+Student 2399: 
+3 8 9 10  sd 10 y 198 9 2399
+30 
+Student 2400: 
+1 10 21 25 
+Student 2401: 
+0 15 18 25 27 
+Student 2402: 
+8 10 18 22 28 
+Student 2403: 
+13 19 25 27 
+Student 2404: 
+10 13 18 18  saa 18 18 2404
+
+Student 2405: 
+1 10 18 28 
+Student 2406: 
+1 1  saa 1 1 2406
+10 16 
+Student 2407: 
+6 14 22 
+Student 2408: 
+2 11 11  saa 11 11 2408
+11  saa 11 11 2408
+
+Student 2409: 
+1 6 10 16 18 23 
+Student 2410: 
+1 13 16 
+Student 2411: 
+1 3 
+Student 2412: 
+1 2  sd 2 y 199 1 2412
+3 5 
+Student 2413: 
+6 8 25 27 
+Student 2414: 
+9 24 24  saa 24 24 2414
+27 28 
+Student 2415: 
+10 18 27 28 
+Student 2416: 
+1 2  sd 2 y 200 1 2416
+3 3  saa 3 3 2416
+5 
+Student 2417: 
+15 16 25 27 29 
+Student 2418: 
+1 4 9 21 29 
+Student 2419: 
+8 15 27 28 
+Student 2420: 
+10 15 28 31 
+Student 2421: 
+0 2 9 10  sd 10 y 201 9 2421
+18 
+Student 2422: 
+8 12 15 21 28 
+Student 2423: 
+1 6 13 18 24 
+Student 2424: 
+4 12 15 25 27 
+Student 2425: 
+0 10 12 18 32 
+Student 2426: 
+1 6 8 16 24 
+Student 2427: 
+4 6 8 10 18 
+Student 2428: 
+3 5 24 24  saa 24 24 2428
+32 
+Student 2429: 
+8 11 30 
+Student 2430: 
+0 11 18 28 
+Student 2431: 
+2 3 9 10  sd 10 y 202 9 2431
+30 
+Student 2432: 
+8 10 24 
+Student 2433: 
+3 8 9 16 
+Student 2434: 
+8 12 25 30 
+Student 2435: 
+6 7  sd 7 y 203 6 2435
+8  sd 8 y 204 7 2435
+13 25 
+Student 2436: 
+3 13 21 27 
+Student 2437: 
+1 25 27 27  saa 27 27 2437
+
+Student 2438: 
+11 11  saa 11 11 2438
+14 24 
+Student 2439: 
+6 8 8  saa 8 8 2439
+25 31 
+Student 2440: 
+30 
+Student 2441: 
+6 7  sd 7 y 205 6 2441
+8  sd 8 y 206 7 2441
+10 25 
+Student 2442: 
+3 6 6  saa 6 6 2442
+8 25 
+Student 2443: 
+10 15 18 25 
+Student 2444: 
+0 22 30 
+Student 2445: 
+2 19 27 
+Student 2446: 
+9 10  sd 10 y 207 9 2446
+21 24 
+Student 2447: 
+1 4 9 13 16 
+Student 2448: 
+1 9 10  sd 10 y 208 9 2448
+13 25 
+Student 2449: 
+3 8 30 
+Student 2450: 
+0 1  sd 1 y 209 0 2450
+5 12 22 
+Student 2451: 
+6 7  sd 7 y 210 6 2451
+8  sd 8 y 211 7 2451
+10 15 
+Student 2452: 
+6 8 25 27 30 
+Student 2453: 
+4 9 11 22 
+Student 2454: 
+2 22 
+Student 2455: 
+9 28 30 
+Student 2456: 
+8 24 25 31 
+Student 2457: 
+0 4 18 24 31 
+Student 2458: 
+9 21 22 28 
+Student 2459: 
+6 9 10  sd 10 y 212 9 2459
+13 22 
+Student 2460: 
+16 25 27 
+Student 2461: 
+14 25 27 30 
+Student 2462: 
+6 19 21 22 32 
+Student 2463: 
+6 8 16 22 27 
+Student 2464: 
+11 15 25 27 
+Student 2465: 
+3 6 8 24 30 
+Student 2466: 
+0 1  sd 1 y 213 0 2466
+6 25 27 
+Student 2467: 
+3 15 25 27 
+Student 2468: 
+9 9  saa 9 9 2468
+13 16 
+Student 2469: 
+10 19 25 27 28 
+Student 2470: 
+15 16 24 25 27 
+Student 2471: 
+0 11 18 22 24 
+Student 2472: 
+3 6 8 11 30 
+Student 2473: 
+4 15 24 25 27 
+Student 2474: 
+9 10  sd 10 y 214 9 2474
+21 21  saa 21 21 2474
+
+Student 2475: 
+1 8 16 17  sd 17 y 215 16 2475
+30 
+Student 2476: 
+6 9 21 25 27 
+Student 2477: 
+11 18 21 27 31 
+Student 2478: 
+0 10 17 18  sd 18 y 216 17 2478
+25 
+Student 2479: 
+8 9 21 
+Student 2480: 
+6 7  sd 7 y 217 6 2480
+8  sd 8 y 218 7 2480
+10 22 
+Student 2481: 
+1 4 13 25 27 
+Student 2482: 
+3 5 8 21 
+Student 2483: 
+16 21 24 30 
+Student 2484: 
+4 29 
+Student 2485: 
+3 8 9 10  sd 10 y 219 9 2485
+30 
+Student 2486: 
+18 25 27 27  saa 27 27 2486
+
+Student 2487: 
+0 24 28 30 
+Student 2488: 
+1 3 19 
+Student 2489: 
+13 15 28 
+Student 2490: 
+7 16 18 24 31 
+Student 2491: 
+9 13 22 
+Student 2492: 
+6 
+Student 2493: 
+1 3 15 16 18 
+Student 2494: 
+1 6 7  sd 7 y 220 6 2494
+19 23 
+Student 2495: 
+8 8  saa 8 8 2495
+30 30  saa 30 30 2495
+
+Student 2496: 
+6 8 27 28 
+Student 2497: 
+24 31 
+Student 2498: 
+9 13 22 31 
+Student 2499: 
+6 25 27 
+Student 2500: 
+0 2 7 11 
+Student 2501: 
+11 13 16 24 24  saa 24 24 2501
+
+Student 2502: 
+2 6 24 31 
+Student 2503: 
+7 10 11  sd 11 y 221 10 2503
+18 
+Student 2504: 
+1 3 21 30 
+Student 2505: 
+25 27 31 
+Student 2506: 
+3 8 9 9  saa 9 9 2506
+
+Student 2507: 
+1 4 18 
+Student 2508: 
+15 
+Student 2509: 
+2 11 14 18 
+Student 2510: 
+0 18 24 30 
+Student 2511: 
+7 8  sd 8 y 222 7 2511
+16 19 25 
+Student 2512: 
+1 13 24 
+Student 2513: 
+2 6 6  saa 6 6 2513
+11 
+Student 2514: 
+2 17 21 27 
+Student 2515: 
+11 27 
+Student 2516: 
+1 4 16 
+Student 2517: 
+4 8 24 27 
+Student 2518: 
+5 11 16 24 24  saa 24 24 2518
+
+Student 2519: 
+1 7 8  sd 8 y 223 7 2519
+17 
+Student 2520: 
+11 13 18 
+Student 2521: 
+1 18 29 
+Student 2522: 
+0 
+Student 2523: 
+4 6 10 25 31 
+Student 2524: 
+3 6 10 
+Student 2525: 
+18 
+Student 2526: 
+8 12 15 25 
+Student 2527: 
+1 
+Student 2528: 
+3 8 9 10  sd 10 y 224 9 2528
+30 
+Student 2529: 
+3 9 10  sd 10 y 225 9 2529
+18 31 
+Student 2530: 
+11 21 31 
+Student 2531: 
+8 19 25 27 30 
+Student 2532: 
+1 4 24 
+Student 2533: 
+1 4 6 16 22 
+Student 2534: 
+11 21 30 30  saa 30 30 2534
+31 
+Student 2535: 
+4 8 12 15 16 
+Student 2536: 
+0 9 10  sd 10 y 226 9 2536
+15 22 
+Student 2537: 
+6 13 18 22 24 
+Student 2538: 
+8 16 22 25 30 
+Student 2539: 
+11 15 24 27 
+Student 2540: 
+10 13 16 18 25 
+Student 2541: 
+3 5 8 27 30 
+Student 2542: 
+5 21 24 24  saa 24 24 2542
+25 
+Student 2543: 
+27 32 
+Student 2544: 
+0 11 
+Student 2545: 
+3 14 16 24 30 
+Student 2546: 
+0 3 5 8 17 
+Student 2547: 
+0 11 
+Student 2548: 
+5 7 18 22 
+Student 2549: 
+7 10 18 25 
+Student 2550: 
+10 15 
+Student 2551: 
+5 25 27 
+Student 2552: 
+3 5 10 12 28 
+Student 2553: 
+8 9 11 15 24 
+Student 2554: 
+0 11 
+Student 2555: 
+1 1  saa 1 1 2555
+2  sd 2 y 227 1 2555
+3 25 
+Student 2556: 
+0 5 6 15 27 
+Student 2557: 
+1 9 13 21 25 
+Student 2558: 
+6 11 
+Student 2559: 
+11 11  saa 11 11 2559
+21 28 31 
+Student 2560: 
+1 6 7  sd 7 y 228 6 2560
+8  sd 8 y 229 7 2560
+31 
+Student 2561: 
+11 11  saa 11 11 2561
+
+Student 2562: 
+3 10 21 
+Student 2563: 
+11 16 21 
+Student 2564: 
+6 24 25 27 
+Student 2565: 
+5 14 
+Student 2566: 
+0 10 17 18  sd 18 y 230 17 2566
+30 
+Student 2567: 
+6 9 12 
+Student 2568: 
+6 8 16 22 30 
+Student 2569: 
+0 4 
+Student 2570: 
+11 18 24 
+Student 2571: 
+15 27 
+Student 2572: 
+7 16 25 
+Student 2573: 
+2 8 14 25 
+Student 2574: 
+3 9 
+Student 2575: 
+6 11 12 
+Student 2576: 
+11 16 19 
+Student 2577: 
+14 28 
+Student 2578: 
+1 15 22 28 
+Student 2579: 
+24 
+Student 2580: 
+1 16 22 
+Student 2581: 
+13 15 28 
+Student 2582: 
+6 25 27 
+Student 2583: 
+11 14 
+Student 2584: 
+7 9 13 16 18 
+Student 2585: 
+14 
+Student 2586: 
+6 12 19 25 
+Student 2587: 
+1 10 25 25  saa 25 25 2587
+27 
+Student 2588: 
+6 
+Student 2589: 
+13 24 30 
+Student 2590: 
+16 24 24  saa 24 24 2590
+24  saa 24 24 2590
+25 
+Student 2591: 
+4 6 16 21 22 
+Student 2592: 
+2 6 22 24 
+Student 2593: 
+15 24 25 27 30 
+Student 2594: 
+10 21 30 
+Student 2595: 
+7 8  sd 8 y 231 7 2595
+30 
+Student 2596: 
+2 3 3  saa 3 3 2596
+8 30 
+Student 2597: 
+6 8 8  saa 8 8 2597
+24 
+Student 2598: 
+0 0  saa 0 0 2598
+4 13 
+Student 2599: 
+18 
+Student 2600: 
+3 25 27 
+Student 2601: 
+15 25 27 30 
+Student 2602: 
+6 11 22 27 28 
+Student 2603: 
+14 16 
+Student 2604: 
+10 15 
+Student 2605: 
+0 2 11 24 32 
+Student 2606: 
+1 10 24 
+Student 2607: 
+24 
+Student 2608: 
+0 16 18 
+Student 2609: 
+2 8 16 24 
+Student 2610: 
+5 6 10 16 23 
+Student 2611: 
+7 13 15 
+Student 2612: 
+6 6  saa 6 6 2612
+8 16 22 
+Student 2613: 
+3 9 10  sd 10 y 232 9 2613
+30 
+Student 2614: 
+6 16 16  saa 16 16 2614
+22 
+Student 2615: 
+10 12 15 18 31 
+Student 2616: 
+0 10 11  sd 11 y 233 10 2616
+18 19 
+Student 2617: 
+6 30 
+Student 2618: 
+6 22 24 25 30 
+Student 2619: 
+10 11  sd 11 y 234 10 2619
+25 27 
+Student 2620: 
+3 8 9 13 15 
+Student 2621: 
+11 16 30 
+Student 2622: 
+0 11 14 16 
+Student 2623: 
+0 7 10 18 25 
+Student 2624: 
+1 4 15 16 27 
+Student 2625: 
+22 25 27 
+Student 2626: 
+9 10  sd 10 y 235 9 2626
+13 19 31 
+Student 2627: 
+0 6 7  sd 7 y 236 6 2627
+8  sd 8 y 237 7 2627
+22 
+Student 2628: 
+18 21 24 30 31 
+Student 2629: 
+6 8 16 22 
+Student 2630: 
+14 22 
+Student 2631: 
+17 22 
+Student 2632: 
+13 19 25 27 
+Student 2633: 
+1 6 14 25 27 
+Student 2634: 
+6 11 13 24 
+Student 2635: 
+10 12 16 25 
+Student 2636: 
+15 19 25 27 
+Student 2637: 
+3 6 8 
+Student 2638: 
+25 31 
+Student 2639: 
+0 6 6  saa 6 6 2639
+11 31 
+Student 2640: 
+2 6 14 24 
+Student 2641: 
+6 19 28 
+Student 2642: 
+6 11 15 16 24 28 
+Student 2643: 
+1 2  sd 2 y 238 1 2643
+5 5  saa 5 5 2643
+15 
+Student 2644: 
+4 16 
+Student 2645: 
+0 4 16 
+Student 2646: 
+2 8 11 
+Student 2647: 
+8 14 
+Student 2648: 
+3 5 16 22 
+Student 2649: 
+0 1  sd 1 y 239 0 2649
+3 5 
+Student 2650: 
+1 5 10 14 
+Student 2651: 
+8 11 11  saa 11 11 2651
+30 
+Student 2652: 
+1 6 8 10 
+Student 2653: 
+8 9 18 19 
+Student 2654: 
+2 3 8 9 10  sd 10 y 240 9 2654
+
+Student 2655: 
+1 8 19 
+Student 2656: 
+4 16 
+Student 2657: 
+14 22 
+Student 2658: 
+6 12 15 27 
+Student 2659: 
+8 13 16 
+Student 2660: 
+11 14 30 
+Student 2661: 
+8 24 31 32 
+Student 2662: 
+7 16 18 22 
+Student 2663: 
+6 18 22 25 
+Student 2664: 
+0 6 8 24 
+Student 2665: 
+19 
+Student 2666: 
+10 27 
+Student 2667: 
+0 6 16 
+Student 2668: 
+3 11 28 
+Student 2669: 
+16 
+Student 2670: 
+1 1  saa 1 1 2670
+7 25 27 
+Student 2671: 
+2 3 6 7  sd 7 y 241 6 2671
+8  sd 8 y 242 7 2671
+
+Student 2672: 
+14 28 
+Student 2673: 
+14 
+Student 2674: 
+6 22 25 28 
+Student 2675: 
+1 6 13 16 
+Student 2676: 
+0 10 25 27 
+Student 2677: 
+7 18 25 27 
+Student 2678: 
+0 2 4 14 
+Student 2679: 
+0 14 
+Student 2680: 
+12 14 15 27 
+Student 2681: 
+1 16 24 
+Student 2682: 
+15 25 28 30 
+Student 2683: 
+3 10 11  sd 11 y 243 10 2683
+21 21  saa 21 21 2683
+
+Student 2684: 
+4 8 18 18  saa 18 18 2684
+
+Student 2685: 
+5 24 24  saa 24 24 2685
+31 
+Student 2686: 
+6 25 27 30 
+Student 2687: 
+1 7 
+Student 2688: 
+6 25 27 30 
+Student 2689: 
+1 3 22 
+Student 2690: 
+3 7 16 24 
+Student 2691: 
+0 2 6 
+Student 2692: 
+3 9 11 
+Student 2693: 
+25 
+Student 2694: 
+3 18 27 
+Student 2695: 
+15 25 27 
+Student 2696: 
+4 8 15 25 
+Student 2697: 
+8 11 24 30 
+Student 2698: 
+8 11 27 
+Student 2699: 
+13 24 30 31 
+Student 2700: 
+1 9 19 31 
+Student 2701: 
+4 9 27 
+Student 2702: 
+2 2  saa 2 2 2702
+8 
+Student 2703: 
+0 28 
+Student 2704: 
+4 4  saa 4 4 2704
+
+Student 2705: 
+5 27 
+Student 2706: 
+3 8 9 10  sd 10 y 244 9 2706
+
+Student 2707: 
+13 14  sd 14 y 245 13 2707
+
+Student 2708: 
+11 11  saa 11 11 2708
+13 
+Student 2709: 
+0 6 16 21 
+Student 2710: 
+15 24 24  saa 24 24 2710
+25 27 
+Student 2711: 
+16 16  saa 16 16 2711
+29 
+Student 2712: 
+3 9 16 
+Student 2713: 
+11 14 18 
+Student 2714: 
+8 8  saa 8 8 2714
+14 18 24 
+Student 2715: 
+5 30 
+Student 2716: 
+4 18 25 27 
+Student 2717: 
+6 18 27 
+Student 2718: 
+3 8 9 16 
+Student 2719: 
+1 25 27 27  saa 27 27 2719
+
+Student 2720: 
+13 18 19 25 27 
+Student 2721: 
+8 13 
+Student 2722: 
+1 1  saa 1 1 2722
+15 
+Student 2723: 
+9 22 24 
+Student 2724: 
+6 16 
+Student 2725: 
+3 9 11 15 
+Student 2726: 
+0 14 24 31 
+Student 2727: 
+22 27 30 31 
+Student 2728: 
+6 10 16 24 
+Student 2729: 
+0 0  saa 0 0 2729
+18 
+Student 2730: 
+24 30 31 31  saa 31 31 2730
+
+Student 2731: 
+10 10  saa 10 10 2731
+25 28 
+Student 2732: 
+6 8 8  saa 8 8 2732
+16 22 
+Student 2733: 
+8 11 16 25 
+Student 2734: 
+11 12 21 
+Student 2735: 
+4 8 8  saa 8 8 2735
+13 16 
+Student 2736: 
+3 8 9 10  sd 10 y 246 9 2736
+17 
+Student 2737: 
+0 5 8 25 27 
+Student 2738: 
+0 11 16 
+Student 2739: 
+6 8 10 16 30 
+Student 2740: 
+4 
+Student 2741: 
+15 
+Student 2742: 
+3 6 8 16 
+Student 2743: 
+4 4  saa 4 4 2743
+
+Student 2744: 
+4 18 22 
+Student 2745: 
+1 8 8  saa 8 8 2745
+12 
+Student 2746: 
+5 6 22 25 
+Student 2747: 
+4 9 12 18 21 
+Student 2748: 
+1 3 5 
+Student 2749: 
+8 10 13 15 31 
+Student 2750: 
+15 21 31 
+Student 2751: 
+6 11 24 30 
+Student 2752: 
+16 24 
+Student 2753: 
+8 18 25 27 30 
+Student 2754: 
+1 9 13 18 27 31 
+Student 2755: 
+6 7  sd 7 y 247 6 2755
+8  sd 8 y 248 7 2755
+14 28 
+Student 2756: 
+9 10  sd 10 y 249 9 2756
+17 30 
+Student 2757: 
+1 2  sd 2 y 250 1 2757
+3 27 
+Student 2758: 
+0 
+Student 2759: 
+6 7  sd 7 y 251 6 2759
+9 11 13 16 
+Student 2760: 
+6 11 14 17 
+Student 2761: 
+14 18 27 31 
+Student 2762: 
+11 25 27 
+Student 2763: 
+8 24 30 
+Student 2764: 
+2 3 6 19 28 
+Student 2765: 
+27 
+Student 2766: 
+6 10 12 19 
+Student 2767: 
+6 8 16 22 27 
+Student 2768: 
+6 17 24 27 27  saa 27 27 2768
+
+Student 2769: 
+4 4  saa 4 4 2769
+16 25 
+Student 2770: 
+16 22 
+Student 2771: 
+11 16 
+Student 2772: 
+15 
+Student 2773: 
+1 11 16 30 
+Student 2774: 
+1 10 13 16 
+Student 2775: 
+0 8 13 18 30 
+Student 2776: 
+8 8  saa 8 8 2776
+13 18 
+Student 2777: 
+0 6 11 13 
+Student 2778: 
+0 6 13 25 
+Student 2779: 
+6 9 21 21  saa 21 21 2779
+31 
+Student 2780: 
+0 14 16 
+Student 2781: 
+9 21 
+Student 2782: 
+2 6 11 24 
+Student 2783: 
+1 1  saa 1 1 2783
+8 8  saa 8 8 2783
+13 
+Student 2784: 
+18 21 
+Student 2785: 
+1 6 10 23 
+Student 2786: 
+14 21 24 31 
+Student 2787: 
+10 13 21 28 
+Student 2788: 
+25 27 
+Student 2789: 
+6 13 18 25 
+Student 2790: 
+0 12 
+Student 2791: 
+7 7  saa 7 7 2791
+18 
+Student 2792: 
+1 10 15 28 
+Student 2793: 
+7 9 13 
+Student 2794: 
+5 6 16 17  sd 17 y 252 16 2794
+28 
+Student 2795: 
+1 6 13 28 
+Student 2796: 
+3 6 11 31 31  saa 31 31 2796
+
+Student 2797: 
+6 9 10  sd 10 y 253 9 2797
+16 18 
+Student 2798: 
+6 8 22 24 
+Student 2799: 
+9 12 15 
+Student 2800: 
+0 19 21 27 28 
+Student 2801: 
+1 1  saa 1 1 2801
+4 10 16 18 
+Student 2802: 
+0 6 8 31 
+Student 2803: 
+0 1  sd 1 y 254 0 2803
+10 28 
+Student 2804: 
+1 3 3  saa 3 3 2804
+5 
+Student 2805: 
+9 16 
+Student 2806: 
+0 
+Student 2807: 
+1 2  sd 2 y 255 1 2807
+3 5 
+Student 2808: 
+0 15 
+Student 2809: 
+25 27 28 
+Student 2810: 
+30 
+Student 2811: 
+3 16 19 
+Student 2812: 
+7 11 
+Student 2813: 
+6 
+Student 2814: 
+5 
+Student 2815: 
+6 
+Student 2816: 
+11 16 25 28 
+Student 2817: 
+6 27 31 
+Student 2818: 
+14 
+Student 2819: 
+8 12 14 16 22 
+Student 2820: 
+6 10 12 12  saa 12 12 2820
+25 
+Student 2821: 
+6 
+Student 2822: 
+10 11  sd 11 y 256 10 2822
+15 30 
+Student 2823: 
+1 22 32 
+Student 2824: 
+5 
+Student 2825: 
+19 
+Student 2826: 
+1 6 
+Student 2827: 
+2 22 
+Student 2828: 
+11 
+Student 2829: 
+17 
+Student 2830: 
+30 
+Student 2831: 
+5 12 27 
+Student 2832: 
+3 9 
+Student 2833: 
+7 24 25 
+Student 2834: 
+0 
+Student 2835: 
+28 31 
+Student 2836: 
+1 
+Student 2837: 
+0 27 28 
+Student 2838: 
+4 6 10 11  sd 11 y 257 10 2838
+
+Student 2839: 
+9 18 
+Student 2840: 
+0 3 5 16 
+Student 2841: 
+5 12 
+Student 2842: 
+3 
+Student 2843: 
+24 24  saa 24 24 2843
+
+Student 2844: 
+1 18 27 
+Student 2845: 
+3 8 
+Student 2846: 
+4 
+Student 2847: 
+25 27 30 
+Student 2848: 
+6 25 
+Student 2849: 
+14 27 
+Student 2850: 
+3 10 23 30 30  saa 30 30 2850
+
+Student 2851: 
+1 4 9 16 18 
+Student 2852: 
+3 
+Student 2853: 
+8 12 16 24 
+Student 2854: 
+10 10  saa 10 10 2854
+16 22 24 
+Student 2855: 
+3 
+Student 2856: 
+1 3 18 18  saa 18 18 2856
+
+Student 2857: 
+3 18 18  saa 18 18 2857
+27 28 
+Student 2858: 
+24 
+Student 2859: 
+3 3  saa 3 3 2859
+6 27 
+Student 2860: 
+10 
+Student 2861: 
+2 9 
+Student 2862: 
+0 15 18 25 
+Student 2863: 
+0 6 25 27 
+Student 2864: 
+0 10 
+Student 2865: 
+18 
+Student 2866: 
+3 9 18 22 27 
+Student 2867: 
+9 
+Student 2868: 
+32 
+Student 2869: 
+21 
+Student 2870: 
+19 22 24 30 
+Student 2871: 
+1 
+Student 2872: 
+3 
+Student 2873: 
+2 3 30 30  saa 30 30 2873
+
+Student 2874: 
+15 21 27 
+Student 2875: 
+16 
+Student 2876: 
+4 
+Student 2877: 
+11 
+Student 2878: 
+8 22 24 30 31 
+Student 2879: 
+3 
+Student 2880: 
+4 
+Student 2881: 
+0 6 13 25 
+Student 2882: 
+3 3  saa 3 3 2882
+18 27 
+Student 2883: 
+3 
+Student 2884: 
+9 
+Student 2885: 
+22 
+Student 2886: 
+6 
+Student 2887: 
+5 8 30 
+Student 2888: 
+5 10 28 
+Student 2889: 
+0 16 
+Student 2890: 
+25 
+Student 2891: 
+1 18 27 28 
+Student 2892: 
+0 2 12 
+Student 2893: 
+14 27 28 
+Student 2894: 
+4 16 
+Student 2895: 
+7 12 18 22 32 
+Student 2896: 
+18 
+Student 2897: 
+13 15 28 
+Student 2898: 
+7 
+Student 2899: 
+11 
+Student 2900: 
+11 
+Student 2901: 
+11 
+Student 2902: 
+12 25 
+Student 2903: 
+10 12 18 18  saa 18 18 2903
+
+Student 2904: 
+27 
+Student 2905: 
+0 
+Student 2906: 
+2 32 
+Student 2907: 
+2 4 11 11  saa 11 11 2907
+
+Student 2908: 
+7 14 32 
+Student 2909: 
+2 9 
+Student 2910: 
+0 11 12 21 
+Student 2911: 
+3 21 22 25 
+Student 2912: 
+5 7 12 17 23 
+Student 2913: 
+3 12 24 24  saa 24 24 2913
+30 
+Student 2914: 
+27 31 32 
+Student 2915: 
+11 25 27 32 
+Student 2916: 
+3 22 30 
+Student 2917: 
+0 3 11 24 
+Student 2918: 
+21 
+Student 2919: 
+7 25 32 
+Student 2920: 
+30 
+Student 2921: 
+11 14 32 
+Student 2922: 
+2 5 30 31 
+Student 2923: 
+0 32 
+Student 2924: 
+9 31 
+Student 2925: 
+3 8 25 30 
+Student 2926: 
+22 
+Student 2927: 
+2 10 18 19 27 
+Student 2928: 
+6 15 28 31 
+Student 2929: 
+0 6 27 
+Student 2930: 
+3 12 31 32 
+Student 2931: 
+0 9 21 
+Student 2932: 
+0 11 14 22 
+Student 2933: 
+2 9 14 22 
+Student 2934: 
+2 5 18 28 
+Student 2935: 
+7 7  saa 7 7 2935
+11 30 
+Student 2936: 
+12 15 21 28 31 
+Student 2937: 
+2 11 14 28 31 
+Student 2938: 
+7 12 17 25 32 
+Student 2939: 
+0 7 21 24 
+Student 2940: 
+5 12 17 23 30 
+Student 2941: 
+5 14 30 
+Student 2942: 
+2 14 24 28 30 
+Student 2943: 
+2 5 12 15 24 
+Student 2944: 
+3 11 14 15 21 
+Student 2945: 
+5 9 21 22 
+Student 2946: 
+5 7 12 14 17 
+Student 2947: 
+2 15 19 22 28 
+Student 2948: 
+11 14 30 30  saa 30 30 2948
+
+Student 2949: 
+0 2 22 28 
+Student 2950: 
+7 12 27 31 32 
+Student 2951: 
+9 14 18 18  saa 18 18 2951
+28 
+Student 2952: 
+2 5 19 21 28 
+Student 2953: 
+5 9 18 18  saa 18 18 2953
+28 
+Student 2954: 
+5 11 14 30 
+Student 2955: 
+0 14 15 24 
+Student 2956: 
+0 2 15 19 28 
+Student 2957: 
+3 3  saa 3 3 2957
+24 31 
+Student 2958: 
+0 11 12 
+Student 2959: 
+0 2 9 11 28 
+Student 2960: 
+27 30 31 32 
+Student 2961: 
+0 2 12 28 
+Student 2962: 
+3 12 18 24 27 
+Student 2963: 
+0 9 11 21 28 
+Student 2964: 
+12 14 15 21 22 
+Student 2965: 
+2 3 11 14 22 
+Student 2966: 
+3 12 22 27 
+Student 2967: 
+2 3 18 18  saa 18 18 2967
+27 31 
+Student 2968: 
+3 14 31 32 
+Student 2969: 
+12 14 25 32 
+Student 2970: 
+16 21 
+Student 2971: 
+7 9 12 32 
+Student 2972: 
+0 7 14 21 22 
+Student 2973: 
+0 9 14 21 22 
+Student 2974: 
+2 5 9 22 28 
+Student 2975: 
+14 15 21 22 28 
+Student 2976: 
+2 7 11 22 32 
+Student 2977: 
+5 17 21 23 
+Student 2978: 
+0 2 7 9 
+Student 2979: 
+3 5 9 14 22 
+Student 2980: 
+14 17 21 23 
+Student 2981: 
+0 7 22 
+Student 2982: 
+14 15 21 22 28 
+Student 2983: 
+3 5 14 18 22 
+Student 2984: 
+0 5 21 22 
+Student 2985: 
+12 15 19 21 24 
+Student 2986: 
+2 12 17 
+Student 2987: 
+7 12 15 25 32 
+Student 2988: 
+3 12 18 27 31 
+Student 2989: 
+11 14 24 30 31 
+Student 2990: 
+12 18 19 27 28 
+Student 2991: 
+3 21 24 27 31 
+Student 2992: 
+7 21 24 28 
+Student 2993: 
+0 11 24 28 31 
+Student 2994: 
+0 5 21 28 
+Student 2995: 
+9 11 14 24 30 
+Student 2996: 
+2 5 19 21 31 
+Student 2997: 
+2 12 14 22 27 
+Student 2998: 
+0 2 7 14 22 
+Student 2999: 
+12 17 22 27 32 
+Student 3000: 
+2 3 14 31 
+Student 3001: 
+12 18 27 28 
+Student 3002: 
+12 14 19 25 
+Student 3003: 
+5 17 23 32 
+Student 3004: 
+11 
+Student 3005: 
+2 3 5 28 31 
+Student 3006: 
+18 22 27 
+Student 3007: 
+6 16 19 25 32 
+Student 3008: 
+11 12 14 21 32 
+Student 3009: 
+2 3 14 22 
+Student 3010: 
+2 2  saa 2 2 3010
+5 7 7  saa 7 7 3010
+
+Student 3011: 
+1 12 17 19 30 
+Student 3012: 
+5 22 28 
+Student 3013: 
+7 12 17 19 32 
+Student 3014: 
+2 7 22 24 32 
+Student 3015: 
+2 2  saa 2 2 3015
+3 5 
+Student 3016: 
+7 9 12 17 32 
+Student 3017: 
+2 7 14 22 28 
+Student 3018: 
+3 11 22 28 31 
+Student 3019: 
+1 9 18 27 28 
+Student 3020: 
+17 19 21 28 
+Student 3021: 
+5 12 17 19 21 
+Student 3022: 
+2 5 19 30 
+Student 3023: 
+5 9 14 15 23 
+Student 3024: 
+0 2 7 9 
+Student 3025: 
+9 14 28 31 
+Student 3026: 
+7 12 21 32 
+Student 3027: 
+5 7 16 21 24 
+Student 3028: 
+5 9 21 27 31 
+Student 3029: 
+14 28 31 
+Student 3030: 
+5 12 17 32 
+Student 3031: 
+12 17 19 25 32 
+Student 3032: 
+2 11 28 31 
+Student 3033: 
+5 9 14 32 
+Student 3034: 
+7 11 19 24 
+Student 3035: 
+0 2 5 21 
+Student 3036: 
+7 14 24 25 32 
+Student 3037: 
+3 9 18 18  saa 18 18 3037
+19 
+Student 3038: 
+7 21 28 32 
+Student 3039: 
+2 3 12 22 
+Student 3040: 
+0 3 18 18  saa 18 18 3040
+22 
+Student 3041: 
+0 2 2  saa 2 2 3041
+5 5  saa 5 5 3041
+
+Student 3042: 
+2 14 
+Student 3043: 
+5 12 17 
+Student 3044: 
+7 7  saa 7 7 3044
+9 24 
+Student 3045: 
+1 3 18 18  saa 18 18 3045
+19 
+Student 3046: 
+12 15 17 19 32 
+Student 3047: 
+7 10 14 30 32 
+Student 3048: 
+2 7 12 17 32 
+Student 3049: 
+0 2 5 19 24 
+Student 3050: 
+0 21 24 30 
+Student 3051: 
+7 14 22 31 32 
+Student 3052: 
+7 9 14 21 32 
+Student 3053: 
+15 19 21 22 
+Student 3054: 
+5 9 14 21 28 
+Student 3055: 
+7 12 14 32 
+Student 3056: 
+7 17 27 30 32 
+Student 3057: 
+7 11 12 17 32 
+Student 3058: 
+2 7 16 19 32 
+Student 3059: 
+2 3 14 22 28 
+Student 3060: 
+0 21 24 32 
+Student 3061: 
+19 22 28 32 
+Student 3062: 
+11 12 14 30 
+Student 3063: 
+5 12 17 19 21 
+Student 3064: 
+0 12 18 19 21 
+Student 3065: 
+9 14 15 21 22 
+Student 3066: 
+15 21 22 28 
+Student 3067: 
+12 14 21 28 31 
+Student 3068: 
+0 7 12 22 32 
+Student 3069: 
+7 12 12  saa 12 12 3069
+23 32 
+Student 3070: 
+12 15 21 28 30 
+Student 3071: 
+2 5 12 17 23 
+Student 3072: 
+2 5 7 14 
+Student 3073: 
+5 14 30 31 
+Student 3074: 
+12 17 19 21 32 
+Student 3075: 
+5 11 14 22 30 
+Student 3076: 
+5 9 11 21 24 
+Student 3077: 
+5 9 21 28 31 
+Student 3078: 
+5 11 12 17 21 
+Student 3079: 
+5 14 22 31 
+Student 3080: 
+11 28 
+Student 3081: 
+1 18 19 27 28 
+Student 3082: 
+2 9 19 22 28 
+Student 3083: 
+2 19 22 28 
+Student 3084: 
+1 12 15 
+Student 3085: 
+5 14 19 21 
+Student 3086: 
+5 7 12 14 17 
+Student 3087: 
+11 12 17 32 
+Student 3088: 
+9 11 14 22 
+Student 3089: 
+3 7 14 22 31 
+Student 3090: 
+1 2  sd 2 y 258 1 3090
+12 14 17 
+Student 3091: 
+7 11 12 32 
+Student 3092: 
+11 14 21 24 28 
+Student 3093: 
+9 14 30 31 
+Student 3094: 
+9 15 19 21 31 
+Student 3095: 
+2 7 12 32 
+Student 3096: 
+9 11 15 22 24 
+Student 3097: 
+2 17 19 25 
+Student 3098: 
+0 12 17 21 30 
+Student 3099: 
+3 5 12 22 
+Student 3100: 
+0 2 9 11 28 
+Student 3101: 
+5 21 24 31 32 
+Student 3102: 
+9 11 19 30 
+Student 3103: 
+2 5 7 28 32 
+Student 3104: 
+3 22 
+Student 3105: 
+5 12 17 21 23 
+Student 3106: 
+2 5 7 12 17 
+Student 3107: 
+1 12 17 19 
+Student 3108: 
+12 15 21 22 28 
+Student 3109: 
+2 14 15 24 28 
+Student 3110: 
+5 11 28 31 32 
+Student 3111: 
+9 11 14 28 
+Student 3112: 
+9 15 21 28 30 
+Student 3113: 
+5 7 14 15 32 
+Student 3114: 
+11 14 21 28 32 
+Student 3115: 
+7 14 28 31 32 
+Student 3116: 
+2 2  saa 2 2 3116
+5 19 28 
+Student 3117: 
+0 9 11 21 
+Student 3118: 
+0 2 7 
+Student 3119: 
+2 2  saa 2 2 3119
+5 12 30 
+Student 3120: 
+2 7 12 27 28 
+Student 3121: 
+2 7 15 24 32 
+Student 3122: 
+12 17 25 32 
+Student 3123: 
+2 2  saa 2 2 3123
+5 19 27 
+Student 3124: 
+0 2 5 12 14 
+Student 3125: 
+2 3 12 15 19 
+Student 3126: 
+2 7 11 14 19 
+Student 3127: 
+2 9 15 28 
+Student 3128: 
+2 2  saa 2 2 3128
+3 5 
+Student 3129: 
+5 7 7  saa 7 7 3129
+21 30 
+Student 3130: 
+2 3 15 22 
+Student 3131: 
+1 18 18  saa 18 18 3131
+24 28 
+Student 3132: 
+1 3 18 18  saa 18 18 3132
+24 
+Student 3133: 
+0 2 2  saa 2 2 3133
+5 7 
+Student 3134: 
+2 22 28 31 32 
+Student 3135: 
+5 14 21 
+Student 3136: 
+0 15 21 22 
+Student 3137: 
+7 12 15 21 32 
+Student 3138: 
+1 2  sd 2 y 259 1 3138
+18 27 28 
+Student 3139: 
+7 14 32 
+Student 3140: 
+0 5 7 21 22 
+Student 3141: 
+0 3 9 18 18  saa 18 18 3141
+
+Student 3142: 
+9 15 21 22 
+Student 3143: 
+5 7 14 21 28 
+Student 3144: 
+0 9 21 24 28 
+Student 3145: 
+7 17 30 31 32 
+Student 3146: 
+0 2 3 14 19 
+Student 3147: 
+2 5 14 24 
+Student 3148: 
+2 5 7 24 
+Student 3149: 
+14 22 27 31 
+Student 3150: 
+5 12 21 28 
+Student 3151: 
+12 18 19 27 28 
+Student 3152: 
+14 17 21 31 32 
+Student 3153: 
+2 5 17 23 
+Student 3154: 
+0 0  saa 0 0 3154
+7 7  saa 7 7 3154
+12 
+Student 3155: 
+2 2  saa 2 2 3155
+5 28 30 
+Student 3156: 
+16 22 28 
+Student 3157: 
+2 7 12 14 25 
+Student 3158: 
+2 12 14 28 32 
+Student 3159: 
+3 8 15 22 24 
+Student 3160: 
+12 17 21 27 32 
+Student 3161: 
+2 5 14 22 
+Student 3162: 
+0 5 9 22 
+Student 3163: 
+0 0  saa 0 0 3163
+2 5 24 
+Student 3164: 
+11 18 24 25 
+Student 3165: 
+5 12 14 21 
+Student 3166: 
+3 9 21 22 
+Student 3167: 
+7 9 21 24 25 
+Student 3168: 
+2 7 9 14 32 
+Student 3169: 
+2 12 17 30 31 
+Student 3170: 
+5 5  saa 5 5 3170
+12 14 31 
+Student 3171: 
+7 12 17 25 32 
+Student 3172: 
+5 12 22 24 28 
+Student 3173: 
+12 12  saa 12 12 3173
+17 25 30 
+Student 3174: 
+1 3 7 18 18  saa 18 18 3174
+
+Student 3175: 
+3 18 18  saa 18 18 3175
+19 22 
+Student 3176: 
+1 3 14 18 27 
+Student 3177: 
+0 14 18 32 
+Student 3178: 
+0 2 5 14 28 
+Student 3179: 
+2 5 7 14 28 
+Student 3180: 
+18 22 28 30 32 
+Student 3181: 
+7 30 31 32 
+Student 3182: 
+2 7 7  saa 7 7 3182
+14 30 
+Student 3183: 
+3 7 18 27 32 
+Student 3184: 
+18 18  saa 18 18 3184
+24 28 
+Student 3185: 
+5 14 22 31 
+Student 3186: 
+12 19 32 
+Student 3187: 
+7 7  saa 7 7 3187
+19 21 24 
+Student 3188: 
+0 7 14 24 28 
+Student 3189: 
+2 5 5  saa 5 5 3189
+7 21 
+Student 3190: 
+2 5 12 14 19 
+Student 3191: 
+11 21 28 30 31 
+Student 3192: 
+1 3 7 18 27 
+Student 3193: 
+2 7 14 17 32 
+Student 3194: 
+0 2 5 11 22 
+Student 3195: 
+2 5 27 28 
+Student 3196: 
+2 9 15 22 31 
+Student 3197: 
+0 0  saa 0 0 3197
+24 
+Student 3198: 
+12 17 19 32 
+Student 3199: 
+3 11 14 27 32 
+Student 3200: 
+9 15 21 24 
+Student 3201: 
+12 14 30 32 
+Student 3202: 
+9 11 14 21 
+Student 3203: 
+11 
+Student 3204: 
+0 5 9 21 
+Student 3205: 
+7 14 15 21 28 
+Student 3206: 
+5 7 30 31 32 
+Student 3207: 
+5 12 14 15 17 
+Student 3208: 
+2 5 12 14 
+Student 3209: 
+12 18 24 27 28 
+Student 3210: 
+1 3 12 18 27 
+Student 3211: 
+22 28 32 
+Student 3212: 
+0 2 5 12 22 
+Student 3213: 
+2 5 12 19 21 
+Student 3214: 
+3 12 15 21 22 
+Student 3215: 
+15 24 28 31 
+Student 3216: 
+2 7 7  saa 7 7 3216
+12 16 
+Student 3217: 
+2 3 12 15 22 
+Student 3218: 
+2 3 5 24 31 
+Student 3219: 
+5 7 21 24 
+Student 3220: 
+2 12 18 24 
+Student 3221: 
+2 5 18 28 31 
+Student 3222: 
+2 3 3  saa 3 3 3222
+5 
+Student 3223: 
+0 12 14 21 
+Student 3224: 
+7 18 22 27 28 
+Student 3225: 
+2 7 12 17 32 
+Student 3226: 
+0 14 21 22 28 
+Student 3227: 
+5 12 17 30 32 
+Student 3228: 
+3 30 31 
+Student 3229: 
+2 7 22 28 30 
+Student 3230: 
+2 7 7  saa 7 7 3230
+28 31 
+Student 3231: 
+5 7 9 21 28 
+Student 3232: 
+3 9 21 24 30 
+Student 3233: 
+2 5 9 12 28 
+Student 3234: 
+7 27 31 32 
+Student 3235: 
+3 11 24 
+Student 3236: 
+14 21 28 
+Student 3237: 
+5 12 22 24 
+Student 3238: 
+7 9 18 19 32 
+Student 3239: 
+0 12 19 21 28 
+Student 3240: 
+2 9 11 14 
+Student 3241: 
+2 7 7  saa 7 7 3241
+19 24 
+Student 3242: 
+0 0  saa 0 0 3242
+2 12 19 
+Student 3243: 
+0 2 7 14 22 
+Student 3244: 
+14 15 21 28 32 
+Student 3245: 
+2 3 9 15 22 
+Student 3246: 
+0 2 5 28 
+Student 3247: 
+0 9 14 22 
+Student 3248: 
+2 9 14 15 22 
+Student 3249: 
+12 14 17 22 32 
+Student 3250: 
+15 24 28 32 
+Student 3251: 
+3 9 18 18  saa 18 18 3251
+
+Student 3252: 
+12 14 15 21 28 
+Student 3253: 
+0 7 27 30 
+Student 3254: 
+7 9 21 
+Student 3255: 
+14 22 28 31 
+Student 3256: 
+5 11 12 24 28 
+Student 3257: 
+11 14 18 24 31 
+Student 3258: 
+3 14 22 31 
+Student 3259: 
+2 9 15 24 28 
+Student 3260: 
+5 5  saa 5 5 3260
+14 17 23 
+Student 3261: 
+11 27 32 
+Student 3262: 
+7 14 19 21 32 
+Student 3263: 
+0 21 28 
+Student 3264: 
+5 21 24 28 
+Student 3265: 
+2 3 14 22 
+Student 3266: 
+0 5 12 17 21 
+Student 3267: 
+1 3 9 18 27 
+Student 3268: 
+3 5 8 14 22 
+Student 3269: 
+5 21 27 28 
+Student 3270: 
+0 3 12 15 24 
+Student 3271: 
+2 5 7 18 24 
+Student 3272: 
+2 5 7 18 30 
+Student 3273: 
+9 14 21 28 31 
+Student 3274: 
+2 5 11 28 
+Student 3275: 
+3 5 9 22 31 
+Student 3276: 
+0 3 14 30 31 
+Student 3277: 
+0 21 22 28 
+Student 3278: 
+0 2 5 14 19 
+Student 3279: 
+7 12 25 32 
+Student 3280: 
+3 11 31 32 
+Student 3281: 
+7 14 21 22 
+Student 3282: 
+2 14 22 28 31 
+Student 3283: 
+11 21 24 28 31 
+Student 3284: 
+5 7 21 22 
+Student 3285: 
+2 2  saa 2 2 3285
+5 18 19 
+Student 3286: 
+14 21 22 28 
+Student 3287: 
+7 15 21 22 32 
+Student 3288: 
+3 7 12 22 32 
+Student 3289: 
+3 14 15 22 31 
+Student 3290: 
+2 11 22 28 
+Student 3291: 
+5 12 14 17 32 
+Student 3292: 
+12 14 23 25 32 
+Student 3293: 
+7 12 17 30 32 
+Student 3294: 
+12 17 31 32 
+Student 3295: 
+5 9 22 24 
+Student 3296: 
+3 12 15 21 22 
+Student 3297: 
+7 12 24 30 
+Student 3298: 
+0 5 12 21 
+Student 3299: 
+2 7 24 28 31 
+Student 3300: 
+3 9 15 22 24 
+Student 3301: 
+9 14 21 28 
+Student 3302: 
+14 15 22 30 30  saa 30 30 3302
+
+Student 3303: 
+0 2 9 14 
+Student 3304: 
+0 2 9 14 
+Student 3305: 
+0 2 9 14 
+Student 3306: 
+5 12 17 32 
+Student 3307: 
+2 5 28 
+Student 3308: 
+0 12 18 27 28 
+Student 3309: 
+2 5 9 11 31 
+Student 3310: 
+2 5 9 11 31 
+Student 3311: 
+12 17 19 25 32 
+Student 3312: 
+5 14 22 31 
+Student 3313: 
+0 5 11 14 
+Student 3314: 
+5 14 21 22 
+Student 3315: 
+5 12 14 17 23 
+Student 3316: 
+11 14 30 31 
+Student 3317: 
+14 15 21 24 28 
+Student 3318: 
+3 12 17 25 32 
+Student 3319: 
+3 7 21 27 
+Student 3320: 
+2 5 12 19 22 
+Student 3321: 
+3 5 7 12 21 
+Student 3322: 
+5 9 18 21 28 
+Student 3323: 
+3 14 15 21 24 
+Student 3324: 
+1 12 17 27 32 
+Student 3325: 
+1 7 11 27 32 
+Student 3326: 
+9 11 15 21 28 
+Student 3327: 
+7 12 19 21 30 
+Student 3328: 
+2 5 5  saa 5 5 3328
+14 21 
+Student 3329: 
+3 7 27 28 32 
+Student 3330: 
+2 15 18 22 
+Student 3331: 
+5 11 14 22 
+Student 3332: 
+2 12 17 25 32 
+Student 3333: 
+2 5 16 22 28 
+Student 3334: 
+5 9 14 22 
+Student 3335: 
+7 11 14 31 32 
+Student 3336: 
+7 9 15 18 32 
+Student 3337: 
+3 11 15 21 24 
+Student 3338: 
+3 11 15 21 24 
+Student 3339: 
+12 14 25 32 
+Student 3340: 
+1 9 18 28 32 
+Student 3341: 
+7 19 24 32 
+Student 3342: 
+2 11 19 28 
+Student 3343: 
+2 5 22 
+Student 3344: 
+2 7 28 30 31 
+Student 3345: 
+0 19 21 24 27 
+Student 3346: 
+12 17 19 32 
+Student 3347: 
+9 15 24 28 
+Student 3348: 
+0 7 14 32 
+Student 3349: 
+5 12 17 19 30 
+Student 3350: 
+0 8 9 
+Student 3351: 
+7 7  saa 7 7 3351
+11 14 27 
+Student 3352: 
+5 9 12 14 17 
+Student 3353: 
+1 14 18 28 
+Student 3354: 
+1 14 21 22 28 
+Student 3355: 
+0 2 5 12 21 
+Student 3356: 
+19 21 28 30 31 
+Student 3357: 
+7 7  saa 7 7 3357
+11 14 21 
+Student 3358: 
+2 11 15 24 
+Student 3359: 
+0 2 11 12 28 
+Student 3360: 
+2 18 27 28 
+Student 3361: 
+1 3 18 27 
+Student 3362: 
+0 3 11 12 32 
+Student 3363: 
+2 3 7 30 31 
+Student 3364: 
+3 9 14 24 30 
+Student 3365: 
+0 21 24 28 
+Student 3366: 
+3 8 9 14 24 
+Student 3367: 
+0 2 7 14 30 
+Student 3368: 
+3 18 18  saa 18 18 3368
+19 
+Student 3369: 
+11 15 22 28 31 
+Student 3370: 
+2 9 30 30  saa 30 30 3370
+
+Student 3371: 
+0 9 24 28 
+Student 3372: 
+2 7 14 32 
+Student 3373: 
+3 12 18 27 
+Student 3374: 
+9 11 14 21 28 
+Student 3375: 
+0 2 5 21 22 
+Student 3376: 
+5 12 17 21 32 
+Student 3377: 
+7 12 14 30 30  saa 30 30 3377
+
+Student 3378: 
+9 14 15 21 22 
+Student 3379: 
+7 11 14 25 32 
+Student 3380: 
+2 2  saa 2 2 3380
+3 15 30 
+Student 3381: 
+11 15 22 31 
+Student 3382: 
+7 11 14 25 32 
+Student 3383: 
+0 12 22 32 
+Student 3384: 
+2 3 3  saa 3 3 3384
+11 24 
+Student 3385: 
+5 18 18  saa 18 18 3385
+19 28 
+Student 3386: 
+3 5 14 22 
+Student 3387: 
+3 22 31 
+Student 3388: 
+7 12 21 25 32 
+Student 3389: 
+12 21 28 31 
+Student 3390: 
+5 15 21 22 27 
+Student 3391: 
+9 14 21 22 28 
+Student 3392: 
+5 9 14 22 
+Student 3393: 
+7 7  saa 7 7 3393
+11 21 22 
+Student 3394: 
+2 9 11 15 28 
+Student 3395: 
+5 7 9 21 22 
+Student 3396: 
+0 7 11 21 24 
+Student 3397: 
+5 5  saa 5 5 3397
+9 21 
+Student 3398: 
+9 14 15 21 22 
+Student 3399: 
+5 9 17 25 32 
+Student 3400: 
+2 3 18 27 31 
+Student 3401: 
+7 12 14 32 
+Student 3402: 
+2 5 15 21 31 
+Student 3403: 
+0 14 21 24 28 
+Student 3404: 
+2 9 14 15 
+Student 3405: 
+3 11 18 24 27 
+Student 3406: 
+0 9 24 
+Student 3407: 
+5 14 21 22 28 
+Student 3408: 
+5 7 24 28 
+Student 3409: 
+3 7 7  saa 7 7 3409
+21 31 
+Student 3410: 
+0 12 22 24 
+Student 3411: 
+9 11 14 15 21 
+Student 3412: 
+2 5 9 
+Student 3413: 
+12 14 21 32 
+Student 3414: 
+5 17 23 30 32 
+Student 3415: 
+9 14 15 22 
+Student 3416: 
+2 5 9 11 22 
+Student 3417: 
+5 7 24 25 32 
+Student 3418: 
+3 5 9 24 
+Student 3419: 
+2 5 9 17 32 
+Student 3420: 
+2 5 9 32 
+Student 3421: 
+2 2  saa 2 2 3421
+5 19 22 
+Student 3422: 
+11 21 24 28 31 
+Student 3423: 
+11 21 28 30 32 
+Student 3424: 
+9 15 21 28 
+Student 3425: 
+3 18 19 24 27 
+Student 3426: 
+2 12 14 28 32 
+Student 3427: 
+8 9 11 14 22 
+Student 3428: 
+1 9 18 18  saa 18 18 3428
+28 
+Student 3429: 
+0 2 3 14 15 
+Student 3430: 
+0 2 3 14 31 
+Student 3431: 
+2 11 28 30 32 
+Student 3432: 
+2 3 9 14 
+Student 3433: 
+7 12 14 19 32 
+Student 3434: 
+5 12 21 24 25 
+Student 3435: 
+5 5  saa 5 5 3435
+12 28 
+Student 3436: 
+0 12 22 
+Student 3437: 
+2 3 17 30 32 
+Student 3438: 
+0 9 24 
+Student 3439: 
+3 9 14 22 28 
+Student 3440: 
+21 
+Student 3441: 
+0 7 9 22 27 
+Student 3442: 
+7 14 21 31 32 
+Student 3443: 
+2 5 7 22 31 
+Student 3444: 
+2 11 14 15 
+Student 3445: 
+1 15 21 24 28 
+Student 3446: 
+2 14 15 22 28 
+Student 3447: 
+11 12 22 31 32 
+Student 3448: 
+18 22 27 28 30 
+Student 3449: 
+9 12 15 21 28 
+Student 3450: 
+0 7 22 30 
+Student 3451: 
+2 5 7 12 28 
+Student 3452: 
+0 2 12 14 
+Student 3453: 
+5 9 14 14  saa 14 14 3453
+32 
+Student 3454: 
+5 11 14 24 32 
+Student 3455: 
+5 9 11 14 22 
+Student 3456: 
+9 11 21 28 
+Student 3457: 
+5 7 24 30 
+Student 3458: 
+0 12 14 
+Student 3459: 
+3 18 19 30 
+Student 3460: 
+1 3 18 24 27 
+Student 3461: 
+0 2 12 31 32 
+Student 3462: 
+5 14 23 25 27 
+Student 3463: 
+1 3 12 18 27 
+Student 3464: 
+18 27 
+Student 3465: 
+2 5 7 32 
+Student 3466: 
+9 15 21 22 24 
+Student 3467: 
+3 12 21 28 30 
+Student 3468: 
+7 14 21 28 
+Student 3469: 
+7 12 14 32 
+Student 3470: 
+0 2 14 22 
+Student 3471: 
+0 2 14 24 
+Student 3472: 
+3 18 19 27 30 
+Student 3473: 
+1 3 18 22 27 
+Student 3474: 
+1 7 21 28 32 
+Student 3475: 
+2 7 11 14 22 
+Student 3476: 
+0 0  saa 0 0 3476
+2 9 28 
+Student 3477: 
+0 11 21 28 
+Student 3478: 
+5 14 17 23 32 
+Student 3479: 
+7 9 14 15 22 
+Student 3480: 
+3 9 11 21 24 
+Student 3481: 
+2 5 28 
+Student 3482: 
+2 7 12 17 25 
+Student 3483: 
+2 8 11 16 24 
+Student 3484: 
+0 14 21 22 28 
+Student 3485: 
+2 9 15 24 28 
+Student 3486: 
+0 2 12 22 
+Student 3487: 
+11 22 
+Student 3488: 
+9 11 14 15 22 
+Student 3489: 
+9 15 21 28 31 
+Student 3490: 
+12 17 21 27 32 
+Student 3491: 
+3 5 7 14 24 
+Student 3492: 
+0 22 28 
+Student 3493: 
+2 9 15 22 24 
+Student 3494: 
+2 9 11 15 22 
+Student 3495: 
+2 16 19 22 28 
+Student 3496: 
+5 7 23 25 32 
+Student 3497: 
+2 3 9 15 22 
+Student 3498: 
+0 5 9 22 24 
+Student 3499: 
+3 9 22 
+Student 3500: 
+2 2  saa 2 2 3500
+5 19 
+Student 3501: 
+12 14 17 32 
+Student 3502: 
+1 18 24 27 
+Student 3503: 
+3 18 24 27 28 
+Student 3504: 
+12 15 17 22 32 
+Student 3505: 
+0 12 17 21 22 
+Student 3506: 
+3 18 21 22 27 
+Student 3507: 
+0 9 19 21 24 
+Student 3508: 
+0 2 18 18  saa 18 18 3508
+28 
+Student 3509: 
+2 3 9 15 22 
+Student 3510: 
+2 5 5  saa 5 5 3510
+
+Student 3511: 
+5 7 14 23 
+Student 3512: 
+2 5 12 17 30 
+Student 3513: 
+2 7 24 28 31 
+Student 3514: 
+12 14 17 19 32 
+Student 3515: 
+2 5 14 22 
+Student 3516: 
+2 5 14 19 27 
+Student 3517: 
+12 14 18 18  saa 18 18 3517
+
+Student 3518: 
+7 22 
+Student 3519: 
+11 14 30 
+Student 3520: 
+2 7 15 22 30 
+Student 3521: 
+2 18 18  saa 18 18 3521
+28 
+Student 3522: 
+2 12 15 17 25 
+Student 3523: 
+3 7 19 21 30 
+Student 3524: 
+5 14 21 22 
+Student 3525: 
+14 15 22 
+Student 3526: 
+7 14 19 21 22 
+Student 3527: 
+7 12 17 25 32 
+Student 3528: 
+5 9 11 24 
+Student 3529: 
+0 2 7 12 32 
+Student 3530: 
+3 5 21 22 
+Student 3531: 
+3 14 15 21 24 
+Student 3532: 
+2 5 7 12 17 
+Student 3533: 
+2 9 22 28 
+Student 3534: 
+1 3 18 27 
+Student 3535: 
+11 
+Student 3536: 
+0 2 12 14 17 
+Student 3537: 
+5 12 17 25 32 
+Student 3538: 
+9 14 21 28 30 
+Student 3539: 
+3 12 15 22 
+Student 3540: 
+3 9 11 14 22 
+Student 3541: 
+2 5 17 19 23 
+Student 3542: 
+19 21 24 31 
+Student 3543: 
+2 9 11 31 
+Student 3544: 
+2 5 7 9 
+Student 3545: 
+2 3 11 14 24 
+Student 3546: 
+0 2 7 11 28 
+Student 3547: 
+2 5 14 17 19 
+Student 3548: 
+2 3 11 14 24 
+Student 3549: 
+2 9 14 28 30 
+Student 3550: 
+2 9 22 28 30 
+Student 3551: 
+2 9 22 28 30 
+Student 3552: 
+7 12 17 25 32 
+Student 3553: 
+2 7 9 22 27 
+Student 3554: 
+2 7 14 27 
+Student 3555: 
+2 7 15 24 31 
+Student 3556: 
+2 3 7 11 14 
+Student 3557: 
+15 21 24 28 30 
+Student 3558: 
+0 3 12 15 22 
+Student 3559: 
+2 5 22 27 28 
+Student 3560: 
+2 3 15 22 27 
+Student 3561: 
+7 14 30 31 32 
+Student 3562: 
+2 9 11 19 
+Student 3563: 
+0 11 12 
+Student 3564: 
+0 0  saa 0 0 3564
+2 7 30 
+Student 3565: 
+0 2 5 22 24 
+Student 3566: 
+2 5 9 
+Student 3567: 
+2 12 17 25 28 
+Student 3568: 
+12 17 25 30 32 
+Student 3569: 
+2 11 14 28 30 
+Student 3570: 
+2 5 14 19 21 
+Student 3571: 
+3 3  saa 3 3 3571
+7 24 
+Student 3572: 
+14 15 19 30 30  saa 30 30 3572
+
+Student 3573: 
+12 17 19 25 32 
+Student 3574: 
+2 2  saa 2 2 3574
+5 19 
+Student 3575: 
+0 9 11 21 31 
+Student 3576: 
+11 14 30 31 
+Student 3577: 
+0 5 9 
+Student 3578: 
+0 5 21 24 
+Student 3579: 
+5 7 14 30 
+Student 3580: 
+0 2 11 15 22 
+Student 3581: 
+0 5 14 22 
+Student 3582: 
+2 5 9 19 31 
+Student 3583: 
+11 14 30 31 
+Student 3584: 
+3 18 18  saa 18 18 3584
+19 28 
+Student 3585: 
+7 9 31 32 
+Student 3586: 
+3 7 31 32 
+Student 3587: 
+7 14 22 31 32 
+Student 3588: 
+2 3 5 22 
+Student 3589: 
+15 21 22 30 31 
+Student 3590: 
+7 14 27 28 32 
+Student 3591: 
+11 21 22 28 
+Student 3592: 
+11 12 27 28 32 
+Student 3593: 
+2 5 7 28 
+Student 3594: 
+15 21 24 24  saa 24 24 3594
+28 
+Student 3595: 
+21 22 30 31 
+Student 3596: 
+2 5 7 
+Student 3597: 
+12 17 25 30 32 
+Student 3598: 
+7 12 15 21 32 
+Student 3599: 
+2 9 14 19 28 
+Student 3600: 
+3 11 14 22 
+Student 3601: 
+5 9 21 22 28 
+Student 3602: 
+9 15 21 31 
+Student 3603: 
+14 18 21 27 
+Student 3604: 
+0 14 24 
+Student 3605: 
+7 9 14 28 
+Student 3606: 
+2 7 7  saa 7 7 3606
+14 19 
+Student 3607: 
+2 11 14 31 
+Student 3608: 
+11 12 17 25 32 
+Student 3609: 
+1 12 14 32 
+Student 3610: 
+0 11 21 22 
+Student 3611: 
+12 23 31 32 
+Student 3612: 
+5 9 11 14 22 
+Student 3613: 
+0 9 27 
+Student 3614: 
+11 12 14 17 
+Student 3615: 
+3 3  saa 3 3 3615
+18 22 31 
+Student 3616: 
+5 18 21 22 28 
+Student 3617: 
+3 14 15 22 31 
+Student 3618: 
+3 9 18 18  saa 18 18 3618
+28 
+Student 3619: 
+0 2 22 
+Student 3620: 
+2 9 14 15 28 
+Student 3621: 
+2 15 28 
+Student 3622: 
+2 15 18 28 
+Student 3623: 
+7 11 14 31 
+Student 3624: 
+3 11 14 32 
+Student 3625: 
+3 11 21 22 31 
+Student 3626: 
+2 12 15 25 32 
+Student 3627: 
+7 22 24 31 32 
+Student 3628: 
+0 19 21 30 32 
+Student 3629: 
+0 2 12 17 25 
+Student 3630: 
+7 12 17 25 32 
+Student 3631: 
+3 3  saa 3 3 3631
+15 18 27 
+Student 3632: 
+0 2 12 14 28 
+Student 3633: 
+2 11 12 15 28 
+Student 3634: 
+2 11 12 14 28 
+Student 3635: 
+2 15 19 24 28 
+Student 3636: 
+12 17 19 25 32 
+Student 3637: 
+12 17 25 28 32 
+Student 3638: 
+1 19 24 27 28 
+Student 3639: 
+9 14 21 22 
+Student 3640: 
+9 12 14 32 
+Student 3641: 
+0 7 9 12 24 
+Student 3642: 
+12 21 22 28 30 
+Student 3643: 
+2 12 19 22 28 
+Student 3644: 
+3 11 21 24 30 
+Student 3645: 
+3 18 22 27 30 
+Student 3646: 
+7 11 14 30 32 
+Student 3647: 
+0 7 11 14 21 
+Student 3648: 
+5 27 28 31 
+Student 3649: 
+5 9 28 
+Student 3650: 
+7 12 17 25 32 
+Student 3651: 
+2 3 5 9 14 
+Student 3652: 
+1 12 14 17 32 
+Student 3653: 
+11 14 31 
+Student 3654: 
+2 3 11 16 24 
+Student 3655: 
+11 14 30 32 
+Student 3656: 
+9 11 15 22 24 
+Student 3657: 
+0 0  saa 0 0 3657
+7 21 22 
+Student 3658: 
+7 9 22 31 32 
+Student 3659: 
+5 9 22 24 
+Student 3660: 
+7 12 17 19 32 
+Student 3661: 
+9 11 24 
+Student 3662: 
+2 2  saa 2 2 3662
+5 5  saa 5 5 3662
+12 
+Student 3663: 
+11 19 22 28 
+Student 3664: 
+2 5 9 22 
+Student 3665: 
+2 3 9 15 22 
+Student 3666: 
+3 7 9 22 
+Student 3667: 
+0 7 21 28 31 
+Student 3668: 
+13 28 31 
+Student 3669: 
+0 2 9 24 
+Student 3670: 
+7 12 17 25 32 
+Student 3671: 
+7 21 28 31 32 
+Student 3672: 
+2 3 12 18 27 
+Student 3673: 
+2 14 15 22 28 
+Student 3674: 
+2 3 14 15 
+Student 3675: 
+7 12 15 22 
+Student 3676: 
+12 17 25 32 
+Student 3677: 
+11 
+Student 3678: 
+7 11 14 22 31 
+Student 3679: 
+2 19 28 
+Student 3680: 
+5 12 17 19 23 
+Student 3681: 
+9 11 22 
+Student 3682: 
+5 7 21 28 
+Student 3683: 
+12 18 19 27 28 
+Student 3684: 
+3 7 15 21 32 
+Student 3685: 
+3 7 11 31 32 
+Student 3686: 
+3 5 11 12 24 
+Student 3687: 
+11 24 28 31 32 
+Student 3688: 
+0 7 7  saa 7 7 3688
+28 30 
+Student 3689: 
+2 3 5 22 
+Student 3690: 
+3 11 24 28 31 
+Student 3691: 
+0 0  saa 0 0 3691
+2 5 14 
+Student 3692: 
+5 7 14 21 22 
+Student 3693: 
+2 9 11 14 28 
+Student 3694: 
+2 12 17 19 32 
+Student 3695: 
+14 21 31 
+Student 3696: 
+12 17 21 32 
+Student 3697: 
+0 9 11 21 
+Student 3698: 
+9 18 22 28 
+Student 3699: 
+2 5 12 17 28 
+Student 3700: 
+5 9 21 
+Student 3701: 
+2 3 9 22 
+Student 3702: 
+2 5 22 24 28 
+Student 3703: 
+2 12 14 17 32 
+Student 3704: 
+5 7 11 14 22 
+Student 3705: 
+7 14 15 21 24 
+Student 3706: 
+12 17 19 25 
+Student 3707: 
+5 12 14 16 22 
+Student 3708: 
+2 3 12 18 18  saa 18 18 3708
+
+Student 3709: 
+5 17 25 30 32 
+Student 3710: 
+1 18 18  saa 18 18 3710
+24 28 
+Student 3711: 
+12 17 25 30 32 
+Student 3712: 
+1 12 18 18  saa 18 18 3712
+
+Student 3713: 
+3 5 9 24 28 
+Student 3714: 
+7 12 14 17 
+Student 3715: 
+7 15 21 24 
+Student 3716: 
+9 21 28 31 
+Student 3717: 
+7 12 30 32 
+Student 3718: 
+2 5 7 18 28 
+Student 3719: 
+15 21 24 32 
+Student 3720: 
+5 7 11 21 32 
+Student 3721: 
+2 9 14 28 
+Student 3722: 
+1 18 18  saa 18 18 3722
+19 28 
+Student 3723: 
+8 9 14 15 22 
+Student 3724: 
+2 32 
+Student 3725: 
+5 9 14 22 
+Student 3726: 
+14 15 21 22 28 
+Student 3727: 
+3 14 24 28 
+Student 3728: 
+9 21 24 
+Student 3729: 
+5 7 28 32 
+Student 3730: 
+14 21 24 28 
+Student 3731: 
+0 9 21 22 
+Student 3732: 
+0 7 9 11 32 
+Student 3733: 
+5 7 9 28 32 
+Student 3734: 
+2 5 11 14 22 
+Student 3735: 
+7 17 25 32 
+Student 3736: 
+1 18 22 27 28 
+Student 3737: 
+0 0  saa 0 0 3737
+0  saa 0 0 3737
+21 23 
+Student 3738: 
+0 0  saa 0 0 3738
+0  saa 0 0 3738
+21 23 
+Student 3739: 
+0 0  saa 0 0 3739
+21 24 
+Student 3740: 
+3 14 30 31 
+Student 3741: 
+5 12 14 21 22 
+Student 3742: 
+3 5 12 21 24 
+Student 3743: 
+2 5 11 14 28 
+Student 3744: 
+5 12 17 23 32 
+Student 3745: 
+2 5 9 11 24 
+Student 3746: 
+8 12 14 22 32 
+Student 3747: 
+2 14 30 31 32 
+Student 3748: 
+2 12 17 25 32 
+Student 3749: 
+9 18 18  saa 18 18 3749
+19 28 
+Student 3750: 
+15 21 24 28 31 
+Student 3751: 
+2 12 14 17 32 
+Student 3752: 
+5 14 17 19 23 
+Student 3753: 
+9 14 22 31 
+Student 3754: 
+2 15 24 28 
+Student 3755: 
+5 9 14 21 
+Student 3756: 
+0 21 22 28 
+Student 3757: 
+2 7 14 22 
+Student 3758: 
+2 15 22 28 32 
+Student 3759: 
+12 15 24 28 
+Student 3760: 
+2 7 9 11 31 
+Student 3761: 
+3 11 18 24 27 
+Student 3762: 
+7 14 22 30 
+Student 3763: 
+2 5 7 14 22 
+Student 3764: 
+18 30 31 32 
+Student 3765: 
+3 14 22 28 31 
+Student 3766: 
+2 7 24 28 31 
+Student 3767: 
+2 3 5 9 24 
+Student 3768: 
+7 9 21 24 28 
+Student 3769: 
+5 7 31 32 
+Student 3770: 
+12 14 21 24 25 
+Student 3771: 
+0 11 
+Student 3772: 
+0 5 8 14 24 
+Student 3773: 
+12 14 14  saa 14 14 3773
+17 25 
+Student 3774: 
+5 9 30 
+Student 3775: 
+1 5 9 21 
+Student 3776: 
+12 14 21 22 
+Student 3777: 
+12 19 21 22 28 
+Student 3778: 
+3 11 22 28 
+Student 3779: 
+1 18 18  saa 18 18 3779
+28 
+Student 3780: 
+3 8 14 15 
+Student 3781: 
+2 3 9 14 18 
+Student 3782: 
+3 22 27 30 31 
+Student 3783: 
+7 9 12 14 32 
+Student 3784: 
+0 2 7 24 31 
+Student 3785: 
+3 21 22 24 
+Student 3786: 
+1 3 11 18 27 
+Student 3787: 
+2 3 7 15 
+Student 3788: 
+2 7 14 
+Student 3789: 
+12 14 32 
+Student 3790: 
+7 14 21 22 
+Student 3791: 
+15 19 22 31 
+Student 3792: 
+11 15 22 28 
+Student 3793: 
+0 0  saa 0 0 3793
+3 21 22 
+Student 3794: 
+5 9 11 14 
+Student 3795: 
+0 7 27 31 32 
+Student 3796: 
+0 18 24 27 28 
+Student 3797: 
+2 15 22 28 31 
+Student 3798: 
+0 7 9 21 
+Student 3799: 
+3 11 21 24 28 
+Student 3800: 
+11 14 31 
+Student 3801: 
+11 11  saa 11 11 3801
+14 15 
+Student 3802: 
+3 5 9 22 
+Student 3803: 
+2 9 18 22 28 
+Student 3804: 
+7 12 14 28 
+Student 3805: 
+10 13 25 27 
+Student 3806: 
+0 9 14 21 28 
+Student 3807: 
+11 14 16 19 30 
+Student 3808: 
+5 30 31 32 
+Student 3809: 
+2 14 22 28 
+Student 3810: 
+2 28 31 
+Student 3811: 
+6 11 27 31 
+Student 3812: 
+5 5  saa 5 5 3812
+6 10 17 
+Student 3813: 
+7 11 13 18 32 
+Student 3814: 
+0 18 28 
+Student 3815: 
+11 16 
+Student 3816: 
+7 14 15 
+Student 3817: 
+5 11 14 31 
+Student 3818: 
+12 18 21 27 28 
+Student 3819: 
+11 14 19 21 
+Student 3820: 
+0 11 
+Student 3821: 
+18 
+Student 3822: 
+11 31 
+Student 3823: 
+2 9 14 28 
+Student 3824: 
+3 10 18 30 
+Student 3825: 
+2 7 22 
+Student 3826: 
+5 11 14 21 
+Student 3827: 
+0 9 12 18 30 
+Student 3828: 
+3 14 31 
+Student 3829: 
+2 14 28 
+Student 3830: 
+5 31 
+Student 3831: 
+5 7 25 32 
+Student 3832: 
+2 15 19 24 28 
+Student 3833: 
+0 2 18 28 
+Student 3834: 
+1 9 14 22 32 
+Student 3835: 
+3 7 9 24 
+Student 3836: 
+5 9 15 22 
+Student 3837: 
+5 7 11 12 31 
+Student 3838: 
+3 5 11 27 
+Student 3839: 
+0 4 11 15 16 
+Student 3840: 
+5 11 11  saa 11 11 3840
+16 
+Student 3841: 
+7 12 17 21 23 
+Student 3842: 
+2 3 18 18  saa 18 18 3842
+19 
+Student 3843: 
+2 3 15 30 
+Student 3844: 
+3 3  saa 3 3 3844
+21 
+Student 3845: 
+0 2 3 14 19 
+Student 3846: 
+18 24 31 
+Student 3847: 
+6 11 24 31 32 
+Student 3848: 
+11 24 
+Student 3849: 
+11 
+Student 3850: 
+11 
+Student 3851: 
+11 16 
+Student 3852: 
+3 9 11 24 
+Student 3853: 
+14 21 28 
+Student 3854: 
+0 2 5 14 30 
+Student 3855: 
+5 7 32 
+Student 3856: 
+0 21 24 
+Student 3857: 
+7 18 24 25 32 
+Student 3858: 
+7 8  sd 8 y 260 7 3858
+11 24 32 
+Student 3859: 
+5 8 9 31 
+Student 3860: 
+2 
+Student 3861: 
+9 14 22 27 
+Student 3862: 
+2 5 7 10 28 
+Student 3863: 
+2 9 11 14 28 
+Student 3864: 
+3 18 22 30 31 
+Student 3865: 
+11 14 24 
+Student 3866: 
+13 15 18 25 27 
+Student 3867: 
+3 3  saa 3 3 3867
+11 14 15 
+Student 3868: 
+5 6 24 32 
+Student 3869: 
+2 9 15 19 
+Student 3870: 
+1 2  sd 2 y 261 1 3870
+12 17 19 
+Student 3871: 
+9 11 14 21 32 
+Student 3872: 
+6 11 19 
+Student 3873: 
+6 8 10 17 28 
+Student 3874: 
+6 7  sd 7 y 262 6 3874
+19 23 32 
+Student 3875: 
+11 21 25 28 
+Student 3876: 
+0 6 11 31 
+Student 3877: 
+6 7  sd 7 y 263 6 3877
+24 30 
+Student 3878: 
+11 21 30 30  saa 30 30 3878
+
+Student 3879: 
+0 3 12 24 27 
+Student 3880: 
+6 10 16 19 24 
+Student 3881: 
+11 21 24 31 
+Student 3882: 
+1 6 23 
+Student 3883: 
+9 11 14 22 
+Student 3884: 
+5 6 17 24 32 
+Student 3885: 
+7 12 17 25 32 
+Student 3886: 
+11 14 31 
+Student 3887: 
+12 24 32 
+Student 3888: 
+1 4 24 
+Student 3889: 
+5 5  saa 5 5 3889
+17 23 
+Student 3890: 
+5 11 14 31 32 
+Student 3891: 
+5 5  saa 5 5 3891
+9 
+Student 3892: 
+2 9 18 27 28 
+Student 3893: 
+2 15 19 22 30 
+Student 3894: 
+6 24 
+Student 3895: 
+12 17 32 
+Student 3896: 
+11 12 
+Student 3897: 
+2 3 19 
+Student 3898: 
+7 10 11  sd 11 y 264 10 3898
+21 28 
+Student 3899: 
+4 22 28 
+Student 3900: 
+9 11 14 31 
+Student 3901: 
+5 9 11 28 
+Student 3902: 
+0 11 
+Student 3903: 
+3 9 22 
+Student 3904: 
+32 
+Student 3905: 
+5 12 17 19 23 
+Student 3906: 
+0 6 
+Student 3907: 
+3 9 15 22 27 
+Student 3908: 
+0 0  saa 0 0 3908
+2 11 30 
+Student 3909: 
+1 2  sd 2 y 265 1 3909
+9 16 25 
+Student 3910: 
+5 7 14 22 
+Student 3911: 
+16 18 19 
+Student 3912: 
+2 3 30 31 
+Student 3913: 
+3 14 31 
+Student 3914: 
+0 7 9 
+Student 3915: 
+0 0  saa 0 0 3915
+3 21 
+Student 3916: 
+11 14 15 24 
+Student 3917: 
+21 32 
+Student 3918: 
+28 
+Student 3919: 
+11 31 32 
+Student 3920: 
+3 12 
+Student 3921: 
+2 12 28 
+Student 3922: 
+1 7 12 17 23 
+Student 3923: 
+4 13 25 
+Student 3924: 
+0 4 16 18 
+Student 3925: 
+2 12 18 18  saa 18 18 3925
+
+Student 3926: 
+4 
+Student 3927: 
+2 3 5 14 
+Student 3928: 
+3 11 14 29 
+Student 3929: 
+1 14 15 21 
+Student 3930: 
+7 12 19 
+Student 3931: 
+7 12 24 
+Student 3932: 
+2 9 9  saa 9 9 3932
+24 
+Student 3933: 
+11 
+Student 3934: 
+11 14 14  saa 14 14 3934
+31 
+Student 3935: 
+5 22 24 31 
+Student 3936: 
+0 11 21 
+Student 3937: 
+16 22 
+Student 3938: 
+32 
+Student 3939: 
+0 19 
+Student 3940: 
+3 14 31 
+Student 3941: 
+2 7 15 28 
+Student 3942: 
+17 18  sd 18 y 266 17 3942
+27 
+Student 3943: 
+5 25 32 
+Student 3944: 
+11 18 30 
+Student 3945: 
+0 11 13 30 31 
+Student 3946: 
+0 7 9 13 16 
+Student 3947: 
+0 5 9 21 
+Student 3948: 
+3 14 30 
+Student 3949: 
+8 10 30 
+Student 3950: 
+12 14 17 21 22 
+Student 3951: 
+0 2 12 14 28 
+Student 3952: 
+5 7 17 25 32 
+Student 3953: 
+11 28 
+Student 3954: 
+1 2  sd 2 y 267 1 3954
+19 30 
+Student 3955: 
+3 27 32 
+Student 3956: 
+5 30 
+Student 3957: 
+3 
+Student 3958: 
+2 11 25 27 
+Student 3959: 
+9 14 21 22 
+Student 3960: 
+11 16 24 31 32 
+Student 3961: 
+24 
+Student 3962: 
+11 14 30 30  saa 30 30 3962
+31 
+Student 3963: 
+5 15 
+Student 3964: 
+2 11 
+Student 3965: 
+7 19 28 
+Student 3966: 
+2 5 11 15 28 
+Student 3967: 
+6 14 22 27 
+Student 3968: 
+9 14 15 21 
+Student 3969: 
+10 15 16 25 
+Student 3970: 
+15 25 27 
+Student 3971: 
+1 3 8 
+Student 3972: 
+12 17 21 25 
+Student 3973: 
+5 9 11 24 
+Student 3974: 
+3 3  saa 3 3 3974
+9 27 
+Student 3975: 
+18 
+Student 3976: 
+2 5 9 24 
+Student 3977: 
+2 5 9 28 
+Student 3978: 
+3 9 18 27 
+Student 3979: 
+0 2 
+Student 3980: 
+1 9 
+Student 3981: 
+11 31 
+Student 3982: 
+3 14 24 31 
+Student 3983: 
+2 15 
+Student 3984: 
+0 14 
+Student 3985: 
+15 21 25 28 
+Student 3986: 
+12 17 21 25 31 
+Student 3987: 
+2 5 24 28 
+Student 3988: 
+0 9 22 
+Student 3989: 
+2 3 7 22 32 
+Student 3990: 
+15 19 27 28 
+Student 3991: 
+0 16 21 27 
+Student 3992: 
+2 3 12 24 28 
+Student 3993: 
+2 5 27 28 32 
+Student 3994: 
+14 21 
+Student 3995: 
+3 8 13 18 21 
+Student 3996: 
+3 5 30 31 32 
+Student 3997: 
+8 10 14 
+Student 3998: 
+7 10 16 18 25 
+Student 3999: 
+11 18 
+Student 4000: 
+0 14 21 
+Student 4001: 
+0 2 12 15 24 
+Student 4002: 
+3 18 27 
+Student 4003: 
+0 12 21 24 
+Student 4004: 
+2 7 12 32 
+Student 4005: 
+2 14 15 19 22 
+Student 4006: 
+0 7 11 19 31 
+Student 4007: 
+14 15 16 22 
+Student 4008: 
+2 5 19 30 
+Student 4009: 
+2 5 11 11  saa 11 11 4009
+
+Student 4010: 
+8 24 30 
+Student 4011: 
+0 2 2  saa 2 2 4011
+5 14 
+Student 4012: 
+30 
+Student 4013: 
+12 17 21 23 32 
+Student 4014: 
+10 16 18 
+Student 4015: 
+3 8 19 30 
+Student 4016: 
+1 3 25 27 
+Student 4017: 
+6 6  saa 6 6 4017
+24 24  saa 24 24 4017
+
+Student 4018: 
+0 1  sd 1 y 268 0 4018
+4 16 16  saa 16 16 4018
+
+Student 4019: 
+10 13 16 16  saa 16 16 4019
+24 
+Student 4020: 
+11 15 18 18  saa 18 18 4020
+
+Student 4021: 
+16 22 22  saa 22 22 4021
+31 
+Student 4022: 
+7 27 31 
+Student 4023: 
+0 9 10  sd 10 y 269 9 4023
+29 
+Student 4024: 
+3 18 27 28 31 
+Student 4025: 
+3 17 19 23 27 
+Student 4026: 
+12 28 31 
+Student 4027: 
+0 10 14 22 
+Student 4028: 
+5 9 14 31 
+Student 4029: 
+1 18 19 27 28 
+Student 4030: 
+0 2 7 7  saa 7 7 4030
+10 
+Student 4031: 
+5 7 27 31 
+Student 4032: 
+3 6 16 27 31 
+Student 4033: 
+8 11 13 28 
+Student 4034: 
+3 22 31 
+Student 4035: 
+11 12 
+Student 4036: 
+11 
+Student 4037: 
+11 18 
+Student 4038: 
+3 11 
+Student 4039: 
+11 12 
+Student 4040: 
+9 11 14 30 
+Student 4041: 
+2 5 11 
+Student 4042: 
+11 14 28 30 31 
+Student 4043: 
+2 11 15 22 31 
+Student 4044: 
+5 9 14 22 
+Student 4045: 
+1 9 10  sd 10 y 270 9 4045
+17 30 
+Student 4046: 
+9 9  saa 9 9 4046
+13 16 24 
+Student 4047: 
+0 2 6 9 16 
+Student 4048: 
+0 18 24 24  saa 24 24 4048
+
+Student 4049: 
+6 8 16 30 31 
+Student 4050: 
+9 13 16 
+Student 4051: 
+0 8 16 32 
+Student 4052: 
+0 8 16 19 
+Student 4053: 
+0 13 16 
+Student 4054: 
+4 16 28 
+Student 4055: 
+1 4 16 24 
+Student 4056: 
+8 13 16 25 
+Student 4057: 
+0 1  sd 1 y 271 0 4057
+9 19 30 
+Student 4058: 
+0 6 8 13 25 
+Student 4059: 
+11 18 22 24 31 
+Student 4060: 
+3 5 21 22 
+Student 4061: 
+5 11 14 21 
+Student 4062: 
+5 14 30 30  saa 30 30 4062
+
+Student 4063: 
+12 17 19 32 
+Student 4064: 
+3 9 21 28 32 
+Student 4065: 
+0 2 3 15 32 
+Student 4066: 
+5 7 12 14 32 
+Student 4067: 
+5 12 22 24 
+Student 4068: 
+0 7 7  saa 7 7 4068
+30 
+Student 4069: 
+11 21 24 31 
+Student 4070: 
+2 7 7  saa 7 7 4070
+14 30 
+Student 4071: 
+0 21 24 28 
+Student 4072: 
+5 7 24 30 
+Student 4073: 
+9 12 22 25 32 
+Student 4074: 
+3 18 24 30 31 
+Student 4075: 
+14 15 21 28 31 
+Student 4076: 
+0 9 21 22 
+Student 4077: 
+2 11 12 15 
+Student 4078: 
+2 5 
+Student 4079: 
+18 
+Student 4080: 
+5 9 14 22 
+Student 4081: 
+1 2  sd 2 y 272 1 4081
+3 18 27 
+Student 4082: 
+5 11 21 22 
+Student 4083: 
+6 10 24 
+Student 4084: 
+14 18 30 31 32 
+Student 4085: 
+5 8 9 22 
+Student 4086: 
+7 11 32 
+Student 4087: 
+19 21 28 31 
+Student 4088: 
+0 7 9 21 28 
+Student 4089: 
+2 
+Student 4090: 
+4 13 13  saa 13 13 4090
+15 28 
+Student 4091: 
+14 24 30 31 
+Student 4092: 
+7 11 16 32 
+Student 4093: 
+2 11 32 
+Student 4094: 
+11 14 22 31 
+Student 4095: 
+3 11 31 
+Student 4096: 
+0 12 24 
+Student 4097: 
+6 10 22 32 
+Student 4098: 
+0 0  saa 0 0 4098
+14 21 28 
+Student 4099: 
+1 14 17 27 32 
+Student 4100: 
+11 13 14  sd 14 y 273 13 4100
+30 31 31  saa 31 31 4100
+
+Student 4101: 
+1 17 23 32 
+Student 4102: 
+11 14 15 21 28 
+Student 4103: 
+14 21 28 32 
+Student 4104: 
+3 15 18 22 31 
+Student 4105: 
+7 7  saa 7 7 4105
+8  sd 8 y 274 7 4105
+17 32 
+Student 4106: 
+4 12 28 
+Student 4107: 
+0 6 7  sd 7 y 275 6 4107
+8  sd 8 y 276 7 4107
+32 
+Student 4108: 
+0 6 14 31 32 
+Student 4109: 
+9 21 23 
+Student 4110: 
+8 12 14 21 
+Student 4111: 
+11 31 
+Student 4112: 
+2 3 9 14 
+Student 4113: 
+3 9 32 
+Student 4114: 
+15 22 25 27 30 
+Student 4115: 
+0 8 15 
+Student 4116: 
+5 14 30 
+Student 4117: 
+7 23 27 30 32 
+Student 4118: 
+11 31 
+Student 4119: 
+7 11 12 12  saa 12 12 4119
+32 
+Student 4120: 
+5 6 23 
+Student 4121: 
+6 7  sd 7 y 277 6 4121
+12 18 22 
+Student 4122: 
+31 
+Student 4123: 
+9 15 22 24 
+Student 4124: 
+11 12 
+Student 4125: 
+2 9 11 15 28 
+Student 4126: 
+5 7 21 32 
+Student 4127: 
+14 15 22 28 
+Student 4128: 
+0 0  saa 0 0 4128
+11 
+Student 4129: 
+2 7 19 28 
+Student 4130: 
+2 11 11  saa 11 11 4130
+30 31 
+Student 4131: 
+5 12 14 17 19 
+Student 4132: 
+5 14 32 
+Student 4133: 
+3 9 22 30 
+Student 4134: 
+2 7 11 14 
+Student 4135: 
+2 12 17 32 
+Student 4136: 
+11 14 24 
+Student 4137: 
+2 8 9 18 
+Student 4138: 
+11 12 31 32 
+Student 4139: 
+0 2 12 14 28 
+Student 4140: 
+0 2 12 28 
+Student 4141: 
+7 25 27 30 31 
+Student 4142: 
+12 17 
+Student 4143: 
+11 14 21 30 31 
+Student 4144: 
+0 9 14 27 30 
+Student 4145: 
+2 9 15 24 24  saa 24 24 4145
+
+Student 4146: 
+4 13 15 21 
+Student 4147: 
+0 8 14 30 
+Student 4148: 
+1 3 12 18 27 
+Student 4149: 
+0 7 9 18 30 
+Student 4150: 
+5 12 14 31 
+Student 4151: 
+6 24 31 32 
+Student 4152: 
+0 3 19 21 28 
+Student 4153: 
+11 11  saa 11 11 4153
+30 31 
+Student 4154: 
+5 14 17 19 23 
+Student 4155: 
+9 28 30 31 
+Student 4156: 
+2 7 30 31 
+Student 4157: 
+0 11 23 31 
+Student 4158: 
+0 15 21 24 
+Student 4159: 
+2 5 9 22 
+Student 4160: 
+0 11 21 24 
+Student 4161: 
+1 3 8 10 19 
+Student 4162: 
+2 11 15 30 31 
+Student 4163: 
+2 11 18 31 
+Student 4164: 
+1 12 14 19 21 
+Student 4165: 
+4 10 16 
+Student 4166: 
+8 
+Student 4167: 
+7 
+Student 4168: 
+0 1  sd 1 y 278 0 4168
+3 5 15 
+Student 4169: 
+4 
+Student 4170: 
+14 
+Student 4171: 
+11 30 
+Student 4172: 
+27 
+Student 4173: 
+11 32 
+Student 4174: 
+3 30 
+Student 4175: 
+8 
+Student 4176: 
+19 21 
+Student 4177: 
+10 
+Student 4178: 
+14 24 
+Student 4179: 
+8 
+Student 4180: 
+14 25 28 
+Student 4181: 
+24 
+Student 4182: 
+2 5 
+Student 4183: 
+2 3 28 
+Student 4184: 
+4 15 28 
+Student 4185: 
+6 22 25 27 
+Student 4186: 
+0 21 22 
+Student 4187: 
+0 3 
+Student 4188: 
+0 14 22 
+Student 4189: 
+9 19 28 
+Student 4190: 
+30 
+Student 4191: 
+13 
+Student 4192: 
+14 30 
+Student 4193: 
+12 27 
+Student 4194: 
+2 
+Student 4195: 
+18 
+Student 4196: 
+1 2  sd 2 y 279 1 4196
+5 
+Student 4197: 
+5 21 
+Student 4198: 
+5 
+Student 4199: 
+5 
+Student 4200: 
+9 14 19 21 
+Student 4201: 
+0 
+Student 4202: 
+11 
+Student 4203: 
+18 21 24 
+Student 4204: 
+9 
+Student 4205: 
+0 
+Student 4206: 
+5 8 22 
+Student 4207: 
+19 
+Student 4208: 
+3 19 21 
+Student 4209: 
+5 
+Student 4210: 
+19 
+Student 4211: 
+6 
+Student 4212: 
+3 
+Student 4213: 
+15 
+Student 4214: 
+3 
+Student 4215: 
+27 
+Student 4216: 
+6 17 
+Student 4217: 
+2 9 
+Student 4218: 
+3 
+Student 4219: 
+2 3 
+Student 4220: 
+6 
+Student 4221: 
+2 5 19 
+Student 4222: 
+5 22 30 
+Student 4223: 
+6 21 
+Student 4224: 
+30 
+Student 4225: 
+0 
+Student 4226: 
+21 
+Student 4227: 
+18 32 
+Student 4228: 
+3 
+Student 4229: 
+3 
+Student 4230: 
+27 
+Student 4231: 
+7 14 
+Student 4232: 
+6 
+Student 4233: 
+14 22 
+Student 4234: 
+11 
+Student 4235: 
+19 
+Student 4236: 
+21 
+Student 4237: 
+3 
+Student 4238: 
+19 
+Student 4239: 
+32 
+Student 4240: 
+14 
+Student 4241: 
+32 
+Student 4242: 
+9 
+Student 4243: 
+12 15 
+Student 4244: 
+9 
+Student 4245: 
+18 
+Student 4246: 
+28 32 
+Student 4247: 
+12 16 32 
+Student 4248: 
+3 
+Student 4249: 
+5 
+Student 4250: 
+5 
+Student 4251: 
+0 3 
+Student 4252: 
+4 28 
+Student 4253: 
+18 
+Student 4254: 
+1 17 18  sd 18 y 280 17 4254
+
+Student 4255: 
+0 5 17 
+Student 4256: 
+2 
+Student 4257: 
+3 28 
+Student 4258: 
+2 28 
+Student 4259: 
+15 32 
+Student 4260: 
+14 15 17 
+Student 4261: 
+3 
+Student 4262: 
+7 8  sd 8 y 281 7 4262
+19 
+Student 4263: 
+18 
+Student 4264: 
+21 
+Student 4265: 
+27 
+Student 4266: 
+2 25 32 
+Student 4267: 
+21 
+Student 4268: 
+30 
+Student 4269: 
+9 
+Student 4270: 
+2 
+Student 4271: 
+18 30 
+Student 4272: 
+4 
+Student 4273: 
+32 
+Student 4274: 
+9 21 
+Student 4275: 
+9 11 
+Student 4276: 
+19 
+Student 4277: 
+0 22 
+Student 4278: 
+18 24 28 
+Student 4279: 
+0 18 27 
+Student 4280: 
+19 
+Student 4281: 
+8 
+Student 4282: 
+32 
+Student 4283: 
+11 
+Student 4284: 
+8 14 22 
+Student 4285: 
+18 24 25 
+Student 4286: 
+3 
+Student 4287: 
+8 
+Student 4288: 
+9 27 
+Student 4289: 
+5 21 24 
+Student 4290: 
+4 
+Student 4291: 
+0 3 16 
+Student 4292: 
+18 
+Student 4293: 
+21 
+Student 4294: 
+9 30 
+Student 4295: 
+2 
+Student 4296: 
+9 
+Student 4297: 
+24 29 
+Student 4298: 
+18 
+Student 4299: 
+15 
+Student 4300: 
+19 
+Student 4301: 
+3 
+Student 4302: 
+11 16 
+Student 4303: 
+31 
+Student 4304: 
+16 
+Student 4305: 
+3 
+Student 4306: 
+11 30 
+Student 4307: 
+27 
+Student 4308: 
+15 18 19 
+Student 4309: 
+3 
+Student 4310: 
+2 
+Student 4311: 
+7 
+Student 4312: 
+21 
+Student 4313: 
+11 
+Student 4314: 
+2 11 28 
+Student 4315: 
+30 
+Student 4316: 
+15 
+Student 4317: 
+11 
+Student 4318: 
+14 
+Student 4319: 
+1 
+Student 4320: 
+14 
+Student 4321: 
+27 
+Student 4322: 
+14 
+Student 4323: 
+14 22 
+Student 4324: 
+16 21 
+Student 4325: 
+15 28 
+Student 4326: 
+2 30 
+Student 4327: 
+2 
+Student 4328: 
+21 
+Student 4329: 
+2 
+Student 4330: 
+27 
+Student 4331: 
+27 
+Student 4332: 
+27 
+Student 4333: 
+14 
+Student 4334: 
+2 14 
+Student 4335: 
+22 
+Student 4336: 
+14 
+Student 4337: 
+2 
+Student 4338: 
+22 
+Student 4339: 
+22 
+Student 4340: 
+14 
+Student 4341: 
+14 
+Student 4342: 
+14 21 
+Student 4343: 
+2 
+Student 4344: 
+22 
+Student 4345: 
+14 
+Student 4346: 
+14 
+Student 4347: 
+2 
+Student 4348: 
+21 
+Student 4349: 
+14 
+Student 4350: 
+14 22 
+Student 4351: 
+14 
+Student 4352: 
+2 
+Student 4353: 
+2 
+Student 4354: 
+2 
+Student 4355: 
+22 
+Student 4356: 
+0 
+Student 4357: 
+0 4 
+Student 4358: 
+30 
+Student 4359: 
+22 30 
+544
+281
+dasddasdsa

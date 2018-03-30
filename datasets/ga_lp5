@@ -1,0 +1,1174 @@
+
+
+
+------inititalizing 0
+SIZE:526
+
+0 0 0
+FOR-SIZE:526 pika: 0
+28
+------inititalizing 1
+SIZE:526
+
+0 0 0
+FOR-SIZE:526 17
+------inititalizing 2
+SIZE:526
+
+0 0 0
+FOR-SIZE:526 12
+------inititalizing 3
+SIZE:526
+
+0 0 0
+FOR-SIZE:526 34
+------inititalizing 4
+SIZE:526
+
+0 0 0
+FOR-SIZE:526 23
+------inititalizing 5
+SIZE:526
+
+0 0 0
+FOR-SIZE:526 13
+526
+population inititalized
+33 
+21 
+43 
+29 
+25 
+28 
+33 
+0 
+35 
+21 
+22 
+33 
+31 
+31 
+14 
+31 
+35 
+0 
+33 
+0 
+
+
+526 20*********
+--Period :0--
+Room 0( 400 ) :147( 6 )*439( 8 )*408( 12 )*327( 12 )*312( 7 )*179( 8 )*410( 6 )*189( 7 )*377( 5 )*114( 18 )*215( 7 )*121( 18 )*386( 12 )*242( 10 )*245( 19 )*490( 5 )*195( 11 )*22( 21 )*517( 3 )*103( 13 )*184( 14 )*350( 8 )*34( 12 )*254( 10 )*187( 7 )*394( 7 )*93( 14 )*219( 8 )*252( 6 )*374( 5 )*342( 4 )*330( 4 )*450( 4 )*311
+
+--Period :1--
+Room 0( 400 ) :142( 5 )*321( 2 )*363( 7 )*70( 17 )*474( 12 )*311( 2 )*337( 5 )*301( 15 )*26( 29 )*14( 17 )*213( 13 )*80( 12 )*44( 27 )*268( 11 )*206( 9 )*9( 26 )*168( 13 )*498( 8 )*315( 9 )*455( 8 )*152( 15 )*262
+
+--Period :2--
+Room 0( 400 ) :516( 2 )*21( 39 )*237( 9 )*290( 6 )*111( 14 )*361( 6 )*419( 9 )*521( 10 )*320( 8 )*209( 14 )*395( 7 )*204( 12 )*421( 3 )*231( 15 )*309( 9 )*71( 12 )*214( 8 )*305( 8 )*399( 3 )*340( 9 )*426( 12 )*463( 8 )*210( 4 )*238( 5 )*393( 6 )*66( 12 )*65( 14 )*170( 5 )*487( 6 )*472( 5 )*429( 7 )*264( 9 )*403( 4 )*434( 5 )*249( 5 )*307( 4 )*255( 12 )*479( 3 )*8( 28 )*298( 11 )*165( 6 )*424( 5 )*296( 9 )*388
+
+--Period :3--
+Room 0( 400 ) :246( 11 )*60( 18 )*148( 9 )*291( 12 )*349( 12 )*430( 7 )*48( 21 )*132( 10 )*236( 13 )*13( 35 )*524( 2 )*356( 6 )*51( 23 )*461( 10 )*368( 9 )*404( 5 )*452( 10 )*372( 5 )*440( 5 )*67( 19 )*134( 12 )*314( 13 )*339( 5 )*503( 3 )*139( 6 )*211( 15 )*506( 3 )*257( 9 )*202( 8 )*316
+
+--Period :4--
+Room 0( 400 ) :432( 6 )*360( 4 )*324( 7 )*433( 9 )*218( 10 )*496( 6 )*12( 30 )*336( 4 )*166( 15 )*316( 10 )*232( 8 )*128( 21 )*256( 6 )*488( 7 )*445( 9 )*322( 5 )*525( 6 )*47( 24 )*235( 8 )*69( 19 )*55( 22 )*338( 5 )*267( 12 )*52( 17 )*62( 16 )*286
+
+--Period :5--
+Room 0( 400 ) :335( 13 )*437( 5 )*64( 11 )*38( 16 )*164( 17 )*30( 27 )*171( 9 )*94( 10 )*507( 5 )*400( 3 )*470( 4 )*376( 4 )*33( 20 )*155( 18 )*158( 9 )*289( 8 )*275( 6 )*216( 5 )*485( 5 )*160( 18 )*125( 9 )*79( 16 )*56( 29 )*444( 6 )*140( 4 )*221( 11 )*329( 3 )*247( 7 )*298
+
+--Period :6--
+Room 0( 400 ) :508( 3 )*402( 11 )*57( 21 )*200( 11 )*484( 4 )*16( 27 )*28( 22 )*280( 1 )*133( 12 )*466( 9 )*364( 5 )*428( 4 )*212( 10 )*186( 13 )*489( 4 )*345( 7 )*358( 7 )*234( 10 )*272( 14 )*371( 7 )*182( 10 )*190( 16 )*112( 10 )*76( 18 )*431( 7 )*113( 6 )*68( 17 )*467( 7 )*145( 10 )*82( 17 )*159( 19 )*162( 11 )*81( 13 )*363
+
+--Period :7--
+Room 0( 400 ) :0
+
+--Period :8--
+Room 0( 400 ) :224( 9 )*217( 8 )*504( 6 )*501( 5 )*109( 18 )*306( 6 )*4( 24 )*96( 15 )*100( 16 )*279( 16 )*138( 6 )*499( 8 )*510( 3 )*378( 15 )*271( 12 )*263( 10 )*304( 9 )*35( 20 )*239( 8 )*427( 4 )*177( 10 )*465( 4 )*120( 13 )*493( 1 )*390( 7 )*278( 7 )*258( 13 )*473( 12 )*509( 3 )*448( 5 )*201( 5 )*265( 9 )*471( 7 )*192( 10 )*515( 6 )*330
+
+--Period :9--
+Room 0( 400 ) :226( 6 )*302( 7 )*486( 1 )*369( 3 )*293( 10 )*89( 15 )*17( 23 )*87( 19 )*63( 10 )*99( 20 )*270( 8 )*105( 9 )*233( 14 )*1( 13 )*446( 8 )*41( 24 )*332( 9 )*273( 10 )*90( 16 )*481( 6 )*86( 15 )*246
+
+--Period :10--
+Room 0( 400 ) :24( 31 )*243( 8 )*519( 5 )*514( 3 )*269( 6 )*46( 32 )*136( 17 )*225( 14 )*135( 12 )*491( 3 )*348( 6 )*137( 8 )*129( 8 )*447( 8 )*58( 22 )*353( 8 )*475( 8 )*261( 15 )*181( 11 )*355( 5 )*223( 10 )*438( 4 )*244
+
+--Period :11--
+Room 0( 400 ) :91( 16 )*220( 11 )*5( 21 )*253( 6 )*196( 17 )*492( 4 )*294( 11 )*178( 12 )*397( 10 )*75( 16 )*406( 2 )*127( 11 )*469( 4 )*241( 13 )*380( 13 )*385( 5 )*449( 3 )*512( 4 )*396( 8 )*39( 23 )*443( 5 )*172( 20 )*414( 7 )*352( 7 )*383( 10 )*505( 4 )*375( 7 )*205( 14 )*208( 8 )*318( 4 )*197( 8 )*151( 11 )*422( 6 )*321
+
+--Period :12--
+Room 0( 400 ) :115( 15 )*310( 10 )*285( 9 )*244( 5 )*188( 7 )*73( 7 )*92( 17 )*325( 5 )*40( 23 )*477( 6 )*277( 7 )*468( 2 )*458( 5 )*240( 9 )*391( 7 )*154( 5 )*459( 5 )*3( 31 )*495( 1 )*523( 5 )*161( 6 )*167( 10 )*193( 15 )*228( 9 )*480( 10 )*357( 9 )*299( 6 )*405( 7 )*176( 14 )*266( 17 )*460( 6 )*290
+
+--Period :13--
+Room 0( 400 ) :343( 7 )*388( 8 )*398( 4 )*347( 5 )*317( 6 )*420( 9 )*101( 16 )*230( 9 )*416( 4 )*328( 8 )*308( 6 )*451( 5 )*88( 7 )*59( 23 )*415( 4 )*381( 9 )*19( 27 )*183( 10 )*346( 12 )*482( 5 )*222( 4 )*526( 6 )*229( 8 )*18( 28 )*502( 4 )*175( 17 )*169( 21 )*141( 17 )*303( 4 )*61( 18 )*441( 3 )*314
+
+--Period :14--
+Room 0( 400 ) :382( 9 )*25( 32 )*163( 16 )*110( 23 )*124( 20 )*106( 17 )*97( 17 )*72( 23 )*423( 14 )*191( 15 )*83( 22 )*359( 8 )*274( 14 )*483( 4 )*234
+
+--Period :15--
+Room 0( 400 ) :497( 5 )*286( 11 )*20( 39 )*411( 9 )*144( 20 )*462( 10 )*174( 10 )*300( 5 )*248( 21 )*259( 7 )*185( 16 )*351( 14 )*15( 26 )*326( 3 )*130( 16 )*436( 5 )*107( 12 )*95( 15 )*297( 9 )*173( 8 )*379( 8 )*425( 7 )*323( 9 )*344( 7 )*389( 3 )*373( 6 )*417( 4 )*476( 5 )*401( 8 )*288( 6 )*251( 13 )*337
+
+--Period :16--
+Room 0( 400 ) :126( 9 )*150( 16 )*319( 10 )*250( 10 )*108( 17 )*43( 23 )*518( 5 )*203( 17 )*407( 6 )*282( 9 )*464( 4 )*262( 9 )*36( 18 )*522( 2 )*456( 12 )*49( 21 )*156( 9 )*32( 13 )*370( 8 )*457( 5 )*334( 9 )*313( 8 )*513( 3 )*412( 2 )*494( 7 )*354( 5 )*520( 7 )*194( 11 )*157( 5 )*331( 5 )*409( 5 )*367( 3 )*387( 4 )*442( 4 )*84( 9 )*310
+
+--Period :17--
+Room 0( 400 ) :0
+
+--Period :18--
+Room 0( 400 ) :102( 11 )*42( 20 )*27( 33 )*435( 4 )*292( 5 )*392( 13 )*284( 7 )*143( 14 )*295( 7 )*260( 5 )*283( 13 )*118( 16 )*366( 3 )*287( 6 )*333( 15 )*153( 15 )*341( 5 )*454( 10 )*77( 18 )*116( 15 )*362( 5 )*418( 10 )*365( 15 )*119( 24 )*500( 3 )*104( 8 )*413( 7 )*511( 5 )*281( 11 )*199( 13 )*478( 6 )*453( 12 )*276( 12 )*366
+
+--Period :19--
+Room 0( 400 ) :0
+
+NUM_EXAM : 498
+UNSCHED : 28
+131 384 74 23 180 198 7 29 98 31 122 227 45 85 149 54 53 2 37 117 207 146 78 50 123 10 11 6 
+498 28 526
+gen: 9 1
+6 in mut
+heavy mutation
+disrupt calculated 00000000000000111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000000000000000111
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000000000011
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+311 28******
+0.934098 311 28 526 28 311
+beep beep
+364 17******
+1.53067 364 17 526 17 364
+beep beep
+396 12******
+2.15609 396 12 526 12 396
+beep beep
+316 34******
+0.769951 316 34 526 34 316
+beep beep
+343 23******
+1.13502 343 23 526 23 343
+beep beep
+439 13******
+1.98949 439 13 526 13 439
+beep beep
+187 8******
+3.24952 187 8 526 8 187
+beep beep
+185 3******
+8.50445 185 3 526 3 185
+beep beep
+182 4******
+6.42875 182 4 526 4 182
+beep beep
+210 9******
+2.88852 210 9 526 9 210
+beep beep
+205 6******
+4.30971 205 6 526 6 205
+beep beep
+155 5******
+5.17971 155 5 526 5 155
+tot_fit: 39.076
+max_fitness: 8
+conflict: 185
+239 391 551 197 290 509 831 2176 1645 739 1102 1325 9995
+dene 1
+0
+9999
+dene 1
+done 9 6920
+done 11 9694
+done 7 4966
+done 7 3912
+done 4 1581
+done 8 6195
+dene 2
+dene 3
+gen: 8 0
+6 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+7 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+8 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+9 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+10 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+11 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+210 9******
+2.88852 210 9 526 9 210
+beep beep
+155 5******
+5.17971 155 5 526 5 155
+beep beep
+185 3******
+8.50445 185 3 526 3 185
+beep beep
+185 3******
+8.50445 185 3 526 3 185
+beep beep
+343 23******
+1.13502 343 23 526 23 343
+beep beep
+182 4******
+6.42875 182 4 526 4 182
+beep beep
+166 6******
+4.32352 166 6 526 6 166
+beep beep
+156 2******
+12.6564 156 2 526 2 156
+beep beep
+180 3******
+8.51133 180 3 526 3 180
+beep beep
+198 2******
+12.5298 198 2 526 2 198
+beep beep
+181 4******
+6.42953 181 4 526 4 181
+beep beep
+141 4******
+6.46112 141 4 526 4 141
+tot_fit: 83.5526
+max_fitness: 12
+conflict: 198
+345 619 1017 1017 135 769 517 1514 1018 1499 769 773 9992
+dene 1
+11
+9999
+dene 1
+done 7 4741
+done 11 9729
+done 3 2376
+done 0 23
+done 6 4399
+done 8 6539
+dene 2
+dene 3
+gen: 7 1
+6 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000000000000000111
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 00000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+156 2******
+12.6564 156 2 526 2 156
+beep beep
+141 4******
+6.46112 141 4 526 4 141
+beep beep
+185 3******
+8.50445 185 3 526 3 185
+beep beep
+210 9******
+2.88852 210 9 526 9 210
+beep beep
+166 6******
+4.32352 166 6 526 6 166
+beep beep
+180 3******
+8.51133 180 3 526 3 180
+beep beep
+189 2******
+12.5567 189 2 526 2 189
+beep beep
+171 2******
+12.6109 171 2 526 2 171
+beep beep
+151 2******
+12.6716 151 2 526 2 151
+beep beep
+246 2******
+12.3881 246 2 526 2 246
+beep beep
+175 3******
+8.51822 175 3 526 3 175
+beep beep
+118 3******
+8.59758 118 3 526 3 118
+tot_fit: 110.688
+max_fitness: 12
+conflict: 246
+1143 583 768 260 390 768 1134 1139 1144 1119 769 776 9993
+dene 1
+11
+9999
+dene 1
+done 7 5698
+done 8 7176
+done 8 6306
+done 10 8978
+done 6 4975
+done 6 4816
+dene 2
+dene 3
+gen: 6 0
+6 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+7 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+8 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+9 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+10 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+11 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+171 2******
+12.6109 171 2 526 2 171
+beep beep
+151 2******
+12.6716 151 2 526 2 151
+beep beep
+151 2******
+12.6716 151 2 526 2 151
+beep beep
+175 3******
+8.51822 175 3 526 3 175
+beep beep
+189 2******
+12.5567 189 2 526 2 189
+beep beep
+189 2******
+12.5567 189 2 526 2 189
+beep beep
+202 1******
+23.8874 202 1 526 1 202
+beep beep
+170 2******
+12.6139 170 2 526 2 170
+beep beep
+139 2******
+12.7084 139 2 526 2 139
+beep beep
+193 1******
+23.9854 193 1 526 1 193
+beep beep
+158 3******
+8.54173 158 3 526 3 158
+beep beep
+111 3******
+8.60743 111 3 526 3 111
+tot_fit: 161.93
+max_fitness: 23
+conflict: 193
+778 782 782 526 775 775 1475 778 784 1481 527 531 9994
+dene 1
+11
+9999
+dene 1
+done 3 2451
+done 1 1530
+done 7 6352
+done 6 5712
+done 1 1472
+done 10 9216
+dene 2
+dene 3
+gen: 5 1
+6 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+175 3******
+8.51822 175 3 526 3 175
+beep beep
+151 2******
+12.6716 151 2 526 2 151
+beep beep
+170 2******
+12.6139 170 2 526 2 170
+beep beep
+202 1******
+23.8874 202 1 526 1 202
+beep beep
+151 2******
+12.6716 151 2 526 2 151
+beep beep
+158 3******
+8.54173 158 3 526 3 158
+beep beep
+197 1******
+23.9417 197 1 526 1 197
+beep beep
+161 2******
+12.6412 161 2 526 2 161
+beep beep
+153 1******
+24.431 153 1 526 1 153
+beep beep
+173 1******
+24.2062 173 1 526 1 173
+beep beep
+141 3******
+8.56538 141 3 526 3 141
+beep beep
+137 2******
+12.7145 137 2 526 2 137
+tot_fit: 185.405
+max_fitness: 24
+conflict: 173
+459 683 680 1288 683 460 1291 681 1317 1305 461 685 9993
+dene 1
+11
+9999
+dene 1
+done 10 8919
+done 2 1779
+done 9 8122
+done 8 6405
+done 9 8226
+done 1 764
+dene 2
+dene 3
+gen: 4 1
+6 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000000011111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+141 3******
+8.56538 141 3 526 3 141
+beep beep
+170 2******
+12.6139 170 2 526 2 170
+beep beep
+173 1******
+24.2062 173 1 526 1 173
+beep beep
+153 1******
+24.431 153 1 526 1 153
+beep beep
+173 1******
+24.2062 173 1 526 1 173
+beep beep
+151 2******
+12.6716 151 2 526 2 151
+beep beep
+177 1******
+24.1617 177 1 526 1 177
+beep beep
+167 1******
+24.2732 167 1 526 1 167
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+160 1******
+24.3519 160 1 526 1 160
+beep beep
+139 3******
+8.56817 139 3 526 3 139
+beep beep
+175 2******
+12.5988 175 2 526 2 175
+tot_fit: 508.25
+max_fitness: 307
+conflict: 171
+168 248 476 480 476 249 475 477 6052 479 168 247 9995
+dene 1
+11
+9999
+dene 1
+done 3 1352
+done 8 7849
+done 8 6312
+done 8 7212
+done 8 7973
+done 8 5883
+dene 2
+dene 3
+gen: 3 1
+6 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000000000000000011
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000000000000000011
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000000000011
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 00000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+153 1******
+24.431 153 1 526 1 153
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+149 1******
+24.4765 149 1 526 1 149
+beep beep
+167 1******
+24.2732 167 1 526 1 167
+beep beep
+155 0******
+339.355 155 0 526 0 155
+beep beep
+159 2******
+12.6473 159 2 526 2 159
+beep beep
+159 2******
+12.6473 159 2 526 2 159
+beep beep
+165 2******
+12.6291 165 2 526 2 165
+tot_fit: 1988.47
+max_fitness: 339
+conflict: 155
+122 1546 1546 1546 1546 1546 123 122 1706 63 63 63 9992
+dene 1
+11
+9999
+dene 1
+done 4 4992
+done 1 1017
+done 3 4668
+done 2 2420
+done 4 6031
+done 4 5139
+dene 2
+dene 3
+gen: 2 1
+6 in mut
+heavy mutation
+disrupt calculated 10000000000000000011
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000000000000000011
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 00000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+152 1******
+24.4424 152 1 526 1 152
+beep beep
+162 1******
+24.3293 162 1 526 1 162
+beep beep
+146 0******
+360.274 146 0 526 0 146
+beep beep
+161 1******
+24.3406 161 1 526 1 161
+beep beep
+178 4******
+6.43189 178 4 526 4 178
+beep beep
+165 2******
+12.6291 165 2 526 2 165
+tot_fit: 2298.06
+max_fitness: 360
+conflict: 146
+1338 1338 1338 1338 1338 1338 106 105 1567 105 27 54 9992
+dene 1
+11
+9999
+dene 1
+done 8 9480
+done 3 4679
+done 8 8416
+done 2 2884
+done 2 3689
+done 2 3457
+dene 2
+dene 3
+gen: 1 0
+6 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+7 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+8 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+9 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+10 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+11 in mut
+done in mutation
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+146 0******
+360.274 146 0 526 0 146
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+146 0******
+360.274 146 0 526 0 146
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+172 1******
+24.2173 172 1 526 1 172
+beep beep
+178 1******
+24.1506 178 1 526 1 178
+beep beep
+143 0******
+367.832 143 0 526 0 143
+beep beep
+150 1******
+24.4651 150 1 526 1 150
+beep beep
+185 2******
+12.5687 185 2 526 2 185
+beep beep
+169 2******
+12.6169 169 2 526 2 169
+tot_fit: 2416.81
+max_fitness: 367
+conflict: 143
+1490 1272 1490 1272 1272 1272 100 99 1521 101 52 52 9993
+dene 1
+11
+9999
+dene 1
+done 7 8237
+done 5 7929
+done 2 2983
+done 8 9773
+done 2 3970
+done 4 6192
+dene 2
+dene 3
+gen: 0 1
+6 in mut
+heavy mutation
+disrupt calculated 10000111111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+7 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+8 in mut
+heavy mutation
+disrupt calculated 10000000111111111111
+rearranged
+
+done hill climbing
+after hill climbing
+
+9 in mut
+heavy mutation
+disrupt calculated 10000000000000000111
+rearranged
+
+done hill climbing
+after hill climbing
+
+10 in mut
+heavy mutation
+disrupt calculated 10000000000000000000
+rearranged
+
+done hill climbing
+after hill climbing
+
+11 in mut
+heavy mutation
+disrupt calculated 10000000000000000111
+rearranged
+
+done hill climbing
+after hill climbing
+
+done hill climbing**
+
+
+num_conflicts: beep beep
+178 1******
+24.1506 178 1 526 1 178
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+146 0******
+360.274 146 0 526 0 146
+beep beep
+143 0******
+367.832 143 0 526 0 143
+beep beep
+146 0******
+360.274 146 0 526 0 146
+beep beep
+171 0******
+307.602 171 0 526 0 171
+beep beep
+193 2******
+12.5447 193 2 526 2 193
+beep beep
+127 1******
+24.7297 127 1 526 1 127
+beep beep
+176 2******
+12.5958 176 2 526 2 176
+beep beep
+156 1******
+24.397 156 1 526 1 156
+beep beep
+170 1******
+24.2396 170 1 526 1 170
+beep beep
+174 1******
+24.195 174 1 526 1 174
+tot_fit: 1850.44
+526 20*********
+--Period :0--
+Room 0( 400 ) :222( 4 )*369( 3 )*468( 2 )*428( 4 )*517( 3 )*62( 16 )*417( 4 )*154( 5 )*256( 6 )*186( 13 )*409( 5 )*512( 4 )*459( 5 )*329( 3 )*66( 12 )*275( 6 )*493( 1 )*249( 5 )*514( 3 )*104( 8 )*486( 1 )*433( 9 )*14( 17 )*69( 19 )*282( 9 )*361( 6 )*351( 14 )*330( 4 )*233( 14 )*487( 6 )*234( 10 )*347( 5 )*90( 16 )*505( 4 )*480( 10 )*434( 5 )*424( 5 )*431( 7 )*454( 10 )*246( 11 )*144( 20 )*397( 10 )*443( 5 )*301( 15 )*213( 13 )*357
+
+--Period :1--
+Room 0( 400 ) :20( 39 )*15( 26 )*23( 35 )*35( 20 )*515( 6 )*220( 11 )*137
+
+--Period :2--
+Room 0( 400 ) :296( 9 )*308( 6 )*46( 32 )*419( 9 )*518( 5 )*412( 2 )*51( 23 )*367( 3 )*472( 5 )*92( 17 )*283( 13 )*298( 11 )*202( 8 )*391( 7 )*373( 6 )*526( 6 )*319( 10 )*183( 10 )*334( 9 )*448( 5 )*208( 8 )*525( 6 )*294( 11 )*125( 9 )*374( 5 )*360( 4 )*506( 3 )*307( 4 )*470( 4 )*337( 5 )*366( 3 )*422( 6 )*413( 7 )*370( 8 )*489( 4 )*341( 5 )*5( 21 )*178( 12 )*244( 5 )*318( 4 )*88( 7 )*426( 12 )*500( 3 )*453( 12 )*498( 8 )*427( 4 )*523( 5 )*381
+
+--Period :3--
+Room 0( 400 ) :394( 7 )*68( 17 )*4( 24 )*36( 18 )*120( 13 )*418( 10 )*167( 10 )*444( 6 )*204( 12 )*339( 5 )*148( 9 )*513( 3 )*473( 12 )*257( 9 )*357( 9 )*402( 11 )*157( 5 )*376( 4 )*201( 5 )*485( 5 )*495( 1 )*482( 5 )*321( 2 )*102( 11 )*43( 23 )*403( 4 )*135( 12 )*411( 9 )*524( 2 )*34( 12 )*265( 9 )*192( 10 )*290( 6 )*264( 9 )*344( 7 )*170( 5 )*352( 7 )*328
+
+--Period :4--
+Room 0( 400 ) :21( 39 )*76( 18 )*501( 5 )*326( 3 )*516( 2 )*463( 8 )*510( 3 )*441( 3 )*259( 7 )*80( 12 )*365( 15 )*115
+
+--Period :5--
+Room 0( 400 ) :27( 33 )*99( 20 )*106( 17 )*248( 21 )*467( 7 )*12( 30 )*199( 13 )*64( 11 )*136( 17 )*273( 10 )*383( 10 )*271( 12 )*479( 3 )*127( 11 )*449( 3 )*478( 6 )*399( 3 )*215( 7 )*387( 4 )*238( 5 )*389( 3 )*314( 13 )*484( 4 )*168( 13 )*141( 17 )*466( 9 )*276( 12 )*503( 3 )*228( 9 )*22( 21 )*281( 11 )*358
+
+--Period :6--
+Room 0( 400 ) :50( 27 )*161( 6 )*110( 23 )*44( 27 )*103( 13 )*348( 6 )*70( 17 )*309( 9 )*261( 15 )*229( 8 )*9( 26 )*251( 13 )*267( 12 )*415( 4 )*311( 2 )*288( 6 )*181( 11 )*458( 5 )*85( 16 )*151( 11 )*91( 16 )*358( 7 )*519( 5 )*362( 5 )*406( 2 )*142( 5 )*280( 1 )*490( 5 )*33( 20 )*451( 5 )*243( 8 )*152( 15 )*416( 4 )*75( 16 )*105( 9 )*407( 6 )*132( 10 )*396
+
+--Period :7--
+Room 0( 400 ) :26( 29 )*56( 29 )*79( 16 )*111( 14 )*150( 16 )*378( 15 )*119
+
+--Period :8--
+Room 0( 400 ) :180( 16 )*6( 30 )*98( 22 )*123( 22 )*39( 23 )*94( 10 )*121( 18 )*175( 17 )*401( 8 )*18( 28 )*247( 7 )*350( 8 )*385( 5 )*461( 10 )*372( 5 )*497( 5 )*521( 10 )*364( 5 )*134( 12 )*410( 6 )*65( 14 )*499( 8 )*390( 7 )*438( 4 )*338( 5 )*61( 18 )*145( 10 )*335( 13 )*442( 4 )*84( 9 )*302( 7 )*346( 12 )*378
+
+--Period :9--
+Room 0( 400 ) :55( 22 )*57( 21 )*100( 16 )*54( 23 )*38( 16 )*191( 15 )*336( 4 )*382( 9 )*328( 8 )*400( 3 )*414( 7 )*184( 14 )*128( 21 )*471( 7 )*446( 8 )*375( 7 )*291( 12 )*437( 5 )*343( 7 )*200( 11 )*423( 14 )*194( 11 )*289( 8 )*299( 6 )*420( 9 )*522( 2 )*435( 4 )*396( 8 )*502( 4 )*137( 8 )*310
+
+--Period :10--
+Room 0( 400 ) :11( 32 )*31( 35 )*212( 10 )*83( 22 )*101( 16 )*185( 16 )*153( 15 )*146( 29 )*159( 19 )*194
+
+--Period :11--
+Room 0( 400 ) :17( 23 )*67( 19 )*8( 28 )*40( 23 )*147( 6 )*508( 3 )*284( 7 )*42( 20 )*386( 12 )*116( 15 )*207( 19 )*166( 15 )*421( 3 )*342( 4 )*496( 6 )*139( 6 )*469( 4 )*173( 8 )*203( 17 )*129( 8 )*306( 6 )*196( 17 )*49( 21 )*445( 9 )*285( 9 )*363( 7 )*41( 24 )*217( 8 )*188( 7 )*425( 7 )*361
+
+--Period :12--
+Room 0( 400 ) :60( 18 )*24( 31 )*253( 6 )*82( 17 )*235( 8 )*87( 19 )*218( 10 )*138( 6 )*219( 8 )*477( 6 )*507( 5 )*340( 9 )*226( 6 )*450( 4 )*455( 8 )*176( 14 )*149( 14 )*122( 23 )*45( 11 )*475( 8 )*464( 4 )*331( 5 )*356( 6 )*398( 4 )*2( 24 )*492( 4 )*268( 11 )*163( 16 )*205( 14 )*211( 15 )*71( 12 )*114( 18 )*325( 5 )*381( 9 )*378
+
+--Period :13--
+Room 0( 400 ) :190( 16 )*30( 27 )*310( 10 )*19( 27 )*80
+
+--Period :14--
+Room 0( 400 ) :28( 22 )*3( 31 )*164( 17 )*303( 4 )*133( 12 )*158( 9 )*32( 13 )*47( 24 )*118( 16 )*29( 20 )*509( 3 )*345( 7 )*316( 10 )*232( 8 )*115( 15 )*304( 9 )*240( 9 )*210( 4 )*408( 12 )*130( 16 )*353( 8 )*160( 18 )*393( 6 )*349( 12 )*74( 18 )*193( 15 )*379( 8 )*197( 8 )*131( 15 )*300( 5 )*182( 10 )*177( 10 )*317( 6 )*400
+
+--Period :15--
+Room 0( 400 ) :58( 22 )*78( 18 )*436( 5 )*53( 23 )*97( 17 )*333( 15 )*404( 5 )*266( 17 )*72( 23 )*73( 7 )*254( 10 )*93( 14 )*255( 12 )*224( 9 )*483( 4 )*223( 10 )*236( 13 )*287( 6 )*504( 6 )*520( 7 )*274( 14 )*209( 14 )*332( 9 )*322( 5 )*312( 7 )*355( 5 )*511( 5 )*241( 13 )*359( 8 )*315( 9 )*140( 4 )*250( 10 )*440( 5 )*262( 9 )*462( 10 )*126( 9 )*277( 7 )*225( 14 )*400
+
+--Period :16--
+Room 0( 400 ) :25( 32 )*481( 6 )*16( 27 )*48( 21 )*206( 9 )*214( 8 )*384( 11 )*239( 8 )*272( 14 )*392( 13 )*258( 13 )*377( 5 )*395( 7 )*231( 15 )*124( 20 )*476( 5 )*429( 7 )*112( 10 )*430( 7 )*456( 12 )*295( 7 )*292( 5 )*405( 7 )*263( 10 )*216( 5 )*117( 24 )*96( 15 )*297( 9 )*162( 11 )*474( 12 )*109( 18 )*380( 13 )*386
+
+--Period :17--
+Room 0( 400 ) :245( 19 )*10( 34 )*37( 20 )*73
+
+--Period :18--
+Room 0( 400 ) :491( 3 )*465( 4 )*143( 14 )*457( 5 )*323( 9 )*260( 5 )*7( 30 )*172( 20 )*252( 6 )*279( 16 )*119( 24 )*313( 8 )*108( 17 )*237( 9 )*227( 20 )*286( 11 )*452( 10 )*494( 7 )*171( 9 )*59( 23 )*305( 8 )*269( 6 )*460( 6 )*113( 6 )*439( 8 )*230( 9 )*179( 8 )*189( 7 )*488( 7 )*187( 7 )*324( 7 )*165( 6 )*388( 8 )*354( 5 )*221( 11 )*371( 7 )*95( 15 )*381
+
+--Period :19--
+Room 0( 400 ) :13( 35 )*155( 18 )*368( 9 )*81( 13 )*86( 15 )*270( 8 )*89( 15 )*327( 12 )*195( 11 )*320( 8 )*198( 14 )*1( 13 )*242( 10 )*447( 8 )*107( 12 )*169( 21 )*77( 18 )*293( 10 )*174( 10 )*278( 7 )*63( 10 )*156( 9 )*52( 17 )*432( 6 )*309
+
+NUM_EXAM : 526
+UNSCHED : 0
+
+max_fitness: 367
+conflict: 143
+130 1662 1946 1987 1946 1662 67 133 68 131 130 130 9992
+dene 1
+11
+9999
+dene 1
+done 2 1866
+done 3 4264
+done 3 5463
+done 5 7739
+done 2 3245
+done 4 6411
+dene 2
+dene 3
+time: 130703

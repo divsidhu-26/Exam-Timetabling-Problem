@@ -1,0 +1,5 @@
+plt.plot(x,y1,'b')
+plt.xlabel('K')
+plt.ylabel('Broadcast time')
+plt.title('1a MeanTime vs K ')
+plt.show()

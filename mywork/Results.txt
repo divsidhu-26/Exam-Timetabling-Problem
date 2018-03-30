@@ -1,0 +1,23 @@
+exams and enrolments
+		Periods		Rooms			Conflicts			Unscheduled			Time
+		36			1550			3					0					6-8 sec
+		32			1550	 		7					0					||
+		28			1550	 		79					2					12-13 sec
+									206					1
+		26			1550			223					3			
+									450					2
+		24			1550			334					9					11-15 sec
+														
+
+
+
+																																	
+Input			Periods 	Rooms			Conflicts			Unscheduled			Students	Time								
+tre				35			655				79					0					14901		2-3 sec	
+											67					0	
+cars91			51			1550			308					0					16926		40-50 sec		//4
+								
+carf92			40			2000			640					5					18419		60-80 sec		//11
+kfu				20			1955			1043				5					5439		13 sec
+											595					6								||	
+utas			38			2800			619					10					21329		70-100 sec		//6
